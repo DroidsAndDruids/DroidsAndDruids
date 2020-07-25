@@ -2,8 +2,7 @@ markdown:         kramdown
 
 # Setup
 title:            Droids And Druids
-tagline:          'A Jekyll theme'
-description:      'Un podcast de ciencia ficción y fantasía'
+description:      'Un podcast sobre ciencia ficción y fantasía'
 url:              https://droidsanddruids.com
 baseurl:          /
 
