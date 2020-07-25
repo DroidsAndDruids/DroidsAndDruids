@@ -1,10 +1,4 @@
-# Dependencies
 markdown:         kramdown
-highlighter:      pygments
-
-# Permalinks
-# permalink:        pretty
-# relative_permalinks: true
 
 # Setup
 title:            Droids And Druids
@@ -13,15 +7,9 @@ description:      'Un podcast de ciencia ficción y fantasía'
 url:              https://droidsanddruids.com
 baseurl:          /
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
 paginate:         5
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
-
+social:
+  twitter:        https://twitter.com/DroidsAndDruids
+  instagram:      https://www.instagram.com/droidsanddruids/
+  github:         https://github.com/DroidsAndDruids

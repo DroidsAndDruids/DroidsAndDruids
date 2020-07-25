@@ -54,10 +54,8 @@ html {
  */
 
 .sidebar {
-  text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #503368;
+  color: #4d187a;
 }
 
 .sidebar-footer {
@@ -76,15 +74,18 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: #4d187a;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
   margin-top: 0;
   font-size: 1.5rem;
-  text-align: center;
+}
+
+.sidebar-logo {
+  opacity: 0.75;
+  padding: 1em 0
 }
 
 /* Sidebar nav */
@@ -102,6 +103,12 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+.sidebar-social {
+  margin: .5rem 0;
+}
+.sidebar-nav-item.sidebar-social-item {
+  font-size: .8rem;
+}
 
 /* Sticky sidebar
  *
@@ -115,6 +122,9 @@ a.sidebar-nav-item:focus {
     top:      4rem;
     display:  flex;
     flex-direction: column;
+  }
+  .sidebar-logo {
+    height: 220px;
   }
 }
 
@@ -142,6 +152,9 @@ a.sidebar-nav-item:focus {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
+  }
+  .sidebar-logo {
+    height: 220px;
   }
 }
 
@@ -251,4 +264,17 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+.holographic {
+  /* height: 100vh;
+  width: 100vw; */
+  background-image: linear-gradient(
+    to right,
+    rgb(194, 255, 182),
+    rgb(255, 163, 182),
+    rgb(221, 169, 255),
+    rgb(162, 209, 255)
+  );
+  background-size: 200%;
 }

@@ -1,4 +1,4 @@
-<div class="sidebar">
+<div class="sidebar holographic">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
@@ -6,12 +6,12 @@
           {{ site.title }}
         </a>
       </h1>
-      <img src="{{ site.baseurl }}public/images/heads.png" />
+      <img class="sidebar-logo" src="{{ site.baseurl }}public/images/heads.png" />
       <p class="lead">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Principal</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Episodios</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -28,6 +28,10 @@
       {% endfor %}
     </nav>
 
-    <p class="sidebar-footer">&copy; {{ site.time | date: '%Y' }}. Todos los derechos reservados.</p>
+    <section class="sidebar-social">
+      <a target="_blank" class="sidebar-nav-item sidebar-social-item" href="{{ site.social.twitter }}">Twitter</a>
+      <a target="_blank" class="sidebar-nav-item sidebar-social-item" href="{{ site.social.instagram }}">Instagram</a>
+      <a target="_blank" class="sidebar-nav-item sidebar-social-item" href="{{ site.social.github }}">Github</a>
+    </section>
   </div>
 </div>
