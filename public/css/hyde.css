@@ -70,6 +70,7 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: center;
+    overflow: scroll;
   }
 }
 
@@ -128,7 +129,8 @@ a.sidebar-nav-item:focus {
     flex-direction: column;
   }
   .sidebar-logo {
-    height: 220px;
+    width: 220px;
+    margin: 0 auto;
   }
 }
 
@@ -158,7 +160,7 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
   .sidebar-logo {
-    height: 220px;
+    width: 220px;
   }
 }
 
