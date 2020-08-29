@@ -4,6 +4,10 @@ title: La Revista
 order: 2
 ---
 
+## REVISTA Droids & Druids
+
+Una revista digital de ciencia ficción y género fantástico, cuyos números se publicará en la plataforma Lektu bajo ISSN.
+
 Aquí encontraras todo lo relacionado con nuestra revista, ¡sigue leyendo para no perderte nada!
 
 {% assign posts = site.posts | where: "categories","revista" %}
@@ -13,7 +17,7 @@ Aquí encontraras todo lo relacionado con nuestra revista, ¡sigue leyendo para 
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
-        {{ post.title }}
+        {{ post.title }} →
       </a>
     </h1>
 
