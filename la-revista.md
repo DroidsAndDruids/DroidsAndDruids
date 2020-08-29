@@ -1,10 +1,15 @@
 ---
-layout: default
-title: Home
+layout: page
+title: La Revista
+order: 2
 ---
 
+Aquí encontraras todo lo relacionado con nuestra revista, ¡sigue leyendo para no perderte nada!
+
+{% assign posts = site.posts | where: "categories","revista" %}
+
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -16,13 +21,11 @@ title: Home
 
     <p>{{ post.description }}</p>
 
-    <iframe id="audio_{{post.audio}}" frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_{{post.audio}}_4_1.html?c1=ff6600"></iframe>
-
   </div>
   {% endfor %}
 </div>
 
-{% if site.posts.size > 5 %}
+{% if posts.size > 5 %}
 <div class="pagination">
     {% if paginator.next_page %}
       <a class="pagination-item older" href="page{{paginator.next_page}}">Atrás</a>

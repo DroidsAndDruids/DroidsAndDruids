@@ -1,10 +1,45 @@
 ---
 layout: page
 title: El Podcast
+order: 1
 ---
 
-Hola, terrícola. Gracias por pasarte por nuestro humilde hueco en Internet. Nosotras somos [Inés Galiano](https://twitter.com/InesGalianoT), [Amanda Iniesta](https://twitter.com/IniestaAmanda) y [Elena Torró](https://twitter.com/BytesAndHumans), unas amigas marcianas... perdón, **murcianas**, que hemos decidido compartir nuestras conversaciones sobre libros, series, comics, y todo lo relacionado con la ciencia ficción y la fantasía. Lo mismo que hacemos por WhatsApp, vaya, pero en público.
+{% assign posts = site.posts | where: "categories","podcast" %}
 
-Cada mes publicamos un nuevo episodio, y alternamos entre una **temática** y un **club de lectura**. Tenemos una lista algo ambiciosa con muchos temas sobre los que queremos hablar, y muchas ganas de compartirlo con todo aquél que quiera escucharnos.
+<div class="posts">
+  {% for post in posts %}
+  <div class="post">
+    <h3 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }} →
+      </a>
+    </h3>
 
-Además, también tenemos muy en cuenta los comentarios de nuestra querida y adorada audiencia (mayoritariamente compuesta por nuestros familiares y amigos, tampoco nos vamos a engañar), por lo que no olvides seguirnos por nuestras redes sociales si queréis estar al día y contactar con nosotras.
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    <p>{{ post.description }}</p>
+
+    <iframe id="audio_{{post.audio}}" frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_{{post.audio}}_4_1.html?c1=ff6600"></iframe>
+
+  </div>
+  {% endfor %}
+</div>
+
+{% if posts.size > 5 %}
+<div class="pagination">
+    {% if paginator.next_page %}
+      <a class="pagination-item older" href="page{{paginator.next_page}}">Atrás</a>
+    {% else %}
+      <span class="pagination-item older">Atrás</span>
+    {% endif %}
+    {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+        <a class="pagination-item newer" href="">Adelante</a>
+      {% else %}
+        <a class="pagination-item newer" href="page{{paginator.previous_page}}">Adelante</a>
+      {% endif %}
+    {% else %}
+      <span class="pagination-item newer">Adelante</span>
+    {% endif %}
+</div>
+{% endif %}
