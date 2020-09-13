@@ -13,7 +13,7 @@ body {
   top: 0;
   display: flex;
   width: 100%;
-  z-index: 2;
+  z-index: 1;
 }
 
 .dd-navbar-mobile {
@@ -46,7 +46,7 @@ img.dd-logo {
 }
 
 .dd-header {
-  background-color: black;
+  background-color: #1b2735;
   background-image: url('/public/images/background.jpg');
   width: 100%;
   height: 100vh;
@@ -152,7 +152,9 @@ img.dd-logo {
 }
 
 .dd-action-button {
-  border: 1px solid white;
+  border: 1px solid #1b2735;
+  color: #1b2735;
+  background-color: white;
   padding: .5em 1em;
 }
 
@@ -172,6 +174,7 @@ img.dd-logo {
     right: 0;
     padding-top: 128px;
     background-color: #5c376d;
+    z-index: 2;
   }
 
   .dd-navbar.active {
@@ -179,7 +182,7 @@ img.dd-logo {
   }
 
   .dd-navbar-mobile {
-    position: absolute;
+    position: fixed;
     display: block;
     z-index: 3;
     width: 100vw;
@@ -187,8 +190,8 @@ img.dd-logo {
 
   .dd-navbar-mobile a {
     position: absolute;
-    margin: 1em auto;
-    right: calc(50vw - 37.5px);
+    padding: 1em;
+    left: 1em;
   }
 
   .dd-navbar-mobile button {
