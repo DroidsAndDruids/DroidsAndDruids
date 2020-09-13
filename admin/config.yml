@@ -12,7 +12,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", required: true }
       - {label: "Audio", name: "audio", widget: "string", require: true }
       - {label: "Publish Date", name: "date", widget: "datetime", required: true }
@@ -25,7 +25,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", required: true }
       - {label: "Image", name: "image", widget: "string", require: true }
       - {label: "Publish Date", name: "date", widget: "datetime", required: true }
@@ -38,7 +38,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", required: true }
       - {label: "Image", name: "image", widget: "string", require: false }
       - {label: "Publish Date", name: "date", widget: "datetime", required: true }

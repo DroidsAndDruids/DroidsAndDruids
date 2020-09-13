@@ -1,0 +1,26 @@
+<nav class="dd-navbar-mobile">
+  <a href="{{ site.baseurl }}">
+    <img class="dd-logo" src="{{ site.baseurl }}public/images/logo_circle.png" alt="">
+  </a>
+  <button id="dd-open-button" class="dd-action-button active">menú</button>
+  <button id="dd-close-button" class="dd-action-button">cerrar</button>
+</nav>
+
+<nav id="dd-navbar" class="dd-navbar">
+  <ul class="dd-navbar-list">
+    {% assign pages_list = site.pages | sort: 'order' | where: "layout", "page" %}
+    {% assign logo_index = 2 %}
+    {% for node in pages_list %}
+    <li class="dd-navbar-item{% if page.url == node.url %} active{% endif %}">
+      <a href="{{ node.url }}">{{ node.title }}</a>
+    </li>
+    {% if forloop.index == logo_index %}
+    <li class="dd-navbar-item dd-main">
+      <a href="{{ site.baseurl }}">
+        <img class="dd-logo" src="{{ site.baseurl }}public/images/logo_circle.png" alt="">
+      </a>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</nav>

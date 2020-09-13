@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Sobre Nosotras
+title: nosotras
 categories: personal
-order: 3
+order: 4
 ---
 
 Hola, terrícola. Gracias por pasarte por nuestro humilde hueco en Internet. Nosotras somos [Inés Galiano](https://twitter.com/InesGalianoT), [Amanda Iniesta](https://twitter.com/IniestaAmanda) y [Elena Torró](https://twitter.com/BytesAndHumans), unas amigas marcianas... perdón, **murcianas**, que hemos decidido compartir nuestras conversaciones sobre libros, series, comics, y todo lo relacionado con la ciencia ficción y la fantasía. Lo mismo que hacemos por WhatsApp, vaya, pero en público.

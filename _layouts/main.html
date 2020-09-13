@@ -6,15 +6,8 @@
   <body>
 
     {% include navbar.html %}
-
-    <div class="dd-container">
-      <div class="dd-container-page">
-        {{ content }}
-      </div>
-    </div>
-    <div id="stars"></div>
-    <div id="stars2"></div>
-    <div id="stars3"></div>
+    {% include header.html %}
+    {% include footer.html %}
 
     <script>
       if (window.netlifyIdentity) {
