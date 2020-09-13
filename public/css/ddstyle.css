@@ -164,7 +164,17 @@ img.dd-logo {
 
 @media (min-width : 375px) and (max-width : 667px) {
   .dd-header h1 {
-    font-size: 58px;
+    font-size: 36px;
+    letter-spacing: 10px;
+  }
+
+  .dd-subtitle {
+    font-size: 18px;
+    z-index: 1;
+    letter-spacing: 0;
+    line-height: 1.5;
+    padding: 1em 0;
+    width: 75vw;
   }
 
   .dd-navbar {
@@ -224,5 +234,15 @@ img.dd-logo {
 
   .dd-container-page {
     padding: 0 2em;
+    width: 100%;
+    margin: 128px 2em 0 2em;
+  }
+
+  .dd-page {
+    padding: 1em 0;
+  }
+
+  .dd-page-title {
+    padding: 1em 0;
   }
 }
