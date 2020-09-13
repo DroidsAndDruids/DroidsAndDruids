@@ -1,6 +1,6 @@
 ---
 layout: page
-title: El Podcast
+title: podcast
 order: 1
 ---
 

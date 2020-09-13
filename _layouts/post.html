@@ -2,24 +2,25 @@
 layout: default
 ---
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
+<article class="dd-page">
+  <h1 class="dd-page-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
 
-  {% if page.audio %}
-    <iframe id="audio_{{page.audio}}" frameborder='0' allowfullscreen='' scrolling='no' height='200' style='box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_{{page.audio}}_4_1.html?c1=ff6600"></iframe>
-  {% endif %}
-  <div class="post-content">
-    {{ page.description }}
-    {{ content }}
-  </div>
-</div>
+  {{ page.description }}
 
-{% if site.posts.size > 2 %}
-<div class="related">
-  <h2>Post relacionados:</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
+  {% if page.audio %}
+  <iframe class="dd-audio" id="audio_{{page.audio}}" frameborder='0' allowfullscreen='' scrolling='no' height='200'
+    style='box-sizing:border-box; width:100%;'
+    src="https://www.ivoox.com/player_ej_{{page.audio}}_4_1.html?c1=ff6600"></iframe>
+  {% endif %}
+
+  {{ content }}
+
+  {% if site.posts.size > 2 %}
+  <div class="related">
+    <h2>Post relacionados:</h2>
+    <ul class="related-posts">
+      {% for post in site.related_posts limit:3 %}
       <li>
         <h3>
           <a href="{{ post.url }}">
@@ -28,7 +29,9 @@ layout: default
           </a>
         </h3>
       </li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+</article>

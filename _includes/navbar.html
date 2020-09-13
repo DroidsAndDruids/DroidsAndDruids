@@ -1,0 +1,19 @@
+<nav class="dd-navbar">
+  <ul class="dd-navbar-list">
+    {% assign pages_list = site.pages | sort: 'order' | where: "layout", "page" %}
+    {% assign logo_index = 2 %}
+    {% for node in pages_list %}
+    <li>
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+        href="{{ node.url }}">{{ node.title }}</a>
+    </li>
+    {% if forloop.index == logo_index %}
+    <li>
+      <a href="{{ site.baseurl }}">
+        <img class="dd-logo" src="{{ site.baseurl }}public/images/logo_circle.png" alt="">
+      </a>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</nav>

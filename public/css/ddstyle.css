@@ -1,0 +1,152 @@
+body,
+html {
+  height: 100%;
+}
+
+body {
+  font-family: 'Ubuntu';
+  color: white;
+}
+
+.dd-navbar {
+  position: fixed;
+  top: 0;
+  display: flex;
+  width: 100%;
+  z-index: 1;
+}
+
+.dd-navbar ul {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  height: 128px;
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.dd-navbar ul li {
+  list-style: none;
+  padding: 1em 2.5em;
+}
+
+.dd-navbar ul li a {
+  color: white;
+}
+
+.dd-logo {
+  width: 75px;
+  margin: 0;
+}
+
+.dd-header {
+  background-color: black;
+  background-image: url('/public/images/background.jpg');
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  padding: 2em 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: lighter;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+}
+
+.dd-header::before {
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  opacity: 0.5;
+  position: absolute;
+  z-index: 0;
+  content: ' ';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.dd-container {
+  background-image: url('/public/images/background.jpg');
+  min-height: 100%;
+  color: #1b2735;
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+}
+
+.dd-container::before {
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  opacity: 0.75;
+  position: fixed;
+  z-index: 0;
+  content: ' ';
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100%;
+}
+
+.dd-container-page {
+  display: flex;
+  padding: 0 128px;
+  margin-top: 128px;
+  width: 75vw;
+  min-height: 100%;
+  background-color: white;
+  z-index: 1;
+  flex-direction: column;
+}
+
+.dd-page {
+  padding: 2em 0;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.dd-page-title {
+  padding: 2em 0;
+  margin: 0;
+  text-align: center;
+  font-size: 36px;
+  text-transform: capitalize;
+}
+
+.dd-header h1 {
+  font-size: 112px;
+  font-weight: 100;
+  color: white;
+  z-index: 1;
+  letter-spacing: 20px;
+}
+
+.dd-subtitle {
+  font-size: 36px;
+  z-index: 1;
+  letter-spacing: 10px;
+  line-height: 1.5;
+  padding: 1em 0;
+  width: 50vw;
+}
+
+.dd-footer {
+  padding: 1em 2em;
+  position: absolute;
+  display: flex;
+  bottom: 0;
+}
+
+.dd-copyright {
+  opacity: 0.6;
+}
+
+.dd-audio {
+  margin: 2em 0;
+}
