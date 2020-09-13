@@ -13,10 +13,14 @@ body {
   top: 0;
   display: flex;
   width: 100%;
-  z-index: 1;
+  z-index: 2;
 }
 
-.dd-navbar ul {
+.dd-navbar-mobile {
+  display: none;
+}
+
+.dd-navbar ul.dd-navbar-list {
   display: flex;
   width: 100%;
   justify-content: center;
@@ -36,7 +40,7 @@ body {
   color: white;
 }
 
-.dd-logo {
+img.dd-logo {
   width: 75px;
   margin: 0;
 }
@@ -147,6 +151,75 @@ body {
   opacity: 0.6;
 }
 
+.dd-action-button {
+  border: 1px solid white;
+  padding: .5em 1em;
+}
+
 .dd-audio {
   margin: 2em 0;
+}
+
+@media (min-width : 375px) and (max-width : 667px) {
+  .dd-header h1 {
+    font-size: 58px;
+  }
+
+  .dd-navbar {
+    display: none;
+    justify-content: end;
+    width: 50vw;
+    right: 0;
+    padding-top: 128px;
+    background-color: #5c376d;
+  }
+
+  .dd-navbar.active {
+    display: block;
+  }
+
+  .dd-navbar-mobile {
+    position: absolute;
+    display: block;
+    z-index: 3;
+    width: 100vw;
+  }
+
+  .dd-navbar-mobile a {
+    position: absolute;
+    margin: 1em auto;
+    right: calc(50vw - 37.5px);
+  }
+
+  .dd-navbar-mobile button {
+    position: absolute;
+    right: 2em;
+    top: 1.5em;
+  }
+
+  .dd-navbar-mobile button#dd-close-button,
+  .dd-navbar-mobile button#dd-open-button {
+    display: none;
+  }
+
+  .dd-navbar-mobile button#dd-close-button.active,
+  .dd-navbar-mobile button#dd-open-button.active {
+    display: block;
+  }
+
+  .dd-navbar ul.dd-navbar-list {
+    flex-direction: column;
+    height: 100vh;
+    width: 50vw;
+    align-items: flex-end;
+    justify-content: start;
+  }
+
+  .dd-navbar-item.dd-main {
+    display: none;
+  }
+
+  .dd-container-page {
+    padding: 0 2em;
+  }
 }

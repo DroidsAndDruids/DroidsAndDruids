@@ -19,6 +19,22 @@
           }
         });
       }
+
+      var openButton$ = document.getElementById('dd-open-button')
+      var closeButton$ = document.getElementById('dd-close-button')
+      var navbar$ = document.getElementById('dd-navbar')
+
+      openButton$.addEventListener('click', function () {
+        navbar$.classList.add('active')
+        closeButton$.classList.add('active')
+        openButton$.classList.remove('active')
+      })
+
+      closeButton$.addEventListener('click', function () {
+        navbar$.classList.remove('active')
+        closeButton$.classList.remove('active')
+        openButton$.classList.add('active')
+      })
     </script>
   </body>
 </html>
