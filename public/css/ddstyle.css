@@ -46,7 +46,7 @@ img.dd-logo {
 }
 
 .dd-header {
-  background-color: black;
+  background-color: #1b2735;
   background-image: url('/public/images/background.jpg');
   width: 100%;
   height: 100vh;
@@ -152,7 +152,9 @@ img.dd-logo {
 }
 
 .dd-action-button {
-  border: 1px solid white;
+  border: 1px solid #1b2735;
+  color: #1b2735;
+  background-color: white;
   padding: .5em 1em;
 }
 
@@ -160,9 +162,34 @@ img.dd-logo {
   margin: 2em 0;
 }
 
+@media (max-height : 675px) {
+  .dd-header h1 {
+    font-size: 56px;
+    letter-spacing: 10px;
+  }
+
+  .dd-subtitle {
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 1.5;
+    padding: 1em 0;
+    width: 75vw;
+  }
+}
+
 @media (min-width : 375px) and (max-width : 667px) {
   .dd-header h1 {
-    font-size: 58px;
+    font-size: 36px;
+    letter-spacing: 10px;
+  }
+
+  .dd-subtitle {
+    font-size: 18px;
+    z-index: 1;
+    letter-spacing: 0;
+    line-height: 1.5;
+    padding: 1em 0;
+    width: 75vw;
   }
 
   .dd-navbar {
@@ -172,6 +199,7 @@ img.dd-logo {
     right: 0;
     padding-top: 128px;
     background-color: #5c376d;
+    z-index: 2;
   }
 
   .dd-navbar.active {
@@ -179,7 +207,7 @@ img.dd-logo {
   }
 
   .dd-navbar-mobile {
-    position: absolute;
+    position: fixed;
     display: block;
     z-index: 3;
     width: 100vw;
@@ -187,8 +215,8 @@ img.dd-logo {
 
   .dd-navbar-mobile a {
     position: absolute;
-    margin: 1em auto;
-    right: calc(50vw - 37.5px);
+    padding: 1em;
+    left: 1em;
   }
 
   .dd-navbar-mobile button {
@@ -221,6 +249,16 @@ img.dd-logo {
 
   .dd-container-page {
     padding: 0 2em;
+    width: 100%;
+    margin: 128px 2em 0 2em;
+  }
+
+  .dd-page {
+    padding: 1em 0;
+  }
+
+  .dd-page-title {
+    padding: 1em 0;
   }
 }
 
