@@ -3,7 +3,8 @@ layout: page
 title: "Bases convocatoria revista número II: CRIATURAS"
 image: "-"
 date: 2020-11-23T19:55:34.484Z
-description: "-"
+description: Recepción de relatos/artículos para el número II de la revista,
+  abierta hasta el 15 de Enero de 2021
 category: noticias
 ---
 Recepción de relatos/artículos para el **número II: CRIATURAS**, abierta hasta el 15 de Enero de 2021
