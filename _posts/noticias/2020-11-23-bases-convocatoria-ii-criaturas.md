@@ -8,7 +8,7 @@ category: noticias
 ---
 Recepción de relatos/artículos para el **número II: CRIATURAS**, abierta hasta el 15 de Enero de 2021
 
-## ¡Primera convocatoria abierta!
+## ¡Convocatoria abierta para la Revista Droids&Druids!
 
 > ⚠️ Hasta el 15 de Enero de 2021 ⚠️
 
