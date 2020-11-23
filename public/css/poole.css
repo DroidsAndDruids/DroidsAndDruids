@@ -81,7 +81,7 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  margin-bottom: .75rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -91,7 +91,7 @@ h1 {
   font-size: 1.5rem;
 }
 h2 {
-  margin-top: 1rem;
+  margin: 1.5rem 0;
   font-size: 1.25rem;
 }
 h3 {
