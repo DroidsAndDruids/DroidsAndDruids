@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<article class="dd-page">
+  <h1 class="dd-page-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+
+  <section class="dd-revista-container">
+    {% if page.image %}
+    <aside class="dd-revista-image">
+      <a 
+        class="book-container"
+        href="{{ page.lektu }}"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
+        <div class="book">
+          <img
+            alt="Logo revista"
+            src="{{ site.baseurl }}public/images/{{ page.image }}"
+            />
+        </div>
+      </a>
+    </aside>
+    {% endif %}
+
+    <div class="dd-revista-content">
+      <p>{{ page.description }}</p>
+
+      {{ content }}
+    </div>
+  </section>
+
+  {% if site.posts.size > 2 %}
+  <div class="related">
+    <h2>Post relacionados:</h2>
+    <ul class="related-posts">
+      {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }} →
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+</article>

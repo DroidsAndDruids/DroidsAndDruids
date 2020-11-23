@@ -1,6 +1,7 @@
 ---
 layout: page
 title: noticias
+title_page: Noticias
 order: 3
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: nosotras
+title_page: Sobre nosotras
 categories: personal
 order: 4
 ---
