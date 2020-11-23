@@ -1,12 +1,16 @@
 ---
 layout: post
 title: Número 1 de la Revista Droids&Druids
-image: https://lektu-p.fra1.cdn.digitaloceanspaces.com/assets/u/py/droids_and_druids_num_1_nov_2020_15220_EKxDpQpy.jpg
+image: a
 date: 2020-11-23T19:26:45.046Z
 description: ¡Ya está aquí!
 category: revista
 ---
 Primer número de la revista Droids & Druids en el que encontrarás artículos, relatos y reseñas sobre ciencia ficción y fantasía.
+
+Descárgala gratuitamente en Lektu:
+
+https://lektu.com/l/droidsdruids/droids-and-druids-num-1-nov-2020/15220
 
 CONTENIDO
 
