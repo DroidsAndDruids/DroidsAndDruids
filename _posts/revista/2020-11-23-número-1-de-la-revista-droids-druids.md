@@ -8,9 +8,7 @@ category: revista
 ---
 Primer número de la revista Droids & Druids en el que encontrarás artículos, relatos y reseñas sobre ciencia ficción y fantasía.
 
-Descárgala gratuitamente en Lektu:
-
-https://lektu.com/l/droidsdruids/droids-and-druids-num-1-nov-2020/15220
+Descárgala gratuitamente en [Lektu](https://lektu.com/l/droidsdruids/droids-and-druids-num-1-nov-2020/15220)
 
 CONTENIDO
 
