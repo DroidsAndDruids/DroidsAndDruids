@@ -168,8 +168,9 @@ img.dd-logo {
 
 .dd-action-button {
   border: 1px solid #1b2735;
-  color: #1b2735;
-  background-color: white;
+  border-radius: 10px;
+  background-color: rgba(0,0,0, 0.5);
+  color: white;
   padding: .5em 1em;
   display: none;
 }
