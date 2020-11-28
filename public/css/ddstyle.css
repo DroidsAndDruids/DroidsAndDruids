@@ -171,6 +171,14 @@ img.dd-logo {
   color: #1b2735;
   background-color: white;
   padding: .5em 1em;
+  display: none;
+}
+
+.dd-action-button.active {
+  display: block;
+  position: absolute;
+  top: 2em;
+  right: 2em;
 }
 
 .dd-audio {

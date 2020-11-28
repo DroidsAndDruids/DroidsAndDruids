@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Noticias
-title_page: Noticias
-order: 4
+title: Blog
+title_page: Blog
+order: 3
 ---
 
-{% assign posts = site.posts | where: "categories","noticias" %}
+En construcción
+
+{% assign posts = site.posts | where: "categories","blog" %}
 
 <div class="posts">
   {% for post in posts %}

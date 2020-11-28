@@ -1,6 +1,6 @@
 ---
 layout: page
-title: revista
+title: Revista
 title_page: La Revista
 order: 2
 ---
