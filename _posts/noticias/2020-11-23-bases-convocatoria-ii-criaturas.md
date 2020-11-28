@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Bases convocatoria revista número II: CRIATURAS"
 image: "-"
 date: 2020-11-23T19:55:34.484Z
