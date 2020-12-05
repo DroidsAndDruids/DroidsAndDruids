@@ -55,7 +55,54 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", required: true }
       - {label: "Image", name: "image", widget: "string", require: false }
+      - {label: "Author", name: "author", widget: "relation", collection: "team", required: true }
+      - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Publish Date", name: "date", widget: "datetime", required: true }
       - {label: "Description", name: "description", widget: "string", required: true }
       - {label: "Body", name: "body", widget: "markdown", required: false }
       - {label: "Category", name: "category", widget: "markdown", required: true, default: "blog" }
+  - name: "team"
+    label: "Team"
+    create: false
+    fields:
+      - {label: "Name", name: "name", widget: "string", required: true }
+      - {label: "Bio", name: "bio", widget: "string", required: true }
+      - {label: "Twitter", name: "twitter", widget: "string", required: true }
+  - name: 'pages'
+      files:
+        - label: "Podcast"
+          name: "podcast"
+          file: "el-podcast.md"
+          fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Body, name: body, widget: markdown}
+        - label: "Revista"
+          name: "revista"
+          file: "la-revista.md"
+          fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Body, name: body, widget: markdown}
+        - label: "Blog"
+          name: "blog"
+          file: "el-blog.md"
+          fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Body, name: body, widget: markdown}
+        - label: "Noticias"
+          name: "noticias"
+          file: "noticias.md"
+          fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Body, name: body, widget: markdown}
+        - label: "Beca Úrsula"
+          name: "beca-ursula"
+          file: "beca-ursula.md"
+          fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Body, name: body, widget: markdown}
+        - label: "Nosotres"
+          name: "nosotres"
+          file: "sobre-nosotres/equipo.md"
+          fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Body, name: body, widget: markdown}
