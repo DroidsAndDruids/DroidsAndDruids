@@ -20,7 +20,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown", required: false }
       - {label: "Category", name: "category", widget: "markdown", required: true, default: "podcast" }
   - name: 'revista'
-    label: 'Numero Revista'
+    label: 'Revista'
     folder: '_posts/revista'
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -47,7 +47,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown", required: false }
       - {label: "Category", name: "category", widget: "markdown", required: true, default: "noticias" }
   - name: 'blog'
-    label: 'Blog'
+    label: 'Posts'
     folder: '_posts/blog'
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -68,13 +68,13 @@ collections:
           - {label: Name, name: name, widget: string, required: true}
           - {label: Twitter, name: twitter, widget: string, required: false}
           - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Tags", name: "tags", widget: "list", fields: {label: "Tag", name: "tag", widget: "string"}}
       - {label: "Publish Date", name: "date", widget: "datetime", required: true }
       - {label: "Description", name: "description", widget: "string", required: true }
       - {label: "Body", name: "body", widget: "markdown", required: false }
       - {label: "Category", name: "category", widget: "markdown", required: true, default: "blog" }
   - name: "pages"
-    label: "Pages"
+    label: "Páginas estáticas"
     files:
       - label: "Podcast"
         name: "podcast"
@@ -88,7 +88,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Blog"
+      - label: "Post"
         name: "blog"
         file: "el-blog.md"
         fields:
