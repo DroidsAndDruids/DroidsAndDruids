@@ -27,7 +27,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", required: true }
-      - {label: "Image", name: "image", widget: "string", required: false }
+      - {label: "Image", name: "image", widget: "image", required: false }
       - {label: "Lektu", name: "lektu", widget: "string", required: false }
       - {label: "Publish Date", name: "date", widget: "datetime", required: true }
       - {label: "Description", name: "description", widget: "string", required: true }
@@ -41,7 +41,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", required: true }
-      - {label: "Image", name: "image", widget: "string", require: false }
+      - {label: "Image", name: "image", widget: "image", require: false }
       - {label: "Publish Date", name: "date", widget: "datetime", required: true }
       - {label: "Description", name: "description", widget: "string", required: true }
       - {label: "Body", name: "body", widget: "markdown", required: false }
@@ -54,21 +54,27 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", required: true }
-      - {label: "Image", name: "image", widget: "string", require: false }
-      - {label: "Author", name: "author", widget: "relation", collection: "team", value_field: "name", search_fields: "name", multiple: true, required: true }
+      - {label: "Image", name: "image", widget: "image", require: false }
+      - label: Author
+        name: author
+        widget: list
+        required: true
+        fields:
+          - label: "Id"
+            name: "id"
+            widget: "select"
+            options: ["ines-galiano", "elena-torro", "amanda-iniesta"]
+            required: true
+          - {label: Name, name: name, widget: string, required: true}
+          - {label: Twitter, name: twitter, widget: string, required: false}
+          - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Publish Date", name: "date", widget: "datetime", required: true }
       - {label: "Description", name: "description", widget: "string", required: true }
       - {label: "Body", name: "body", widget: "markdown", required: false }
       - {label: "Category", name: "category", widget: "markdown", required: true, default: "blog" }
-  - name: "team"
-    label: "Team"
-    create: false
-    fields:
-      - {label: "Name", name: "name", widget: "string", required: true }
-      - {label: "Bio", name: "bio", widget: "string", required: true }
-      - {label: "Twitter", name: "twitter", widget: "string", required: true }
   - name: "pages"
+    label: "Pages"
     files:
       - label: "Podcast"
         name: "podcast"
