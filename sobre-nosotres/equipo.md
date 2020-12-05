@@ -1,13 +1,66 @@
 ---
 layout: page
-title: Nosotras
+title: Nosotres
 title_page: Sobre nosotras
 categories: personal
 order: 6
 ---
+¿Que qué significa Droids & Druids? Como bien dijo un sabio: “El eterno enfrentamiento entre los amantes de la fantasía épica, inspirada en las épocas antigua y medieval; y los fans de la ciencia ficción más futurista. El duelo está servido. Así que, estimado oyente o lector, solo nos queda preguntarte: ¿A quién quieres más, a mamá o a papá? ¿a Gandalf o a R2-D2?”
 
-Hola, terrícola. Gracias por pasarte por nuestro humilde hueco en Internet. Nosotras somos [Inés Galiano](https://twitter.com/InesGalianoT), [Amanda Iniesta](https://twitter.com/IniestaAmanda) y [Elena Torró](https://twitter.com/BytesAndHumans), unas amigas marcianas... perdón, **murcianas**, que hemos decidido compartir nuestras conversaciones sobre libros, series, comics, y todo lo relacionado con la ciencia ficción y la fantasía. Lo mismo que hacemos por WhatsApp, vaya, pero en público.
 
-Cada mes publicamos un nuevo episodio, y alternamos entre una **temática** y un **club de lectura**. Tenemos una lista algo ambiciosa con muchos temas sobre los que queremos hablar, y muchas ganas de compartirlo con todo aquél que quiera escucharnos.
+¡Bienvenide!
 
-Además, también tenemos muy en cuenta los comentarios de nuestra querida y adorada audiencia (mayoritariamente compuesta por nuestros familiares y amigos, tampoco nos vamos a engañar), por lo que no olvides seguirnos por nuestras redes sociales si queréis estar al día y contactar con nosotras.
+
+(El sabio se llamaba Coté y la tenéis en el equipo revista)
+
+
+
+## EQUIPO PODCAST
+
+Hola, terrícola. Gracias por pasarte por nuestro humilde hueco en Internet. Nosotras somos Inés Galiano, Amanda Iniesta y Elena Torró, unas amigas marcianas… perdón, murcianas, que hemos decidido compartir nuestras conversaciones sobre libros, series, comics, y todo lo relacionado con la ciencia ficción y la fantasía. Lo mismo que hacemos por WhatsApp, vaya, pero en público.
+
+
+Cada mes publicamos un nuevo episodio, y alternamos entre una temática y un club de lectura. Tenemos una lista algo ambiciosa con muchos temas sobre los que queremos hablar, y muchas ganas de compartirlo con todo aquél que quiera escucharnos.
+
+## EQUIPO REVISTA
+
+### Inés Galiano
+
+Editora y redactora.
+Entusiasta, creativa y básicamente workaholic. Necesita un giratiempo para todos los proyectos. Fundar una revista era lo único que le faltaba. 
+
+### María D. Martínez (Mariado)
+
+Editora y redactora.
+Olisqueadora de libros nuevos. Coleccionar revistas en papel le 
+acabará arruinando. Le encantaría tener aparcado el Delorean delante de casa. Lástima que no sepa conducir.
+
+### Toni Abellán
+
+Vice editor ejecutivo y redactor.
+Su mayor logro vital fue ganar una apuesta a los 13 años recitando el guión de La comunidad del anillo (el otro apostante casualmente también participa en esta revista, y se cansó antes de que los Hobbits llegaran a Bree).
+
+### Amanda Iniesta
+
+Revisora y redactora.
+Forma parte de nuestro trío del podcast. Se metió en esto por su pasión por las historias que exploran nuevos mundos. 
+
+### Elena Torró
+
+Revisora y creadora de acertijos.
+El tercio del podcast de Droids and Druids que suele hablar de conexiones aleatorias. Ha tenido que montar un podcast para poder justificar la cantidad de contenido que consume.
+
+### Silvia Rodríguez
+
+Revisora.
+Se inició en la fantasía en Fantasía, y todavía recuerda el berrinche al terminarse la Historia Interminable.
+
+### Coté
+
+Ilustradora de las portadas de la revista.
+Confundiendo los límites entre la fantasía y la realidad desde 1993.
+
+### Genís Robles
+
+Revisor y redactor.
+Le gustó el final de Lost y exige ser pagado en gemas para MTG Arena.
