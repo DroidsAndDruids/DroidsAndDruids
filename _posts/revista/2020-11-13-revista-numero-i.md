@@ -1,7 +1,7 @@
 ---
 layout: revista
 title: Droids And Druids - Número 1
-image: portada_revista_numero_1.jpg
+image: portada_revista_numero_1-min.jpg
 lektu: https://lektu.com/l/droidsdruids/droids-and-druids-num-1-nov-2020/15220
 description: ¡Ya está publicado el primer número de la revista de Droids And Druids!
 categories: revista
