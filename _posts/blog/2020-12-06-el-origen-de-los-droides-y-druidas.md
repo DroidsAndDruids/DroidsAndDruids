@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: El origen de los droides y druidas
 image: "-"
 author:

@@ -379,6 +379,10 @@ and (max-width : 480px) {
   }
 }
 
+.dd-post--author {
+  font-style: italic;
+}
+
 .dd-revista-image {
   margin: 2em 0;
 }
