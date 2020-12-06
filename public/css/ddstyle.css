@@ -27,7 +27,7 @@ body {
   width: 100%;
   justify-content: center;
   align-items: center;
-  height: 128px;
+  height: auto;
   padding: 0;
   box-sizing: border-box;
   margin: 0;
@@ -43,7 +43,7 @@ body {
 }
 
 img.dd-logo {
-  width: 75px;
+  width: 50px;
   margin: 0;
 }
 
