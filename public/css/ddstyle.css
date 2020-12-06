@@ -12,8 +12,10 @@ body {
   position: fixed;
   top: 0;
   display: flex;
-  width: 100%;
+  width: 98%;
   z-index: 1;
+  background-color: #090a0fa6;
+  margin: 0 auto;
 }
 
 .dd-navbar-mobile {
@@ -45,6 +47,10 @@ img.dd-logo {
   margin: 0;
 }
 
+.dd-title {
+  margin-top: 2em;
+}
+
 .dd-header {
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   width: 100%;
@@ -54,8 +60,8 @@ img.dd-logo {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   font-weight: lighter;
+  overflow-y: scroll;
 }
 
 .dd-header::before {
@@ -70,6 +76,51 @@ img.dd-logo {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.dd-header--info {
+  width: 90vw;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-areas:
+    "a1 a4"
+    "a2 a4"
+    "a3 a4";
+  padding-top: 4em;
+  z-index: 1;
+}
+
+.dd-header--box {
+  border: 1px solid #090a0f;
+  border-radius: 5px;
+  padding: 1em 2em;
+  color: white;
+  background-color: #090a0fa6;
+  text-align: left;
+  /* box-shadow: 0 0 50px -15px purple; */
+}
+
+.dd-header--box a,
+.dd-header--box a:visited,
+.dd-header--box a:active {
+  color: #4ffff0;
+}
+
+.dd-header--box-a1 { grid-area: a1; }
+.dd-header--box-a2 { grid-area: a2; }
+.dd-header--box-a3 { grid-area: a3; }
+.dd-header--box-a4 { grid-area: a4; }
+
+.dd-header--box h2 {
+  color: white;
+  font-weight: 200;
+}
+
+.dd-header--box h3 {
+  color: white;
+  font-weight: 800;
 }
 
 .dd-container {
@@ -100,19 +151,21 @@ img.dd-logo {
   display: flex;
   padding: 0 128px;
   margin-top: 128px;
-  width: 75vw;
+  width: 60vw;
   min-height: 100%;
   background-color: white;
-  z-index: 1;
+  z-index: 0;
   flex-direction: column;
   border-radius: 10px 10px 0 0;
+  border: 1px solid #090a0f;
 }
 
 .dd-page {
   padding: 2em 0;
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 75%;
+  margin: 0 auto;
 }
 
 .dd-page-date {
@@ -139,16 +192,16 @@ img.dd-logo {
 }
 
 .dd-header h1 {
-  font-size: 112px;
+  font-size: 96px;
   font-weight: 100;
   color: white;
-  z-index: 1;
+  z-index: 0;
   letter-spacing: 20px;
 }
 
 .dd-subtitle {
   font-size: 36px;
-  z-index: 1;
+  z-index: 0;
   letter-spacing: 10px;
   line-height: 1.5;
   padding: 1em 0;
@@ -156,10 +209,15 @@ img.dd-logo {
 }
 
 .dd-footer {
-  padding: 1em 2em;
   position: absolute;
   display: flex;
-  bottom: 0;
+  transform: rotate(90deg);
+  transform: rotate(90);
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  bottom: 7em;
+  left: -4.5em;
 }
 
 .dd-copyright {
@@ -186,6 +244,15 @@ img.dd-logo {
   margin: 2em 0;
 }
 
+.dd-social ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.dd-social ul li {
+  margin: 0 0 .5em 0;
+}
 
 @media only screen 
 and (min-width : 320px) 
@@ -195,12 +262,28 @@ and (max-width : 675px) {
     letter-spacing: 10px;
   }
 
+  .dd-title {
+    margin-top: 4em;
+  }
+
   .dd-subtitle {
     font-size: 24px;
     letter-spacing: 0;
     line-height: 1.5;
     padding: 1em 0;
     width: 75vw;
+  }
+
+  .dd-header--info {
+    width: 85%;
+    padding-top: 0;
+    grid-template-columns: 1fr;
+    grid-template-rows: 4fr;
+    grid-template-areas:
+        "a1"
+        "a2"
+        "a3"
+        "a4";
   }
 }
 
@@ -214,7 +297,6 @@ and (max-width : 480px) {
 
   .dd-subtitle {
     font-size: 18px;
-    z-index: 1;
     letter-spacing: 0;
     line-height: 1.5;
     padding: 1em 0;
@@ -227,7 +309,7 @@ and (max-width : 480px) {
     width: 50vw;
     right: 0;
     padding-top: 128px;
-    background-color: #5c376d;
+    background-color: #090a0f;
     z-index: 2;
   }
 
