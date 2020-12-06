@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "D&D 1x06 - Club Lectura: Pakminyó"
+title: "Episodio 6 - Club Lectura: Pakminyó"
 audio: "60067339"
 date: 2020-12-06T14:28:02.891Z
 description: Tercer club de lectura sobre el libro "Pakminyó" de Felicidad Martínez
