@@ -2,6 +2,12 @@
 layout: page
 title: El origen de los droides y druidas
 image: "-"
+author:
+  - id: ines-galiano
+    name: Inés Galiano
+tags:
+  - tag: episodio-1
+  - tag: podcast
 date: 2020-12-06T10:26:57.334Z
 description: Buscando el origen de nuestro nombre me preguntaba sobre la raíces
   de estas palabras y su origen en la literatura de **estas míticas figuras del
