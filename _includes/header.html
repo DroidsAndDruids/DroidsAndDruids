@@ -37,8 +37,9 @@
     <article class="dd-header--box dd-header--box-a3">
       <h2>📜 Lee el blog</h2>
       {% if post.title %}
+        {% assign author = post.author.first %}
         <h3>Último post</h3>
-        <p><a href="{{ post.url }}">{{ post.title }}</a> {{ post.description}}</p>
+        <p><a href="{{ post.url }}">{{ post.title }}</a> {{ post.description}}<span class="dd-post--author">- {{ author.name }}</span></p>
       {% endif %}
     </article>
 

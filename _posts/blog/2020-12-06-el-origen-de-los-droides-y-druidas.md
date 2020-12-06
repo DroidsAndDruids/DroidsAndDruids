@@ -10,8 +10,8 @@ tags:
   - tag: podcast
 date: 2020-12-06T10:26:57.334Z
 description: Buscando el origen de nuestro nombre me preguntaba sobre la raíces
-  de estas palabras y su origen en la literatura de **estas míticas figuras del
-  Droide y el Druida** que han llegado hasta nuestros días.
+  de estas palabras y su origen en la literatura de estas míticas figuras del
+  Droide y el Druida que han llegado hasta nuestros días.
 category: blog
 ---
 Buscando el origen de nuestro nombre me preguntaba sobre la raíces etimológicas de estas palabras (ya sea por deformación profesional), y sobre su origen en la literatura de **estas míticas figuras del Droide y el Druida** que han llegado hasta nuestros días. 
