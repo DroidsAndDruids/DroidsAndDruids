@@ -9,3 +9,5 @@ description: En este episodio del mes de diciembre hablamos de comida en ciencia
   Úrsula!
 category: podcast
 ---
+
+No te olvides de pasarte por [La Horda Podcast](https://www.ivoox.com/podcast-horda-podcast_sq_f11041886_1.html), porque como buena beca de intercambio, nosotras también seremos becarias en su programa.
