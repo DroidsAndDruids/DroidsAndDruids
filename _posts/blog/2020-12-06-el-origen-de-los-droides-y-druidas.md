@@ -16,8 +16,6 @@ category: blog
 ---
 Buscando el origen de nuestro nombre me preguntaba sobre la raíces etimológicas de estas palabras (ya sea por deformación profesional), y sobre su origen en la literatura de **estas míticas figuras del Droide y el Druida** que han llegado hasta nuestros días. 
 
-
-
 ## Los droides [🤖](https://emojipedia.org/robot/)
 
 ¿Qué es un Droide? Una abreviación de androide. ¿Y qué es un Androide? Androide viene el griego (ανδρὀς: hombre) y eidos (ειδος, apariencia), lo que significa **"que parece un hombre sin serlo"**, es decir, básicamente un robot con forma humana. 
@@ -31,8 +29,6 @@ Así que ahí tenemos **el primer robot de la ciencia ficción. ¿O no?** Buscan
 > *Dos muchachas de oro, iban bien raudas moviéndose, al servicio de su dueño y señor, parecidas a muchachas con vida (Ilíada, Canto VIII).*
 
 ¿Qué es esto? ¿Automátas de metal en el siglo octavo?. Está todo inventado (Asimov, llegas tarde).
-
-
 
 ## Los Druidas 🧙
 
@@ -50,7 +46,7 @@ Como sabemos, la fantasía nace de las leyendas medievales, así que, ¿qué ser
 
 No voy a señalar, pero la primera imagen que sale en Google cuando buscas druida es la de, *wait for it*, Gandalf. ¿Casualidad? No creo.
 
-##  Droides vs. Druidas [](https://emojipedia.org/robot/)[🤖](https://emojipedia.org/robot/) 🧙
+## Droides vs. Druidas [](https://emojipedia.org/robot/)[🤖](https://emojipedia.org/robot/) 🧙
 
 Droides y Druidas, opuestos por antonomasia. ¿O no tanto? **El dominio de la ciencia contra el dominio de la NATURALEZA**. Ambos con habilidades especiales. Con aspecto humano pero sin serlo del todo. Ambos temidos. ¿Con qué sueñan los androides? Con ovejas o con esa revolución de las máquinas que nunca llega. Los primeros espectadores del cine pensaron que era magia, y es que a veces llamamos magia a aquello que no conocemos. 
 
@@ -61,3 +57,7 @@ Acabo con una cita de Mandalorian, que está muy de moda ahora, de Kuiil. : 
 En realidad podemos extrapolar esta metáfora tanto a los droides como a los druidas de la literatura, porque son **los escritores los que los crean como un reflejo de los deseos y miedos de la humanidad.**
 
 **¿Y tú? ¿Eres más droide o druida?**
+
+
+
+**[Escucha el podcast completo aquí](https://go.ivoox.com/rf/51638197)**
