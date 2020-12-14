@@ -58,6 +58,4 @@ En realidad podemos extrapolar esta metáfora tanto a los droides como a los dru
 
 **¿Y tú? ¿Eres más droide o druida?**
 
-
-
-**[Escucha el podcast completo aquí](https://go.ivoox.com/rf/51638197)**
+**[Escucha el podcast completo aquí](https://droidsanddruids.com/podcast/2020/06/01/episodio-1.html)**
