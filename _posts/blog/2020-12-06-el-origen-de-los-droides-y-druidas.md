@@ -28,7 +28,7 @@ Así que ahí tenemos **el primer robot de la ciencia ficción. ¿O no?** Buscan
 
 > *Dos muchachas de oro, iban bien raudas moviéndose, al servicio de su dueño y señor, parecidas a muchachas con vida (Ilíada, Canto VIII).*
 
-¿Qué es esto? ¿Automátas de metal en el siglo octavo?. Está todo inventado (Asimov, llegas tarde).
+¿Qué es esto? ¿Automátas de metal en el siglo octavo a.C.?. Está todo inventado (Asimov, llegas tarde).
 
 ## Los Druidas 🧙
 
