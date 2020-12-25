@@ -192,7 +192,7 @@ img.dd-logo {
 }
 
 .dd-header h1 {
-  font-size: 96px;
+  font-size: 72px;
   font-weight: 100;
   color: white;
   z-index: 0;
@@ -256,7 +256,7 @@ img.dd-logo {
 
 @media only screen 
 and (min-width : 320px) 
-and (max-width : 675px) {
+and (max-width : 1220px) {
   .dd-header h1 {
     font-size: 56px;
     letter-spacing: 10px;
@@ -289,7 +289,7 @@ and (max-width : 675px) {
 
 @media only screen 
 and (min-width : 320px) 
-and (max-width : 480px) {
+and (max-width : 1220px) {
   .dd-header h1 {
     font-size: 28px;
     letter-spacing: 10px;
