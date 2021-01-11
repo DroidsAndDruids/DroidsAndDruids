@@ -14,8 +14,6 @@ category: blog
 ---
 *¡Bienvenide a la primera Reseña en 5 minutos!*
 
-
-
 **Laura G. W. Messer** y la **Editorial Freya** nos traen una estupenda historia: Las Guerras de la Alianza, la primera parte de una trilogía de fantasía. Es la primera novela publicada de la autora y desde luego, de la que podemos esperar grandes cosas. 
 
 En la novela, **el reino de Niola y el Imperio de Valeria** están en guerra por el control del territorio y del uso de la magia. Comenzamos la aventura de la mano del joven **Kuenre**, quien despierta en la primera página con el dolor de haber perdido a su aliada. Así descubrimos el original sistema de alianzas mágicas que la autora ha desarrollado, en el que es siempre necesario que un hombre y una mujer se combinen para crear magia. Kuenre es inmediatamente asignado a una nueva y arisca aliada, llamada **Tais**, que lleva mucho más tiempo al servicio del reino y que tiene más experiencia de la que quiere contar. A través de sus recuerdos nos adentramos en el origen del conflicto bélico y en las vidas de los protagonistas.
@@ -32,7 +30,9 @@ Como puntos a destacar, me gustaría comentar que en la novela podemos encontrar
 
 \-Te gustan los personajes grises y su pasado oscuro.
 
-\-Te gusta el salseo y las relaciones personales.Y si eres de los que no soporta esperar la siguiente entrega: la editorial ya ha confirmado que tanto la **segunda como la tercera parte serán publicadas en 2021.**
+\-Te gusta el salseo y las relaciones personales.
+
+Y si eres de los que no soporta esperar la siguiente entrega: la editorial ya ha confirmado que tanto la **segunda como la tercera parte serán publicadas en 2021.**
 
 Consíguelo en [ebook](https://www.edicionesfreya.com/product/ebook-guerras-alianza/)  o en [papel](https://www.edicionesfreya.com/product/guerras-alianza/)  en la misma página de la editorial.
 
