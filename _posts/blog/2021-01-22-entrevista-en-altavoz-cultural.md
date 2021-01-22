@@ -17,8 +17,6 @@ Nos han entrevistado en la revista Altavoz Cultural y no podíamos estar más co
 >
 > Las buenas gentes de Droids&Druids han venido con su tecnología mágica, con su fábula cableada, con su pasión por la Literatura, la Ciencia Ficción y la Fantasía
 
-
-
 Lee la entrevista aquí y entérate de algunas cosillas sobre el proyecto: 
 
-https://altavozcultural.com/2021/01/12/droidsdruids/
+<https://altavozcultural.com/2021/01/12/droidsdruids/>
