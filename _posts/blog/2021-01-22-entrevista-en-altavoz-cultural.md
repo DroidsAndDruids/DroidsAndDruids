@@ -20,3 +20,5 @@ Nos han entrevistado en la revista Altavoz Cultural y no podíamos estar más co
 Lee la entrevista aquí y entérate de algunas cosillas sobre el proyecto: 
 
 <https://altavozcultural.com/2021/01/12/droidsdruids/>
+
+![](/public/images/screen-shot-2021-01-22-at-2.51.12-pm.png)
