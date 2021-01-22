@@ -2,6 +2,9 @@
 layout: blog
 title: Entrevista en Altavoz Cultural
 image: /public/images/screen-shot-2021-01-22-at-2.51.12-pm.png
+author: []
+tags:
+  - tag: Entrevista
 date: 2021-01-22T13:43:57.998Z
 description: Nos han entrevistado en Altavoz Cultural
 category: blog
