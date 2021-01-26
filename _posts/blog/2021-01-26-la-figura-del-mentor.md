@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: La figura del Mentor
-image: /public/images/logo_circle-min.png
+image: /public/images/logo_purple.png
 author:
   - id: ines-galiano
     name: Inés Galiano
