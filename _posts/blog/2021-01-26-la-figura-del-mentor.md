@@ -28,7 +28,7 @@ Este mentor representa las aspiraciones o el modelo a seguir del héroe: aquello
 * **Un don** (bastante común si el mentor es un duende o ser mágico): el poder que le da Syl a Kaladin en el archivo de las tormentas.
 * **Una pieza de ropa o calzado**: los zapatos de Dorothy en el Mago de Oz que le da la bruja buena.
 * **Un objeto común que sirve al héroe de token**: el pin de pájaro que le da Cinna a Katniss en los Juegos del hambre que acaba convirtiéndose en un símbolo de la revolución. 
-* **O también puede ser un simple consejo**: como el que le da Abenthy a Kwothe en El nombre del viento cuando le dice “busca la universidad, continúa el aprendizaje”.
+* **O también puede ser un simple consejo**: como el que le da Abenthy a Kwothe en El nombre del viento cuando le dice “*busca la universidad, continúa el aprendizaje*”.
 
 Y es que este **aprendizaje del héroe es el objetivo principal del mentor**: Quiere que el héroe o heroína aprenda, **que se transforme y que se gane el obsequio**, que demuestre que es digno de portarlo. El mentor y su obsequio sirven para motivar al héroe a iniciarse en el camino y continuarlo cada vez que está a punto de abandonar. 
 
