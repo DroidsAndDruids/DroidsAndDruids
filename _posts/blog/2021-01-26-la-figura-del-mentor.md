@@ -40,8 +40,6 @@ Como ejemplo, en El archivo de las tormentas de Sanderson, podríamos hasta hace
 
 *Bonus track/curiosidad lingüística:*
 
-La figura del DE-MENTOR de Harry Potter que en lugar de motivarte, te DESMOTIVA (se succiona la vida)
-
-
+La figura del DE-MENTOR de Harry Potter que en lugar de motivarte, te DESMOTIVA (te succiona la energía)
 
 Escucha el episodio completo en el que hablamos del tema en el Podcast de **[Droids & Druids 3 - Maestros y Padawans](https://droidsanddruids.com/podcast/2020/08/02/episodio-3.html)**
