@@ -9,7 +9,7 @@ author:
 tags:
   - tag: MaestrosyPadawans
   - tag: D&D1x2
-date: 2021-01-03T18:51:39.396Z
+date: 2021-01-26T18:51:00.000Z
 description: Analizamos la figura del mentor y su obsequio
 category: blog
 ---
