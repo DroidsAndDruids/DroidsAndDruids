@@ -9,6 +9,8 @@ category: revista
 ---
 Puedes descargarlo mediante un **pago social** en la plataforma [Lektu](https://lektu.com/l/droidsdruids/droids-and-druids-criaturas-num-2-marzo-2021/16935)
 
+y escuchar el episodio del podcast [\#DDMAG 2](https://droidsanddruids.com/podcast/2021/03/03/ddmag-1x02-criaturas.html) dedicado a este número de la revista
+
 ![]()
 
 ## Contenido de la revista
