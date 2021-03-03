@@ -25,7 +25,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "revista"}
       - {label: "Title", name: "title", widget: "string", required: true }
       - {label: "Image", name: "image", widget: "image", required: false }
       - {label: "Lektu", name: "lektu", widget: "string", required: false }
