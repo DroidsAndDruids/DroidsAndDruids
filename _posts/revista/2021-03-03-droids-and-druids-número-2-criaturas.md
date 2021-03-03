@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Droids And Druids - Número 2 - Criaturas
-image: ""
+image: /public/images/portada_final_criaturas_6.jpg
 lektu: https://lektu.com/l/droidsdruids/droids-and-druids-criaturas-num-2-marzo-2021/16935
 date: 2021-03-03T10:20:25.373Z
 description: ¡Ya tenemos el segundo número de la revista de Droids and Druids!
@@ -9,7 +9,7 @@ category: revista
 ---
 Puedes descargarlo mediante un **pago social** en la plataforma [Lektu](https://lektu.com/l/droidsdruids/droids-and-druids-criaturas-num-2-marzo-2021/16935)
 
-
+![]()
 
 ## Contenido de la revista
 
