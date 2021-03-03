@@ -25,7 +25,7 @@ Aquí encontraras todo lo relacionado con nuestra revista, ¡sigue leyendo para 
         <div class="book">
           <img
             alt="Logo revista"
-            src="{{ site.baseurl }}{{ post.image }}"
+            src="{{ post.image }}"
             />
         </div>
       </a>
