@@ -1,6 +1,6 @@
 ---
 layout: post
-title: D&D 1x09 - Amortentia & San Junípero
+title: Episodio 9 - Amortentia & San Junípero
 audio: "65038612"
 date: 2021-03-03T10:15:30.124Z
 description: Elena nos ha convencido de hablar de amor, parejitas, besos
