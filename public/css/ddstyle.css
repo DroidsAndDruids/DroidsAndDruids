@@ -355,7 +355,7 @@ and (max-width : 1220px) {
   .dd-container-page {
     padding: 0;
     width: 100%;
-    margin: 8rem 0.5em 0 0.5em;
+    margin: 10rem 0.5em 0 0.5em;
     max-width: 90%;
   }
 
@@ -382,7 +382,7 @@ and (min-width : 680px) {
   .dd-container-page {
     padding: 0 1em;
     width: 100%;
-    margin: 8rem 0;
+    margin: 10rem 0;
     max-width: 70%;
   }
 
