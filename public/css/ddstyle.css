@@ -52,7 +52,7 @@ img.dd-logo {
 }
 
 .dd-header {
-  background: radial-gradient(ellipse at bottom, #5f55b3 0%, #15161d 100%);
+  background: radial-gradient(ellipse at bottom, #191631 0%, #15161d 100%);
   width: 100%;
   min-height: 100vh;
   text-align: center;
@@ -64,10 +64,10 @@ img.dd-logo {
 }
 
 .dd-header::before {
-  background: radial-gradient(ellipse at bottom, #5f55b3 0%, #15161d 100%);
+  background: radial-gradient(ellipse at bottom, #191631 0%, #15161d 100%);
   background-image: url('/public/images/sparkles-2.gif');
   background-repeat: repeat;
-  opacity: 0.5;
+  opacity: 0.375;
   position: absolute;
   z-index: 0;
   content: ' ';
@@ -123,7 +123,7 @@ img.dd-logo {
 }
 
 .dd-container {
-  background: radial-gradient(ellipse at bottom, #5f55b3 0%, #15161d 100%);
+  background: radial-gradient(ellipse at bottom, #191631 0%, #15161d 100%);
   min-height: 100%;
   color: #1b2735;
   display: flex;
@@ -134,9 +134,9 @@ img.dd-logo {
 }
 
 .dd-container::before {
-  background: radial-gradient(ellipse at bottom, #5f55b3 0%, #15161d 100%);
+  background: radial-gradient(ellipse at bottom, #191631 0%, #15161d 100%);
   background-image: url('/public/images/sparkles-2.gif');
-  opacity: 0.5;
+  opacity: 0.375;
   position: fixed;
   z-index: 0;
   content: ' ';
