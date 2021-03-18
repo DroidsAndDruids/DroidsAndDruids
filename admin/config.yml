@@ -63,10 +63,10 @@ collections:
           - label: "Id"
             name: "id"
             widget: "select"
-            options: ["ines-galiano", "elena-torro", "amanda-iniesta"]
+            options: ["ines-galiano", "elena-torro", "amanda-iniesta", "mariado", "equipo"]
             required: true
           - {label: Name, name: name, widget: string, required: true}
-          - {label: Twitter, name: twitter, widget: string, required: false}
+          - {label: Link, name: link, widget: string, required: false}
           - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", fields: [{label: "Tag", name: "tag", widget: "string"}]}
       - {label: "Publish Date", name: "date", widget: "datetime", required: true }

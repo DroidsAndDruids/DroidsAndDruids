@@ -12,7 +12,7 @@ body {
   position: fixed;
   top: 0;
   display: flex;
-  width: 98%;
+  width: 100%;
   z-index: 1;
   background-color: #090a0fa6;
   margin: 0 auto;
@@ -52,23 +52,22 @@ img.dd-logo {
 }
 
 .dd-header {
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  background: radial-gradient(ellipse at bottom, #5f55b3 0%, #15161d 100%);
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   text-align: center;
   padding: 2em 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   font-weight: lighter;
-  overflow-y: scroll;
 }
 
 .dd-header::before {
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  background: radial-gradient(ellipse at bottom, #5f55b3 0%, #15161d 100%);
   background-image: url('/public/images/sparkles-2.gif');
   background-repeat: repeat;
-  opacity: 0.3;
+  opacity: 0.5;
   position: absolute;
   z-index: 0;
   content: ' ';
@@ -124,7 +123,7 @@ img.dd-logo {
 }
 
 .dd-container {
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  background: radial-gradient(ellipse at bottom, #5f55b3 0%, #15161d 100%);
   min-height: 100%;
   color: #1b2735;
   display: flex;
@@ -135,9 +134,9 @@ img.dd-logo {
 }
 
 .dd-container::before {
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  background: radial-gradient(ellipse at bottom, #5f55b3 0%, #15161d 100%);
   background-image: url('/public/images/sparkles-2.gif');
-  opacity: 0.3;
+  opacity: 0.5;
   position: fixed;
   z-index: 0;
   content: ' ';
@@ -168,6 +167,10 @@ img.dd-logo {
   margin: 0 auto;
 }
 
+.dd-page p {
+  line-height: 1.5;
+}
+
 .dd-page-date {
   margin: 0;
   text-align: center;
@@ -184,7 +187,6 @@ img.dd-logo {
   padding-bottom: 1em;
   text-align: center;
   font-size: 36px;
-  text-transform: capitalize;
 }
 
 .dd-page-title-container .dd-page-title {
@@ -258,20 +260,20 @@ img.dd-logo {
 and (min-width : 320px) 
 and (max-width : 1220px) {
   .dd-header h1 {
-    font-size: 56px;
+    font-size: 28px;
     letter-spacing: 10px;
   }
 
-  .dd-title {
-    margin-top: 4em;
-  }
-
   .dd-subtitle {
-    font-size: 24px;
+    font-size: 18px;
     letter-spacing: 0;
     line-height: 1.5;
     padding: 1em 0;
     width: 75vw;
+  }
+
+  .dd-title {
+    margin-top: 4em;
   }
 
   .dd-header--info {
@@ -284,23 +286,6 @@ and (max-width : 1220px) {
         "a2"
         "a3"
         "a4";
-  }
-}
-
-@media only screen 
-and (min-width : 320px) 
-and (max-width : 1220px) {
-  .dd-header h1 {
-    font-size: 28px;
-    letter-spacing: 10px;
-  }
-
-  .dd-subtitle {
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: 1.5;
-    padding: 1em 0;
-    width: 75vw;
   }
 
   .dd-navbar {
@@ -361,7 +346,7 @@ and (max-width : 1220px) {
   .dd-container-page {
     padding: 0 2em;
     width: 100%;
-    margin: 128px 2em 0 2em;
+    margin: 8rem 2em 0 2em;
     max-width: 90%;
   }
 
@@ -376,6 +361,20 @@ and (max-width : 1220px) {
 
   .post-title {
     font-size: 22px;
+  }
+}
+
+@media only screen
+and (min-width : 680px) {
+  .dd-container-page {
+    padding: 0 1em;
+    width: 100%;
+    margin: 8rem 0;
+    max-width: 70%;
+  }
+
+  .dd-page {
+    padding: 1em 0;
   }
 }
 
