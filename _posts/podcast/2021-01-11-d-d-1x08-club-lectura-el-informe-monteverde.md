@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "D&D 1x08 - Club Lectura: El Informe Monteverde"
+title: "Episodio 8 - Club Lectura: El Informe Monteverde"
 audio: "63417230"
 date: 2021-01-11T06:48:55.621Z
 description: En este episodio analizamos la obra El Informe Monteverde y
