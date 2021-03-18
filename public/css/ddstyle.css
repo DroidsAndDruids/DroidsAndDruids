@@ -187,14 +187,19 @@ img.dd-logo {
   padding-bottom: 1em;
   text-align: center;
   font-size: 36px;
-  background-color: #f6f949;
+  background-color: #7deae1;
   margin: -2em 0 2em 0;
+  font-weight: 100;
 }
 
 .dd-page-title-container .dd-page-title,
 .dd-page .dd-page-title {
   padding: 0.5em;
   width: auto;
+}
+
+.dd-post-title {
+  font-weight: 200;
 }
 
 .dd-header h1 {

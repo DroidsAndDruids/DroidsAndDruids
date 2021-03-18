@@ -31,11 +31,11 @@ Aquí encontraras todo lo relacionado con nuestra revista, ¡sigue leyendo para 
       </a>
     </div>
     {% endif %}
-    <h1 class="post-title">
+    <h2 class="post-title dd-post-title">
       <a href="{{ post.url }}">
         {{ post.title }} →
       </a>
-    </h1>
+    </h2>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 

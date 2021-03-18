@@ -11,11 +11,11 @@ order: 3
   {% for post in posts %}
   {% assign author = post.author.first %}
   <div class="post">
-    <h1 class="post-title">
+    <h2 class="post-title dd-post-title">
       <a href="{{ post.url }}">
         {{ post.title }} →
       </a>
-    </h1>
+    </h2>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
