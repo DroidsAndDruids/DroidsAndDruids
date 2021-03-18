@@ -179,7 +179,7 @@ img.dd-logo {
 .dd-page-title-container {
   display: flex;
   flex-direction: column;
-  padding: 0;
+  padding: 1em .5em;
   margin: 0 0 1em 0;
 }
 
@@ -187,10 +187,14 @@ img.dd-logo {
   padding-bottom: 1em;
   text-align: center;
   font-size: 36px;
+  background-color: #f6f949;
+  margin: -2em 0 2em 0;
 }
 
-.dd-page-title-container .dd-page-title {
-  padding: 0;
+.dd-page-title-container .dd-page-title,
+.dd-page .dd-page-title {
+  padding: 0.5em;
+  width: auto;
 }
 
 .dd-header h1 {
@@ -344,9 +348,9 @@ and (max-width : 1220px) {
   }
 
   .dd-container-page {
-    padding: 0 2em;
+    padding: 0;
     width: 100%;
-    margin: 8rem 2em 0 2em;
+    margin: 8rem 0.5em 0 0.5em;
     max-width: 90%;
   }
 
@@ -361,6 +365,10 @@ and (max-width : 1220px) {
 
   .post-title {
     font-size: 22px;
+  }
+
+  .dd-revista-posts {
+    flex-direction: column;
   }
 }
 
@@ -404,6 +412,10 @@ and (min-width : 680px) {
   margin: 2em 0;
   align-items: center;
   justify-content: center;
+}
+
+.dd-revista-post {
+  padding: 2em;
 }
 
 .book-container {
