@@ -27,4 +27,4 @@ Recepción de relatos/artículos para el **número II: CRIATURAS**, abierta hast
    NUEVO: Aceptamos **viñetas :D** 
 7. Deben enviarse al correo **droidsanddruids@gmail.com** con el asunto **RELATO/ARTICULO/VIÑETA REVISTA CRIATURAS**
 8. Se contactará con todos los autores aproximadamente **dos semanas** después del cierre de la convocatoria, tanto para confirmar como para rechazar la inclusión del artículo/relato.
-9. Los participantes seleccionados verán publicados sus trabajos en el siguiente número de la revista, y recibirán la pegatina Droids & Druids, además de participar en el sorteo de un libro *(sólo envíos a España)*. A los participantes seleccionados se les pedirá una breve nota biográfica para incluir en la revista y una dirección postal para el envío de la pegatina.
+9. Los participantes seleccionados verán publicados sus trabajos en el siguiente número de la revista, y participarán en el sorteo de un libro *(sólo envíos a España)*. A los participantes seleccionados se les pedirá una breve nota biográfica para incluir en la revista y una dirección postal para el envío si ganan el sorteo.
