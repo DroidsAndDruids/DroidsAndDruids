@@ -57,7 +57,7 @@ Desde los inicios concebimos Droids & Druids como un lugar donde la ciencia ficc
 
 Formulario: <https://forms.gle/d9ds8K47pSQheQkp6>
 
-En el formulario veréis que debéis adjuntar DOS DOCUMENTOS en formato WORD (o un pdf en el caso de viñeta). El formulario está diseñado para que cada documento se envíe a una carpeta distinta de Drive. El jurado solamente tendrá acceso a la carpeta de relatos o viñetas durante la convocatoria y selección.
+En el formulario veréis que debéis adjuntar DOS DOCUMENTOS en formato WORD (o un pdf en el caso de viñeta). El formulario está diseñado para que cada documento se envíe a una carpeta distinta de Drive. El jurado solamente tendrá acceso a la carpeta de relatos, poemas o viñetas durante la convocatoria y selección.
 
 Las plicas no serán abiertas hasta después de haber seleccionado los relatos.
 
