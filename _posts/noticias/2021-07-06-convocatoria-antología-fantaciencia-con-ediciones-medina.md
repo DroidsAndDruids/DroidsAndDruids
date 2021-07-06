@@ -10,35 +10,33 @@ category: noticias
 
 DROIDS & DRUIDS CON EDICIONES MEDINA
 
-Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](mailto:droidsanddruids@gmail.com)
+Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](mailto:droidsanddruids@gmail.com) (**SOLO DUDAS**. Para el envío tenéis que usar el formulario indicado abajo)
 
 ⚠️ Del 10 de julio al 10 de Septiembre 2021 ⚠️
 
 ## BASES:
 
-1. PARTICIPANTES: 
+1. **PARTICIPANTES:** 
 
 Podrán presentarse a la convocatoria autores mayores de edad, de cualquier nacionalidad, residentes en España (Si estás fuera de España temporalmente o tu caso es especial, escríbenos).
 
-2. SELECCIÓN Y PUBLICACIÓN EN ANTOLOGÍA: 
+2. **SELECCIÓN Y PUBLICACIÓN EN ANTOLOGÍA:** 
 
 Se seleccionarán entre 10-14 relatos. 
 
 También se seleccionarán varios poemas y viñetas (el número mínimo y máximo dependerá de la necesidad del volumen y será a discreción del jurado y la editorial).
 
-Los seleccionados serán publicados en una antología en papel y formato digital, publicada por Ediciones  Medina. La fecha de publicación aún no está confirmada pues depende del calendario de la editorial.
+**Los seleccionados serán publicados en una antología en papel y formato digital, publicada por Ediciones  Medina.** La fecha de publicación aún no está confirmada pues depende del calendario de la editorial.
 
-Ediciones Medina enviará un contrato de cesión de derechos a cada autor seleccionado para firmar. En este contrato se especificarán los detalles de la publicación, los porcentajes de derechos de autor, ejemplares de cortesía, y demás detalles de acuerdo a la política de la editorial (estos detalles pueden variar según el número de autores seleccionados).
+**Ediciones Medina enviará un contrato de cesión de derechos a cada autor** seleccionado para firmar. En este contrato se especificarán los detalles de la publicación, los porcentajes de derechos de autor, ejemplares de cortesía, y demás detalles de acuerdo a la política de la editorial (estos detalles pueden variar según el número de autores seleccionados).
 
 La editorial se hará cargo de la revisión ortotipográfica de los textos, maquetación y demás elementos del proceso editorial.
 
 En el caso de no aceptar las condiciones del contrato propuestas por la editorial, el autor seleccionado está en su derecho de no firmar y rechazar así la publicación de su relato en la antología.
 
- 
+3. **TEMA Y GÉNERO:**
 
-3. TEMA Y GÉNERO:
-
-La temática es libre. El género de la antología será la Fantaciencia (ciencia ficción fantástica), el género híbrido que combina la ciencia ficción con la fantasía: mundos fantásticos con tecnología avanzada (¡o mundo tecnológico con fantasía!)
+**La temática es libre. El género de la antología será la Fantaciencia (ciencia ficción fantástica), el género híbrido que combina la ciencia ficción con la fantasía: mundos fantásticos con tecnología avanzada (¡o mundo tecnológico con fantasía!)**
 
 Ejemplos de este género son Star Wars o El planeta de los Simios, y muchos otros relatos que comenzaron a publicarse en los inicios del pulp y en las revistas americanas como Amazing Stories.
 
@@ -46,20 +44,16 @@ Desde los inicios concebimos Droids & Druids como un lugar donde la ciencia ficc
 
 \*IMPORTANTE: Para esta antología no aceptaremos relatos que sean de fantasía o de ciencia ficción de manera separada. Buscamos relatos híbridos que tengan elementos de ambos géneros  de manera que puedan considerarse Fantaciencia.
 
- 
-
-
-
-4. ORIGINALES:
+4. **ORIGINALES:**
 
 * Los trabajos en esta ocasión han de ser inéditos y no deben tener comprometidos sus derechos con terceros. Las responsabilidades por el incumplimiento recaen únicamente sobre el autor.
 * RELATOS: Se admiten relatos de entre  1000 y 5000 palabras, en formato Word en Times New Roman 12 a interlineado 1,5.
 * POEMAS: Se admiten poemas sin mínimo de extensión y con un máximo de cinco páginas.
 * VIÑETAS: Se admiten viñetas de máximo tres páginas. Se valorarán las viñetas que puedan imprimirse correctamente en la antología. Si tenéis dudas o propuestas al respecto podéis escribirnos antes de trabajar en la viñeta.
 
-5. ENVÍO y PLICA:
+5. **ENVÍO y PLICA:**
 
-Deberá utilizarse ÚNICAMENTE el formulario destinado para esta convocatoria (esto es para garantizar la anonimidad). No uséis nuestro email en esta ocasión para el envío.
+**Deberá utilizarse ÚNICAMENTE el formulario destinado para esta convocatoria** (esto es para garantizar la anonimidad). No uséis nuestro email en esta ocasión para el envío.
 
 Formulario: <https://forms.gle/d9ds8K47pSQheQkp6>
 
@@ -81,8 +75,6 @@ Por ejemplo, si mi viñeta se llama “La luna”, el documento se llamará: La_
 
 * Plica: 
 
- 
-
 El documento Word debe incluir en su interior:
 
 \-Título relato
@@ -97,13 +89,13 @@ El documento Word debe incluir en su interior:
 
 A este documento se le llamará: “titulo_relato_PLICA”. Por ejemplo, si mi obra se llama “La luna”, el documento se llamará: La_luna_PLICA.docx
 
-6. JURADO:
+6. **JURADO**:
 
 El jurado está compuesto por el equipo de la revista Droids & Druids, que no conocerá la identidad de los autores durante el proceso (gracias al formulario y el sistema de plica). 
 
-7. CALENDARIO:
+7. **CALENDARIO**:
 
-El plazo para enviar originales es desde el 10 de julio al 10 de Septiembre 2021.
+El plazo para enviar originales es **desde el 10 de julio al 10 de Septiembre 2021.**
 
 Los seleccionados se conocerán a finales de octubre o principios de noviembre (según cantidad de obras). Cualquier retraso o alteración del calendario será notificada en @droidsanddruids. 
 
