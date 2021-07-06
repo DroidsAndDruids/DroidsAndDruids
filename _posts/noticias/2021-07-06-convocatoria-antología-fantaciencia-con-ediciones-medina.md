@@ -47,6 +47,8 @@ Desde los inicios concebimos Droids & Druids como un lugar donde la ciencia ficc
 4. **ORIGINALES:**
 
 * Los trabajos en esta ocasión han de ser inéditos y no deben tener comprometidos sus derechos con terceros. Las responsabilidades por el incumplimiento recaen únicamente sobre el autor.
+
+  * Sólo un trabajo por autor en cada categoría.
 * RELATOS: Se admiten relatos de entre  1000 y 5000 palabras, en formato Word en Times New Roman 12 a interlineado 1,5.
 * POEMAS: Se admiten poemas sin mínimo de extensión y con un máximo de cinco páginas.
 * VIÑETAS: Se admiten viñetas de máximo tres páginas. Se valorarán las viñetas que puedan imprimirse correctamente en la antología. Si tenéis dudas o propuestas al respecto podéis escribirnos antes de trabajar en la viñeta.
