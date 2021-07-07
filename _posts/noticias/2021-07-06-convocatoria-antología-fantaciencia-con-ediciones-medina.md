@@ -44,7 +44,7 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
 
 	(*) **IMPORTANTE:** Para esta antología no aceptaremos relatos que sean de fantasía o de ciencia ficción de manera separada. Buscamos relatos híbridos que tengan elementos de ambos géneros  de manera que puedan considerarse Fantaciencia.
 
-  4. **ORIGINALES:**
+4. **ORIGINALES:**
 
 	Los trabajos en esta ocasión han de ser inéditos y no deben tener comprometidos sus derechos con terceros. Las responsabilidades por el incumplimiento recaen únicamente sobre el autor.
 
@@ -75,17 +75,17 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
 
 		Por ejemplo, si mi viñeta se llama “La luna”, el documento se llamará: La_luna.pdf
 
-* Plica: 
+	* Plica:
 
-	El documento Word debe incluir en su interior:
+		El documento Word debe incluir en su interior:
 
-	* Título relato
-	* Autor del relato
-	* Fecha de nacimiento
-	* Dirección
-	* Datos de contacto para que podamos informaros del fallo (email, teléfono, twitter si se tiene, etc.)
+		* Título relato
+		* Autor del relato
+		* Fecha de nacimiento
+		* Dirección
+		* Datos de contacto para que podamos informaros del fallo (email, teléfono, twitter si se tiene, etc.)
 
-	A este documento se le llamará: “titulo_relato_PLICA”. Por ejemplo, si mi obra se llama “La luna”, el documento se llamará: La_luna_PLICA.docx
+		A este documento se le llamará: “titulo_relato_PLICA”. Por ejemplo, si mi obra se llama “La luna”, el documento se llamará: La_luna_PLICA.docx
 
 6. **JURADO**:
 
