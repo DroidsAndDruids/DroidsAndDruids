@@ -49,9 +49,10 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
 	Los trabajos en esta ocasión han de ser inéditos y no deben tener comprometidos sus derechos con terceros. Las responsabilidades por el incumplimiento recaen únicamente sobre el autor.
 
 	Sólo un trabajo por autor en cada categoría.
-		- RELATOS: Se admiten relatos de entre  1000 y 5000 palabras, en formato Word en Times New Roman 12 a interlineado 1,5.
-		- POEMAS: Se admiten poemas sin mínimo de extensión y con un máximo de cinco páginas.
-		- VIÑETAS: Se admiten viñetas de máximo tres páginas. Se valorarán las viñetas que puedan imprimirse correctamente en la antología. Si tenéis dudas o propuestas al respecto podéis escribirnos antes de trabajar en la viñeta.
+
+	- **RELATOS:** Se admiten relatos de entre  1000 y 5000 palabras, en formato Word en Times New Roman 12 a interlineado 1,5.
+	- **POEMAS:** Se admiten poemas sin mínimo de extensión y con un máximo de cinco páginas.
+	- **VIÑETAS:** Se admiten viñetas de máximo tres páginas. Se valorarán las viñetas que puedan imprimirse correctamente en la antología. Si tenéis dudas o propuestas al respecto podéis escribirnos antes de trabajar en la viñeta.
 
 5. **ENVÍO y PLICA:**
 
@@ -63,19 +64,19 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
 
 	Las plicas no serán abiertas hasta después de haber seleccionado los relatos.
 
-	* Relato o poema: 
+	* **Relato o poema:**
 
 		En este documento debe incluirse solamente el título del relato + el relato. (SIN NOMBRE DEL AUTOR). El título del documento debe ser: “titulo_relato”. 
 
 		Por ejemplo, si mi relato se llama “La luna”, el documento se llamará: La_luna.docx
 
-	* Viñeta:
+	* **Viñeta:**
 
 		Si presentas una viñeta, deberás adjuntar un PDF que contenga las páginas con tu viñeta(s).
 
 		Por ejemplo, si mi viñeta se llama “La luna”, el documento se llamará: La_luna.pdf
 
-	* Plica:
+	* **Plica:**
 
 		El documento Word debe incluir en su interior:
 
