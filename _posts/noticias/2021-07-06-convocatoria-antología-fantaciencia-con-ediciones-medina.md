@@ -42,16 +42,16 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
 
 	Desde los inicios concebimos Droids & Druids como un lugar donde la ciencia ficción y la fantasía se unen, por lo que nos parece el género ideal para nuestra primera antología. 
 
-	\*IMPORTANTE: Para esta antología no aceptaremos relatos que sean de fantasía o de ciencia ficción de manera separada. Buscamos relatos híbridos que tengan elementos de ambos géneros  de manera que puedan considerarse Fantaciencia.
+	(*) **IMPORTANTE:** Para esta antología no aceptaremos relatos que sean de fantasía o de ciencia ficción de manera separada. Buscamos relatos híbridos que tengan elementos de ambos géneros  de manera que puedan considerarse Fantaciencia.
 
   4. **ORIGINALES:**
 
-	* Los trabajos en esta ocasión han de ser inéditos y no deben tener comprometidos sus derechos con terceros. Las responsabilidades por el incumplimiento recaen únicamente sobre el autor.
+	Los trabajos en esta ocasión han de ser inéditos y no deben tener comprometidos sus derechos con terceros. Las responsabilidades por el incumplimiento recaen únicamente sobre el autor.
 
-	* Sólo un trabajo por autor en cada categoría.
-		* RELATOS: Se admiten relatos de entre  1000 y 5000 palabras, en formato Word en Times New Roman 12 a interlineado 1,5.
-		* POEMAS: Se admiten poemas sin mínimo de extensión y con un máximo de cinco páginas.
-		* VIÑETAS: Se admiten viñetas de máximo tres páginas. Se valorarán las viñetas que puedan imprimirse correctamente en la antología. Si tenéis dudas o propuestas al respecto podéis escribirnos antes de trabajar en la viñeta.
+	Sólo un trabajo por autor en cada categoría.
+		- RELATOS: Se admiten relatos de entre  1000 y 5000 palabras, en formato Word en Times New Roman 12 a interlineado 1,5.
+		- POEMAS: Se admiten poemas sin mínimo de extensión y con un máximo de cinco páginas.
+		- VIÑETAS: Se admiten viñetas de máximo tres páginas. Se valorarán las viñetas que puedan imprimirse correctamente en la antología. Si tenéis dudas o propuestas al respecto podéis escribirnos antes de trabajar en la viñeta.
 
 5. **ENVÍO y PLICA:**
 
@@ -77,19 +77,15 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
 
 * Plica: 
 
-		El documento Word debe incluir en su interior:
+	El documento Word debe incluir en su interior:
 
-		- Título relato
+	* Título relato
+	* Autor del relato
+	* Fecha de nacimiento
+	* Dirección
+	* Datos de contacto para que podamos informaros del fallo (email, teléfono, twitter si se tiene, etc.)
 
-		- Autor del relato
-
-		- Fecha de nacimiento
-
-		- Dirección
-
-		- Datos de contacto para que podamos informaros del fallo (email, teléfono, twitter si se tiene, etc.)
-
-		A este documento se le llamará: “titulo_relato_PLICA”. Por ejemplo, si mi obra se llama “La luna”, el documento se llamará: La_luna_PLICA.docx
+	A este documento se le llamará: “titulo_relato_PLICA”. Por ejemplo, si mi obra se llama “La luna”, el documento se llamará: La_luna_PLICA.docx
 
 6. **JURADO**:
 
