@@ -12,7 +12,34 @@ DROIDS & DRUIDS CON EDICIONES MEDINA
 
 Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](mailto:droidsanddruids@gmail.com) (**SOLO DUDAS**. Para el envío tenéis que usar el formulario indicado abajo)
 
-⚠️ Del 10 de julio al 10 de Septiembre 2021 ⚠️
+⚠️ CONVOCATORIA CERRADA ⚠️
+
+## SELECCIONADOS:
+
+1. **POEMAS:** 
+
+   * Allí donde delinquen los faunos - Esther González
+   * De la conversación entre un hada y un androide - Héctor Vielva
+   * Estrellas de Salitre - Arien Vega
+2. **RELATOS**:
+
+   * Los cerezos nunca florecen - Juan Cuquejo Mira
+   * Las mantis de cristal - Martina Alcobendas
+   * El ganso, la oca y el pato - Cándido Pérez-Segurado
+   * El espécimen de la laguna - Laura R. Rodríguez
+   * Ordalía lunar - Aitor Aráez Pérez
+   * Al alcance de la mano - Noelia Rodríguez
+   * Derechos elementales - Jordi Sempere
+   * La Obsoletadora - Alejandro Rodríguez Tárraga
+   * Cuestión de tiempo - Héctor Kaparos Serrano
+3. **VIÑETAS**: 
+
+   La categoría viñeta ha quedado desierta.
+4. **MENCIÓN ESPECIAL**: 
+
+   * Mundo oculto - Elena Mejías
+   * Mientras Baba duerme - Elena Solera
+   * Eterno e infinito - Carlo Gallucci
 
 ## BASES:
 
@@ -55,8 +82,6 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
    **\*\*ACTUALIZACIÓN IMPORTANTE: Para rellenar el formulario, se debe usar una cuenta de email que no os identifique.**  En Drive Forms aparece por defecto el nombre que tienes en tu cuenta de email. Para evitar que veamos tu nombre, debes usar una cuenta gmail temporal con un nombre con pseudónimo. (Puedes crear un email con un nick estilo "participanteconvocatoria37", pero también valdría algo como "HomerSimpson12"). 
 
    Si ya tienes una cuenta así, perfecto. Si no, tendrás que crear una (¡SENTIMOS LAS MOLESTIAS! ¡Pero por ahora es la forma que tenemos de garantizar el anonimato!)
-
-
 
    **Deberá utilizarse ÚNICAMENTE el formulario destinado para esta convocatoria** (esto es para garantizar la anonimidad). No uséis nuestro email en esta ocasión para el envío.
 
