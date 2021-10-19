@@ -12,7 +12,22 @@ DROIDS & DRUIDS CON EDICIONES MEDINA
 
 Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](mailto:droidsanddruids@gmail.com) (**SOLO DUDAS**. Para el envío tenéis que usar el formulario indicado abajo)
 
-⚠️ Del 10 de julio al 10 de Septiembre 2021 ⚠️
+⚠️ CONVOCATORIA CERRADA ⚠️
+
+
+
+
+
+## SELECCIONADOS:
+
+1. **POEMAS:** 
+2. **RELATOS**:
+
+
+
+
+
+
 
 ## BASES:
 
@@ -55,8 +70,6 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
    **\*\*ACTUALIZACIÓN IMPORTANTE: Para rellenar el formulario, se debe usar una cuenta de email que no os identifique.**  En Drive Forms aparece por defecto el nombre que tienes en tu cuenta de email. Para evitar que veamos tu nombre, debes usar una cuenta gmail temporal con un nombre con pseudónimo. (Puedes crear un email con un nick estilo "participanteconvocatoria37", pero también valdría algo como "HomerSimpson12"). 
 
    Si ya tienes una cuenta así, perfecto. Si no, tendrás que crear una (¡SENTIMOS LAS MOLESTIAS! ¡Pero por ahora es la forma que tenemos de garantizar el anonimato!)
-
-
 
    **Deberá utilizarse ÚNICAMENTE el formulario destinado para esta convocatoria** (esto es para garantizar la anonimidad). No uséis nuestro email en esta ocasión para el envío.
 
