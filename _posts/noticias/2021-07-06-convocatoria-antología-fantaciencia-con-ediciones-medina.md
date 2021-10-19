@@ -37,7 +37,9 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
    La categoría viñeta ha quedado desierta.
 4. **MENCIÓN ESPECIAL**: 
 
-   *
+   * Mundo oculto - Elena Mejías
+   * Mientras Baba duerme - Elena Solera
+   * Eterno e infinito - Carlo Gallucci
 
 ## BASES:
 
