@@ -19,11 +19,19 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
 1. **POEMAS:** 
 
    * Allí donde delinquen los faunos - Esther González
-   * De la conversación entre un hada y un androide - Hector Vielva
+   * De la conversación entre un hada y un androide - Héctor Vielva
    * Estrellas de Salitre - Arien Vega
 2. **RELATOS**:
 
-   *
+   * Los cerezos nunca florecen - Juan Cuquejo Mira
+   * Las mantis de cristal - Martina Alcobendas
+   * El ganso, la oca y el pato - Cándido Pérez-Segurado
+   * El espécimen de la laguna - Laura R. Rodríguez
+   * Ordalía lunar - Aitor Aráez Pérez
+   * Al alcance de la mano - Noelia Rodríguez
+   * Derechos elementales - Jordi Sempere
+   * La Obsoletadora - Alejandro Rodríguez Tárraga
+   * Cuestión de tiempo - Héctor Kaparos Serrano
 3. **VIÑETAS**: 
 4. **MENCIÓN ESPECIAL**: 
 
