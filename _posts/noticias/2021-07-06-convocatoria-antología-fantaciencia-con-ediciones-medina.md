@@ -14,20 +14,18 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
 
 ⚠️ CONVOCATORIA CERRADA ⚠️
 
-
-
-
-
 ## SELECCIONADOS:
 
 1. **POEMAS:** 
+
+   * Allí donde delinquen los faunos - Esther González
+   * De la conversación entre un hada y un androide - Hector Vielva
+   * Estrellas de Salitre - Arien Vega
 2. **RELATOS**:
 
-
-
-
-
-
+   *
+3. **VIÑETAS**: 
+4. **MENCIÓN ESPECIAL**: 
 
 ## BASES:
 
