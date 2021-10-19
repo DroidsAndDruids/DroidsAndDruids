@@ -24,7 +24,7 @@ Recepción de relatos/artículos para el **número IV: ARTE**, abierta hasta el 
 
    Atención: NO queremos apología del racismo, machismo u otra discriminación ni de la crueldad animal. No hay unas reglas exactas sobre qué se admite o no, debéis guiaros por el sentido común. Si falta al respeto a algún colectivo, probablemente no nos guste.
 6. Se admiten **relatos, poemas, viñetas** y **artículos** de ciencia ficción y género fantástico (incluye terror fantástico), en castellano de hasta **3000 palabras**, en formato **Word** en **Times New Roman 12**. En el documento no debe incluirse nombre o datos personales. Solamente el título y la obra.
-7. Deben enviarse rellenando este [FORMULARIO](https://forms.gle/8D7eKKm2z34dpR7F9) hasta el 17 de Noviembre de 2021
+7. Deben enviarse rellenando este [FORMULARIO](https://forms.gle/8D7eKKm2z34dpR7F9) hasta el 17 de Noviembre de 2021 (incluido)
 8. Los seleccionados se conocerán a finales de noviembre o principios de diciembre (según cantidad de obras). Cualquier retraso o alteración del calendario será notificada en @droidsanddruids. 
 9. Los participantes seleccionados verán **publicados sus trabajos en el siguiente número de la revista, a MEDIADOS DE DICIEMBRE**, y además, se elegirá un ganador, **cuyo relato será radioficcionado en el podcast Droids & Druids.**
 10. A los seleccionados se les pedirá una breve nota biográfica para incluir en la revista.
