@@ -33,7 +33,11 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
    * La Obsoletadora - Alejandro Rodríguez Tárraga
    * Cuestión de tiempo - Héctor Kaparos Serrano
 3. **VIÑETAS**: 
+
+   La categoría viñeta ha quedado desierta.
 4. **MENCIÓN ESPECIAL**: 
+
+   *
 
 ## BASES:
 
