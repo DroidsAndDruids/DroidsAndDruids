@@ -19,8 +19,6 @@ A continuación, una lista por orden alfabético de autoras murcianas de ciencia
 
 (Abarán, 1992) es diseñadora y correctora, además de escritora y miembro del portal La Nave Invisible, dedicado a visibilizar a escritoras de fantasía, ciencia ficción y terror. Ha publicado relatos en revistas como *SuperSonic* y en varias antologías. También es autora de dos novelas cortas, ***Izahi, a tus hijas*** (Ed. Hati) y ***El pasado es un cazador paciente*** (Ed. Sportula). En 2022 publicará su primera novela con Ed. Crononauta: ***Concierto en sol menor***.
 
-![]()
-
 Ana Galvañ
 
 ​​<https://lanaveinvisible.com/2018/07/09/ana-galvan/>
