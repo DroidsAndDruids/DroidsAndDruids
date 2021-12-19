@@ -56,7 +56,15 @@ Nacida y criada en Murcia, Judit Da Silva es autora de las novelas románticas *
 
 
 
-Y por supuesto, podéis también leer alguna cosilla nuestra: 
+**Y por supuesto, podéis también leer alguna cosilla nuestra, que también somos murcianas :)**
 
-* **Elena Torró,** que ha publicado varios relatos en su web [Escrito por](https://escritopor.elenatorro.com/), como **Headlink** o **la Daga de Dagrun**. 
-* Inés Galiano, que ha publicado la novela La luna de Gathelic (Ed. Malas Artes, 2021) y Vallparadis
+
+
+* #### **[Elena Torró](https://escritopor.elenatorro.com/):**
+
+  Ha publicado varios relatos en su web *[Escrito por](https://escritopor.elenatorro.com/),* como **Headlink** o **la Daga de Dagrun**. 
+
+
+* #### **[Inés Galiano](http://inesgaliano.com/):**
+
+  Ha publicado la novela de fantasía ***La luna de Gathelic*** (Ed. Malas Artes, 2021), Vallparadis (relato autopublicado) y pronto saldrá la novelette de cifi ***Susanna Blue*** (Ed. Pluma y Píxel, 2022).
