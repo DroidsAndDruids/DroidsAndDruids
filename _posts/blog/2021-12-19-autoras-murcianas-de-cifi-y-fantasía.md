@@ -23,6 +23,10 @@ Nació en 1999 en Montevideo, Uruguay, pero ha crecido en Murcia. Hizo el bachi
 
 En 2020 ganó el I Certamen Malas Artes con *Sin horizonte,* una novela de fantasía urbana. 
 
+## [Escobar, Lorena](https://lektu.com/e/lorena-escobar/2672?af=leo)
+
+Autora Murciana de relatos cortos publicados en Lektu.
+
 ## [Galvañ, Ana ](https://anagalvan.com/)
 
 Autora de cómics e ilustradora murciana. Tras su paso por la Facultad de Bellas Artes de Valencia se especializó en creatividad y dirección de arte. Más tarde abandonó la publicidad para dedicarse de lleno al cómic y la ilustración. Actualmente vive en Murcia donde trabaja desde su propio estudio en el ámbito editorial. Ha colaborado con prensa y editoriales como El País, The Guardian, The Washington Post, The New York Times y Berliner. En el ámbito del cómic, sus historias han aparecido en publicaciones como Fantagraphics, Nobrow, Kus!, Vertigo DC, Apa-Apa y Fosfatina. En 2016 recibió uno de los diez premios Gráffica y en 2020 fue nominada a uno de los premios Ignatz. Recientemente ha publicado *[Tarde en McBurger’s](http://www.apaapacomics.com/tarde-en-mcburgers),* una historia preadolescente y fantástica editada por [Apa Apa cómics](http://www.apaapacomics.com/).
@@ -41,3 +45,7 @@ Bilbaína de sangre pero murciana de corazón. En la adolescencia ganó varias v
 ## [Vicente, Ángeles](https://es.wikipedia.org/wiki/%C3%81ngeles_Vicente)
 
 Autora de Cartagena nacida en 1878. Escribió ***Zezé,*** la primera novela en castellano con una protagonista lesbiana. Se le conocen relatos de ciencia ficción. (¡Gracias, Lola Robles, por la aportación!)
+
+## [da Silva, Judit](https://romantic-ediciones.com/judith-da-silva/)
+
+Nacida y criada en Murcia, Judit Da Silva es autora de las novelas románticas ***Volver a Encontrarnos***, el primer libro de la saga Bishopstoke, bajo la editorial Romantic, y ***Fuego***, el segundo libro de la saga. También ha publicado la bilogía*** [El ocaso del mundo](https://www.edicionesfreya.com/product-tag/judit-da-silva/)*** con Ed. Freya.
