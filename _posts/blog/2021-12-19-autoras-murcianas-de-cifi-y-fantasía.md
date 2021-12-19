@@ -15,6 +15,14 @@ Organizando nuestro primer evento en vivo de droides y druidas, comencé a inves
 
 A continuación, una lista por orden alfabético de autoras murcianas de ciencia ficción y fantasía. ¿Conoces alguna más que no está en la lista? ¡Escríbenos!
 
+## **[Costa, Lou M. ](https://www.edicioneshati.com/lou-m-costa/)**
+
+Nació en 1999 en Montevideo, Uruguay, pero ha crecido en Murcia. Hizo el bachillerato de Humanidades y estudió dos años la carrera de Estudios de Asia Oriental en la Universidad de Sevilla. Actualmente sus estudios están centrados en varios idiomas como japonés, chino e italiano. Con Ediciones Hati ha publicado una novela de fantasía, *Crónicas de Rapsodia I: Deseos de brujo,* y ha participado en dos de sus antologías de relatos, *El corazón de Ixchel* (fantasía hopepunk) y *¿Quién está en la luna?* (ciencia ficción middlegrade).
+
+En 2020 ganó el I Certamen Malas Artes con *Sin horizonte,* una novela de fantasía urbana. 
+
+
+
 ## [Galvañ, Ana ](https://anagalvan.com/)
 
 Autora de cómics e ilustradora murciana. Tras su paso por la Facultad de Bellas Artes de Valencia se especializó en creatividad y dirección de arte. Más tarde abandonó la publicidad para dedicarse de lleno al cómic y la ilustración. Actualmente vive en Murcia donde trabaja desde su propio estudio en el ámbito editorial. Ha colaborado con prensa y editoriales como El País, The Guardian, The Washington Post, The New York Times y Berliner. En el ámbito del cómic, sus historias han aparecido en publicaciones como Fantagraphics, Nobrow, Kus!, Vertigo DC, Apa-Apa y Fosfatina. En 2016 recibió uno de los diez premios Gráffica y en 2020 fue nominada a uno de los premios Ignatz. Recientemente ha publicado *[Tarde en McBurger’s](http://www.apaapacomics.com/tarde-en-mcburgers),* una historia preadolescente y fantástica editada por [Apa Apa cómics](http://www.apaapacomics.com/).
@@ -25,5 +33,3 @@ Autora de cómics e ilustradora murciana. Tras su paso por la Facultad de Bellas
 ## [Maquilón, Laura S.](https://lanaveinvisible.com/2017/09/14/laura-s-maquilon/)
 
 (Abarán, 1992) es diseñadora y correctora, además de escritora y miembro del portal La Nave Invisible, dedicado a visibilizar a escritoras de fantasía, ciencia ficción y terror. Ha publicado relatos en revistas como *SuperSonic* y en varias antologías. También es autora de dos novelas cortas, ***Izahi, a tus hijas*** (Ed. Hati) y ***El pasado es un cazador paciente*** (Ed. Sportula). En 2022 publicará su primera novela con Ed. Crononauta: ***Concierto en sol menor***.
-
-​​<https://lanaveinvisible.com/2018/07/09/ana-galvan/>
