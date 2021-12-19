@@ -15,4 +15,4 @@ Organizando nuestro primer evento en vivo de droides y druidas, comencé a inves
 
 A continuación, una lista por orden alfabético de autoras murcianas de ciencia ficción y fantasía. ¿Conoces alguna más que no está en la lista? ¡Escríbenos!
 
-## Maquilón, Laura
+## Maquilón, Laura S.
