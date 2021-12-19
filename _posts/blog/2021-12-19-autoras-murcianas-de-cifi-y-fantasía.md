@@ -4,7 +4,7 @@ title: Autoras murcianas de cifi y fantasía
 author:
   - id: ines-galiano
     name: Inés Galiano
-    link: inesgaliano.com
+    link: ""
 tags:
   - tag: autoras
 date: 2021-01-03T18:51:39.396Z
