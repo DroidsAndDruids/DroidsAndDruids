@@ -40,4 +40,4 @@ Bilbaína de sangre pero murciana de corazón. En la adolescencia ganó varias v
 
 ## [Vicente, Ángeles](https://es.wikipedia.org/wiki/%C3%81ngeles_Vicente)
 
-Autora de Cartagena nacida en 1878. Escribió la primera novela en castellano con una protagonista lesbiana. Se le conocen relatos de ciencia ficción. (¡Gracias, Lola Robles, por la aportación!)
+Autora de Cartagena nacida en 1878. Escribió ***Zezé,*** la primera novela en castellano con una protagonista lesbiana. Se le conocen relatos de ciencia ficción. (¡Gracias, Lola Robles, por la aportación!)
