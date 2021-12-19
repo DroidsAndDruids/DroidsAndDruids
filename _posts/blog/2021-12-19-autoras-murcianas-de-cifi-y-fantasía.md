@@ -1,0 +1,30 @@
+---
+layout: blog
+title: Autoras murcianas de cifi y fantasía
+author:
+  - id: ines-galiano
+    name: Inés Galiano
+    link: inesgaliano.com
+tags:
+  - tag: autoras
+date: 2021-01-03T18:51:39.396Z
+description: Investigamos y elaboramos una lista de autoras murcianas de cifi y fantasía
+category: blog
+---
+Organizando nuestro primer evento en vivo de droides y druidas, comencé a investigar autoras murcianas de fantasía y ciencia ficción para entrevistarlas en directo en la cafetería Ítaca. Con esta búsqueda descubrí bastante más autoras de las que conocíamos y pensé que era una buena idea recopilarlas, ¡para que más personas puedan descubrirlas!
+
+A continuación, una lista por orden alfabético de autoras murcianas de ciencia ficción y fantasía. ¿Conoces alguna más que no está en la lista? ¡Escríbenos!
+
+## Maquilón, Laura S.
+
+(Abarán, 1992) es diseñadora y correctora, además de escritora y miembro del portal La Nave Invisible, dedicado a visibilizar a escritoras de fantasía, ciencia ficción y terror. Ha publicado relatos en revistas como *SuperSonic* y en varias antologías. También es autora de dos novelas cortas, *Izahi, a tus hijas* (Hati) y *El pasado es un cazador paciente* (Sportula).
+
+
+
+![](https://lh6.googleusercontent.com/dQFJSjACwDGI3KpnY7EfYIJBHpW9VaXd4bzjbjL2zZRy-krROlub2coAnO8JbvnaAMVu_4edvBwf5C67i5SjZURx1AG5XbtnBBu3gj7C_hjBooz7SjT82WHcr9TAM_M3MXbT85VN)
+
+
+
+Ana Galvañ
+
+​​<https://lanaveinvisible.com/2018/07/09/ana-galvan/>
