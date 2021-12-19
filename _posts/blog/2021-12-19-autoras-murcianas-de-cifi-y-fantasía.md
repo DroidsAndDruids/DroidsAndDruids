@@ -13,17 +13,15 @@ category: blog
 ---
 Organizando nuestro primer evento en vivo de droides y druidas, comencé a investigar autoras murcianas de fantasía y ciencia ficción para entrevistarlas en directo en la cafetería Ítaca. Con esta búsqueda descubrí bastante más autoras de las que conocíamos y pensé que era una buena idea recopilarlas, ¡para que más personas puedan descubrirlas!
 
-### **Una lista por orden alfabético de autoras murcianas de ciencia ficción y fantasía.** 
+### **Una lista por orden alfabético de autoras murcianas de ciencia ficción y fantasía.**
 
 **¿Conoces alguna más que no está en la lista? ¡Escríbenos!**
 
 ## **[Costa, Lou M. ](https://www.edicioneshati.com/lou-m-costa/)**
 
-Nació en 1999 en Montevideo, Uruguay, pero ha crecido en Murcia. Hizo el bachillerato de Humanidades y estudió dos años la carrera de Estudios de Asia Oriental en la Universidad de Sevilla. Actualmente sus estudios están centrados en varios idiomas como japonés, chino e italiano. Con Ediciones Hati ha publicado una novela de fantasía, ***Crónicas de Rapsodia I: Deseos de brujo**,* y ha participado en dos de sus antologías de relatos, ***El corazón de Ixchel*** (fantasía hopepunk) y ***¿Quién está en la luna?*** (ciencia ficción middlegrade).
+Nació en 1999 en Montevideo, Uruguay, pero ha crecido en Murcia. Hizo el bachillerato de Humanidades y estudió dos años la carrera de Estudios de Asia Oriental en la Universidad de Sevilla. Actualmente sus estudios están centrados en varios idiomas como japonés, chino e italiano. Con Ediciones Hati ha publicado una novela de fantasía, **\*Crónicas de Rapsodia I: Deseos de brujo**,* y ha participado en dos de sus antologías de relatos, ***El corazón de Ixchel*** (fantasía hopepunk) y ***¿Quién está en la luna?*** (ciencia ficción middlegrade).
 
 En 2020 ganó el I Certamen Malas Artes con *Sin horizonte,* una novela de fantasía urbana. 
-
-
 
 ## [Galvañ, Ana ](https://anagalvan.com/)
 
@@ -36,8 +34,10 @@ Autora de cómics e ilustradora murciana. Tras su paso por la Facultad de Bellas
 
 (Abarán, 1992) es diseñadora y correctora, además de escritora y miembro del portal La Nave Invisible, dedicado a visibilizar a escritoras de fantasía, ciencia ficción y terror. Ha publicado relatos en revistas como *SuperSonic* y en varias antologías. También es autora de dos novelas cortas, ***Izahi, a tus hijas*** (Ed. Hati) y ***El pasado es un cazador paciente*** (Ed. Sportula). En 2022 publicará su primera novela con Ed. Crononauta: ***Concierto en sol menor***.
 
-
-
 ## **[Morán Iglesias, Laura ](https://lauramoranescritora.com/)**
 
 Bilbaína de sangre pero murciana de corazón. En la adolescencia ganó varias veces el Certamen literario Miguel Hernández de la Vega Baja. Estudió Filología inglesa en la Universidad de Murcia, donde se licenció en 2012, y ahora dedica su tiempo a escribir novelas y a traducir videojuegos. Su primera novela fue ***A través de la arena*** (autopublicada, 2017), de fantasía juvenil. En 2018 publicó ***Pastelería Emporio*** con Insomnia Ediciones, una novela corta que mezcla la ambientación de fantasía más clásica con el humor y la comida y ha participado en varias antologías como ***La isla del escritor*** (LiterUp, 2016), y es la antóloga de ***La Otra Fantasía Medieval*,** una antología de relatos de fantasía medieval sin machismo.
+
+## [Vicente, Ángeles](https://es.wikipedia.org/wiki/%C3%81ngeles_Vicente)
+
+Autora de Cartagena nacida en 1878. Escribió la primera novela en castellano con una protagonista lesbiana. Se le conocen relatos de ciencia ficción. (¡Gracias, Lola Robles, por la aportación!)
