@@ -11,7 +11,7 @@ date: 2021-01-03T18:51:39.396Z
 description: Investigamos y elaboramos una lista de autoras murcianas de cifi y fantasía
 category: blog
 ---
-Organizando nuestro primer evento en vivo de droides y druidas, comencé a investigar autoras murcianas de fantasía y ciencia ficción para entrevistarlas en directo en la cafetería Ítaca. Con esta búsqueda descubrí bastante más autoras de las que conocíamos y pensé que era una buena idea recopilarlas, ¡para que más personas puedan descubrirlas!
+Organizando nuestro primer evento en vivo de droides y druidas, comencé a investigar autoras murcianas de fantasía y ciencia ficción para entrevistarlas en directo en la cafetería Ítaca. Con esta búsqueda descubrí bastante más autoras de las que conocíamos y pensé que era una buena idea recopilarlas, para que más personas puedan descubrirlas :)
 
 ### **Una lista por orden alfabético de autoras murcianas de ciencia ficción y fantasía.**
 
@@ -34,6 +34,10 @@ Autora de cómics e ilustradora murciana. Tras su paso por la Facultad de Bellas
 * GALVAÑ es el apellido auténtico con "eñe", no una licencia artística.
 * Tuvimos la suerte de entrevistarla en el **club de lectura del podcast, en el episodio 1x10 sobre el cómic Pulse enter para continuar**
 
+## [Martínez Barquero, Isabel](https://elcobijodeunadesalmada.blogspot.com/)
+
+Nacida en Murcia, abogada y profesora. Tiene multitud de obras publicadas, entre ellas ***La epidemia del siglo*** (Létrame, 2019) una distopía futurista ambientada en 2049 y bastante premonitoria.
+
 ## [Maquilón, Laura S.](https://lanaveinvisible.com/2017/09/14/laura-s-maquilon/)
 
 (Abarán, 1992) es diseñadora y correctora, además de escritora y miembro del portal La Nave Invisible, dedicado a visibilizar a escritoras de fantasía, ciencia ficción y terror. Ha publicado relatos en revistas como *SuperSonic* y en varias antologías. También es autora de dos novelas cortas, ***Izahi, a tus hijas*** (Ed. Hati) y ***El pasado es un cazador paciente*** (Ed. Sportula). En 2022 publicará su primera novela con Ed. Crononauta: ***Concierto en sol menor***.
@@ -46,6 +50,13 @@ Bilbaína de sangre pero murciana de corazón. En la adolescencia ganó varias v
 
 Autora de Cartagena nacida en 1878. Escribió ***Zezé,*** la primera novela en castellano con una protagonista lesbiana. Se le conocen relatos de ciencia ficción. (¡Gracias, Lola Robles, por la aportación!)
 
-## [da Silva, Judit](https://romantic-ediciones.com/judith-da-silva/)
+## [Silva, Judit da](https://romantic-ediciones.com/judith-da-silva/)
 
 Nacida y criada en Murcia, Judit Da Silva es autora de las novelas románticas ***Volver a Encontrarnos***, el primer libro de la saga Bishopstoke, bajo la editorial Romantic, y ***Fuego***, el segundo libro de la saga. También ha publicado la bilogía*** [El ocaso del mundo](https://www.edicionesfreya.com/product-tag/judit-da-silva/)*** con Ed. Freya.
+
+
+
+Y por supuesto, podéis también leer alguna cosilla nuestra: 
+
+* **Elena Torró,** que ha publicado varios relatos en su web [Escrito por](https://escritopor.elenatorro.com/), como **Headlink** o **la Daga de Dagrun**. 
+* Inés Galiano, que ha publicado la novela La luna de Gathelic (Ed. Malas Artes, 2021) y Vallparadis
