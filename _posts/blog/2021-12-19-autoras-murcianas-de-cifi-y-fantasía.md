@@ -7,7 +7,7 @@ author:
     link: ""
 tags:
   - tag: autoras
-date: 2021-01-03T18:51:39.396Z
+date: 2021-12-20T06:40:40.938Z
 description: Investigamos y elaboramos una lista de autoras murcianas de cifi y fantasía
 category: blog
 ---
