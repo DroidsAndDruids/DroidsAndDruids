@@ -15,7 +15,7 @@ Organizando nuestro primer evento en vivo de droides y druidas, comencé a inves
 
 ## **Autoras murcianas de ciencia ficción y fantasía.**
 
-**¿Conoces alguna más que no está en la lista? ¡Escríbenos!**
+**¿Conoces alguna más que no está en la lista o te gustaría que editáramos alguna bio? ¡Escríbenos a droidsanddruids@gmail.com!**
 
 ## **[Costa, Lou M. ](https://www.edicioneshati.com/lou-m-costa/)**
 
