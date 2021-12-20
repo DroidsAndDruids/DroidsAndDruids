@@ -15,7 +15,7 @@ Organizando nuestro primer evento en vivo de droides y druidas, comencé a inves
 
 ## **Autoras murcianas de ciencia ficción y fantasía.**
 
-**¿Conoces alguna más que no está en la lista? ¡Escríbenos!**
+**¿Conoces alguna más que no está en la lista o te gustaría que editáramos alguna bio? ¡Escríbenos a droidsanddruids@gmail.com!**
 
 ## **[Costa, Lou M. ](https://www.edicioneshati.com/lou-m-costa/)**
 
@@ -52,7 +52,7 @@ Autora de Cartagena nacida en 1878. Escribió ***Zezé,*** la primera novela en 
 
 ## [Silva, Judit da](https://romantic-ediciones.com/judith-da-silva/)
 
-Nacida y criada en Murcia, Judit Da Silva es autora de las novelas románticas ***Volver a Encontrarnos***, el primer libro de la saga Bishopstoke, bajo la editorial Romantic, y ***Fuego***, el segundo libro de la saga. También ha publicado la bilogía*** [El ocaso del mundo](https://www.edicionesfreya.com/product-tag/judit-da-silva/)*** con Ed. Freya.
+Nacida y criada en Murcia, Judit Da Silva es autora de las novelas románticas ***Volver a Encontrarnos***, el primer libro de la saga Bishopstoke, bajo la editorial Romantic, y ***Fuego***, el segundo libro de la saga. También ha publicado la bilogía ***[El ocaso del mundo](https://www.edicionesfreya.com/product-tag/judit-da-silva/)*** con Ed. Freya.
 
 #### **Y por supuesto, podéis también leer alguna cosilla nuestra, que también somos murcianas :)**
 
