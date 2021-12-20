@@ -54,7 +54,7 @@ Autora de Cartagena nacida en 1878. Escribió ***Zezé,*** la primera novela en 
 
 Nacida y criada en Murcia, Judit Da Silva es autora de las novelas románticas ***Volver a Encontrarnos***, el primer libro de la saga Bishopstoke, bajo la editorial Romantic, y ***Fuego***, el segundo libro de la saga. También ha publicado la bilogía*** [El ocaso del mundo](https://www.edicionesfreya.com/product-tag/judit-da-silva/)*** con Ed. Freya.
 
-**Y por supuesto, podéis también leer alguna cosilla nuestra, que también somos murcianas :)**
+#### **Y por supuesto, podéis también leer alguna cosilla nuestra, que también somos murcianas :)**
 
 * #### **[Elena Torró](https://escritopor.elenatorro.com/):**
 
