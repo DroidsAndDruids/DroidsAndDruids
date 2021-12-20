@@ -19,7 +19,7 @@ Organizando nuestro primer evento en vivo de droides y druidas, comencé a inves
 
 ## **[Costa, Lou M. ](https://www.edicioneshati.com/lou-m-costa/)**
 
-Nació en 1999 en Montevideo, Uruguay, pero ha crecido en Murcia. Hizo el bachillerato de Humanidades y estudió dos años la carrera de Estudios de Asia Oriental en la Universidad de Sevilla. Actualmente sus estudios están centrados en varios idiomas como japonés, chino e italiano. Con Ediciones Hati ha publicado una novela de fantasía, **\*Crónicas de Rapsodia I: Deseos de brujo**,* y ha participado en dos de sus antologías de relatos, ***El corazón de Ixchel*** (fantasía hopepunk) y ***¿Quién está en la luna?*** (ciencia ficción middlegrade).
+Nació en 1999 en Montevideo, Uruguay, pero ha crecido en Murcia. Hizo el bachillerato de Humanidades y estudió dos años la carrera de Estudios de Asia Oriental en la Universidad de Sevilla. Actualmente sus estudios están centrados en varios idiomas como japonés, chino e italiano. Con Ediciones Hati ha publicado una novela de fantasía, **Crónicas de Rapsodia I: Deseos de brujo**, y ha participado en dos de sus antologías de relatos, ***El corazón de Ixchel*** (fantasía hopepunk) y ***¿Quién está en la luna?*** (ciencia ficción middlegrade).
 
 En 2020 ganó el I Certamen Malas Artes con *Sin horizonte,* una novela de fantasía urbana. 
 
@@ -41,8 +41,6 @@ Nacida en Murcia, abogada y profesora. Tiene multitud de obras publicadas, entre
 ## [Maquilón, Laura S.](https://lanaveinvisible.com/2017/09/14/laura-s-maquilon/)
 
 (Abarán, 1992) es diseñadora y correctora, además de escritora y miembro del portal La Nave Invisible, dedicado a visibilizar a escritoras de fantasía, ciencia ficción y terror. Ha publicado relatos en revistas como *SuperSonic* y en varias antologías. También es autora de dos novelas cortas, ***Izahi, a tus hijas*** (Ed. Hati) y ***El pasado es un cazador paciente*** (Ed. Sportula). En 2022 publicará su primera novela con Ed. Crononauta: ***Concierto en sol menor***.
-
-![Libro Izahi a tus hijas ](/public/images/captura-de-pantalla-2021-12-19-a-las-19.33.04-copia.png)
 
 ## **[Morán Iglesias, Laura ](https://lauramoranescritora.com/)**
 
