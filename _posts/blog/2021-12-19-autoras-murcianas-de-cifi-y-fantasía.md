@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Autoras murcianas de cifi y fantasía
+title: Autoras murcianas de ciencia ficción y fantasía
 author:
   - id: ines-galiano
     name: Inés Galiano
