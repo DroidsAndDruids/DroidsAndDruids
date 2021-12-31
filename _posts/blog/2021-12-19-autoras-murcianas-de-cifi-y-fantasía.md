@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Autoras murcianas de cifi y fantasía
+title: Autoras murcianas de ciencia ficción y fantasía
 author:
   - id: ines-galiano
     name: Inés Galiano
@@ -25,7 +25,7 @@ En 2020 ganó el I Certamen Malas Artes con *Sin horizonte,* una novela de fan
 
 ## [Escobar, Lorena](https://lektu.com/e/lorena-escobar/2672?af=leo)
 
-Autora Murciana de relatos cortos publicados en Lektu.
+Autora murciana de relatos cortos publicados en Lektu.
 
 ## [Galvañ, Ana ](https://anagalvan.com/)
 
