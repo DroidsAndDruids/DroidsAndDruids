@@ -115,4 +115,10 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 **Número 4: Arte**
 
-*
+* ***Mientras Baba duerme*** -Elena Solera
+* ***Fin de línea*** - Celia Corral-Vázquez
+* ***El artífice*** - Jesús Durán Durán 
+* ***registroU243.txt*** - Javier Alcalde Marchena 
+* ***Ensamblando*** - Marla Hectic 
+* ***Androide rico, androide pobre*** - Jose David Cano "Gorzas" 
+* ***La verdad de los hombres*** - Andrés Bigorra Mir
