@@ -84,15 +84,22 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 ### Relato
 
-* ***Os presento a mi nuevo Churri*** - Borja Alonso (Número 2: Criaturas)
-* ***Aniquilación*** - Yolanda Fernández Benito (Número 2: Criaturas)
-* ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" (Número 2: Criaturas)
-* ***Tomás -*** Jose David Cano "Gorzas" (Número 2: Criaturas)
-* ***Hambre*** - Mario Durán (Número 2: Criaturas)
-* ***La Druida*** - Laura R. Rodríguez (Número 2: Criaturas)
-* ***Sobre una mala noche*** - Aitor Aráez Pérez (Número 2: Criaturas)
-* ***Encargo en Itaca*** - Hector Vielva (Microrrelato ganador en el certamen #FLO2021 - Número 3: Viajes)
-* ***Qué te llevarías a una isla desierta*** - Aitor Aráez Pérez (Microrrelato del certamen #FLO2021 - Número 3: Viajes)
-* ***Extraño en el Paraíso*** - Yolanda Fernández Benito (Número 3: Viajes)
-* ***Ruina Selena*** - de Alejandro Rodríguez Tárraga "Shonen"  (Número 3: Viajes)
-* ***El elegido*** - Borja Echevarría (Número 3: Viajes)
+**Número 2: Criaturas**
+
+* ***Os presento a mi nuevo Churri*** - Borja Alonso 
+* ***Aniquilación*** - Yolanda Fernández Benito 
+* ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" 
+* ***Tomás -*** Jose David Cano "Gorzas" 
+* ***Hambre*** - Mario Durán 
+* ***La Druida*** - Laura R. Rodríguez 
+* ***Sobre una mala noche*** - Aitor Aráez Pérez 
+
+**Número 3: Viajes**
+
+* ***Encargo en Itaca*** - Hector Vielva (Microrrelato ganador en el certamen #FLO2021)
+* ***Qué te llevarías a una isla desierta*** - Aitor Aráez Pérez (Microrrelato del certamen #FLO2021 )
+* ***Extraño en el Paraíso*** - Yolanda Fernández Benito 
+* ***Ruina Selena*** - de Alejandro Rodríguez Tárraga "Shonen"  
+* ***El elegido*** - Borja Echevarría 
+* ***Mundo Neón*** - Laura Macías Pérez 
+* ***Los niños verán*** - Marla Hectic
