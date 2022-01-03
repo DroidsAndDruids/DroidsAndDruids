@@ -82,9 +82,15 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 ### Relato
 
 * ***La estrella de Txuxe***  - Len Belinchón (Número 1)
-* ***El Paquete*** - Jose David "Gorzas" (Número 1)
+* ***El Paquete*** - Jose David Cano "Gorzas" (Número 1)
 * ***La hora del esparcimiento***  - Mirto Torres (Número 1)
 * ***Dos claveles*** - Alejandro Rodríguez Tárraga (Número 1)
 * ***Os presento a mi nuevo Churri*** - Borja Alonso (Número 2: Criaturas)
 * ***Aniquilación*** - Yolanda Fernández Benito (Número 2: Criaturas)
 * ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" (Número 2: Criaturas)
+* ***Tomás -*** Jose David Cano "Gorzas" (Número 2: Criaturas)
+* ***Hambre*** - Mario Durán (Número 2: Criaturas)
+* ***La Druida*** - Laura R. Rodríguez (Número 2: Criaturas)
+* ***Sobre una mala noche*** - Aitor Aráez Pérez (Número 2: Criaturas)
+*
+*
