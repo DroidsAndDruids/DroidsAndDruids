@@ -69,7 +69,7 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 ### Candidatos 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
-*(Hemos excluido los relatos/poemas publicados por los miembros del equipo Droids & Druids)*
+*(Están ordenados por orden de aparición en los números de la revista. Hemos excluido los relatos/poemas publicados por los miembros del equipo Droids & Druids)*
 
 ***Puedes refrescar la memoria y volver a leerlos todos aquí en [LEKTU](https://lektu.com/e/droidsdruids/2399)***
 
@@ -82,3 +82,5 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 ##### Relato
 
 La estrella de Txuxe  - Len Belinchón (Número 1)
+
+El Paquete 28 - Jose David Gorzas
