@@ -104,4 +104,5 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 * ***Ruina Selena*** - de Alejandro Rodríguez Tárraga "Shonen"  
 * ***El elegido*** - Borja Echevarría 
 * ***Mundo Neón*** - Laura Macías Pérez 
-* ***Los niños verán*** - Marla Hectic
+* ***Los niños verán*** - Marla Hectic 
+* ***Amser Crima*** - Luis García
