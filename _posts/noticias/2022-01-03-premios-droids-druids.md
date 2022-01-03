@@ -6,6 +6,8 @@ description: ¡Llegan los premios de la revista Droids & Druids! Queremos
   reconocer a nuestros autores y que podáis elegir vuestros favoritos.
 category: noticias
 ---
+⭐ ***¿Eres editor y quieres incluir un libro de tu sello en el lote del premio? ¡Escríbenos a droidsanddruids@gmail.com!*** ⭐
+
 Hemos estado pensando mucho en cómo agradecer el apoyo a todos esos autores que han estado enviándonos sus obras desde los inicios de nuestra revista, y hemos llegado a un nuevo proyecto que esperamos que os guste.
 
 Para reconocer el talento de nuestros autores, convocamos los 
@@ -49,13 +51,13 @@ Un trofeo o diploma sencillo, un lote de libros y reconocimiento :)
 
 *Este premio no va de conseguir algo material sino de rescatar esos maravillosos relatos y darles otra nueva vida para que lleguen a más gente, así como reconocer a todos esos autores maravillosos que habéis apoyado la revista Droids & Druids :)* 
 
-
-
 **¿Cómo participo?**
 
 *Si eres autor:* Si has publicado este año en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
 
 *Si eres lector*: ¡Vota! Apoya tus obras favoritas y recomiéndalas :) 
+
+*Si eres un editor:* ¿Quieres incluir un libro de tu sello en el premio? ¡Escríbenos a droidsanddruids@gmail.com!
 
 **¿Cuál es el proceso de voto?**
 
@@ -64,6 +66,10 @@ Habilitaremos un formulario para votar. Habrá dos rondas de votación: la prime
 Los tres más votados serán los finalistas. En la segunda ronda, los votantes podrán votar un texto por categoría de entre los finalistas.
 
 En caso de que el premio Droide y el premio Druida coincidan, se escogerá el segundo más votado para el premio Druida, para que más autores puedan optar.
+
+
+
+⭐ *¿Tienes más dudas? Siempre estamos disponibles en droidsanddruids@gmail.com* ⭐
 
 
 
