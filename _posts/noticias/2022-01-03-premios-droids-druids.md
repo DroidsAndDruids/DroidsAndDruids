@@ -28,6 +28,10 @@ En 2 categorías (Relato y Poesía)
 
 
 
+### Más info:
+
+
+
 **¿Cuándo?**
 
 Abriremos las listas y los formularios de voto en enero de 2022. Después de dos rondas durante un par de semanas, conoceremos los ganadores.
