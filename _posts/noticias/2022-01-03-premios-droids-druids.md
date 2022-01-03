@@ -84,6 +84,10 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 * ***Caravansaria II: La Niña*** - Ana Tapia 
 * ***Duerme mi niño*** - Mirto Torres 
 
+**Número 4: Arte**
+
+*
+
 ### Relato [📇](https://emojipedia.org/card-index/)
 
 **Número 2: Criaturas**
@@ -106,3 +110,7 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 * ***Mundo Neón*** - Laura Macías Pérez 
 * ***Los niños verán*** - Marla Hectic 
 * ***Amser Crima*** - Luis García
+
+**Número 4: Arte**
+
+*
