@@ -79,10 +79,10 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 **Número 3: Viajes**
 
-* ***Para pasar el espejo hay que invocar un recuerdo*** - Irene B. Trenas (Poesía publicada en el certamen #FLO2021 - Número 3: Viajes)
-* ***No hay que viajar al reino de las hadas*** - Alejandro Rodríguez Tárraga "Shonen" (Poesía publicada en el certamen #FLO2021 - Número 3: Viajes)
-* ***Caravansaria II: La Niña*** - Ana Tapia (Número 3: Viajes)
-* ***Duerme mi niño*** - Mirto Torres (Número 3: Viajes)
+* ***Para pasar el espejo hay que invocar un recuerdo*** - Irene B. Trenas (#FLO2021)
+* ***No hay que viajar al reino de las hadas*** - Alejandro Rodríguez Tárraga "Shonen" (#FLO2021)
+* ***Caravansaria II: La Niña*** - Ana Tapia 
+* ***Duerme mi niño*** - Mirto Torres 
 
 ### Relato [📇](https://emojipedia.org/card-index/)
 
@@ -98,8 +98,8 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 **Número 3: Viajes**
 
-* ***Encargo en Itaca*** - Hector Vielva (Microrrelato ganador en el certamen #FLO2021)
-* ***Qué te llevarías a una isla desierta*** - Aitor Aráez Pérez (Microrrelato del certamen #FLO2021 )
+* ***Encargo en Itaca*** - Hector Vielva (Microrrelato ganador #FLO2021)
+* ***Qué te llevarías a una isla desierta*** - Aitor Aráez Pérez (Microrrelato #FLO2021 )
 * ***Extraño en el Paraíso*** - Yolanda Fernández Benito 
 * ***Ruina Selena*** - de Alejandro Rodríguez Tárraga "Shonen"  
 * ***El elegido*** - Borja Echevarría 
