@@ -61,6 +61,8 @@ Un trofeo o diploma sencillo, un lote de libros y reconocimiento :)
 
 **¿Cuál es el proceso de voto?**
 
+PRIMERA RONDA: Selecciona tus 3 obras favoritas de cada categoría usando ESTE FORMULARIO
+
 Habilitaremos un formulario para votar. Habrá dos rondas de votación: la primera ronda, cada votante podrá nominar tres obras en las categorías Relato y Poesía.
 
 Los tres más votados serán los finalistas. En la segunda ronda, los votantes podrán votar un texto por categoría de entre los finalistas.
@@ -81,7 +83,7 @@ En caso de que el premio Droide y el premio Druida coincidan, se escogerá el se
 
 
 
-### Poesía 🪶
+### Categoría Poesía 🪶
 
 **Número 3: Viajes**
 
@@ -96,7 +98,7 @@ En caso de que el premio Droide y el premio Druida coincidan, se escogerá el se
 * ***El blues del robot*** - Blanca Jiménez
 * ***Despierta Apolo y devuelve la música al mundo*** - Luis Gallardo Gil  "Pluma de Ícaro"
 
-### Relato [📇](https://emojipedia.org/card-index/)
+### Categoría Relato [📇](https://emojipedia.org/card-index/)
 
 **Número 2: Criaturas**
 
