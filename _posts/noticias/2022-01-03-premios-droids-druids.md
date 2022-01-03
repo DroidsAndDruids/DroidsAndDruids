@@ -67,7 +67,7 @@ Seleccionaremos en dos rondas. En la primera ronda, seleccionaremos 3 obras nomi
 
 *¡YA PUEDES VOTAR! --->* [⏰](https://emojipedia.org/alarm-clock/) ¡Hasta el 16 de enero INCLUIDO [⏰](https://emojipedia.org/alarm-clock/)
 
-Selecciona tus 3 obras favoritas de la lista de candidatas en cada categoría usando [ESTE FORMULARIO](https://docs.google.com/forms/d/e/1FAIpQLScJwSL4CcH7zcaVhiNR4O3ylRjJF3xbxwgws4YCAtc543-jjQ/viewform)
+Selecciona tus 3 obras favoritas de la lista de candidatas en cada categoría usando [ESTE FORMULARIO](https://forms.gle/326uiwcCRNt2vGMG9)
 
 Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán las finalistas. 
 
