@@ -28,7 +28,7 @@ En 2 categorías (Relato y Poesía)
 
 
 
-### Más info:
+## Más info:
 
 
 
@@ -67,7 +67,7 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 
 
-### Candidatos 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
+## Candidatos 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
 *(Están ordenados por orden de aparición en los números de la revista. Hemos excluido los relatos/poemas publicados por los miembros del equipo Droids & Druids)*
 
@@ -75,13 +75,14 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 
 
-##### Poesía
+### Poesía
 
 
 
-##### Relato
+### Relato
 
 * La estrella de Txuxe  - Len Belinchón (Número 1)
 * El Paquete - Jose David Gorzas (Número 1)
 * La hora del esparcimiento  - Mirto Torres (Número 1)
 * Dos claveles - Alejandro Rodríguez Tárraga (Número 1)
+* Os presento a mi nuevo Churri. - Borja Alonso (Número 2: Criaturas)
