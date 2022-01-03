@@ -61,17 +61,29 @@ Un trofeo o diploma sencillo, un lote de libros y reconocimiento :)
 
 **¿Cuál es el proceso de voto?**
 
-PRIMERA RONDA: Selecciona tus 3 obras favoritas de cada categoría usando ESTE FORMULARIO
+Seleccionaremos en dos rondas. En la primera ronda, seleccionaremos 3 obras nominadas de cada categoría para el premio Druida (público) y Droide (jurado). En la segunda, podréis votar vuestra obra ganadora de entre las tres finalistas de cada categoría.
 
-Habilitaremos un formulario para votar. Habrá dos rondas de votación: la primera ronda, cada votante podrá nominar tres obras en las categorías Relato y Poesía.
-
-Los tres más votados serán los finalistas. En la segunda ronda, los votantes podrán votar un texto por categoría de entre los finalistas.
-
-En caso de que el premio Droide y el premio Druida coincidan, se escogerá el segundo más votado para el premio Druida, para que más autores puedan optar.
-
-
+*En caso de que el premio Droide y el premio Druida coincidan, se escogerá el segundo más votado para el premio Druida, para que más autores puedan optar.*
 
 ⭐ *¿Tienes más dudas? Siempre estamos disponibles en droidsanddruids@gmail.com* ⭐
+
+
+
+### VOTA TUS FAVORITOS
+
+🏅 **PRIMERA RONDA** 🏅 
+
+*¡YA PUEDES VOTAR! --->* [⏰](https://emojipedia.org/alarm-clock/) ¡Hasta el 14 de enero![⏰](https://emojipedia.org/alarm-clock/)
+
+Selecciona tus 3 obras favoritas de la lista de candidatas en cada categoría usando ESTE FORMULARIO
+
+Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán las finalistas. 
+
+🏆  **RONDA FINAL** 🏆
+
+En la segunda ronda, los votantes podrán votar solamente un texto por categoría de entre los tres finalistas.
+
+*Este formulario estará activo más adelante.*
 
 
 
