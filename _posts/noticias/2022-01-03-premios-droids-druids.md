@@ -69,6 +69,8 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 ### Candidatos 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
+*(Hemos excluido los relatos publicados por los miembros del equipo Droids & Druids)*
+
 ##### Poesía
 
 
