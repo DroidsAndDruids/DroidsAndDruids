@@ -88,5 +88,6 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 * ***Hambre*** - Mario Durán (Número 2: Criaturas)
 * ***La Druida*** - Laura R. Rodríguez (Número 2: Criaturas)
 * ***Sobre una mala noche*** - Aitor Aráez Pérez (Número 2: Criaturas)
+* ***Encargo en Itaca*** - Hector Vielva (Microrrelato ganador en el certamen #FLO2021 - Número 3: Viajes)
 *
 *
