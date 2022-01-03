@@ -20,19 +20,13 @@ El premio del jurado. Vota el equipo de la revista.
 
 En 2 categorías (Relato y Poesía)
 
-
-
 #### Premio Druida 🧙‍♀️​
 
 El premio del público. ¡Votais vosotros!
 
 En 2 categorías (Relato y Poesía)
 
-
-
 ## Más info:
-
-
 
 **¿Cuándo?**
 
@@ -53,7 +47,7 @@ Un trofeo o diploma sencillo, un lote de libros y reconocimiento :)
 
 **¿Cómo participo?**
 
-***Si eres autore**:* Si has publicado este año en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
+**\*Si eres autore**:* Si has publicado este año en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
 
 ***Si eres lectore*:** ¡Vota! Apoya tus obras favoritas y recomiéndalas :) 
 
@@ -67,13 +61,11 @@ Seleccionaremos en dos rondas. En la primera ronda, seleccionaremos 3 obras nomi
 
 ⭐ *¿Tienes más dudas? Siempre estamos disponibles en droidsanddruids@gmail.com* ⭐
 
-
-
 ### VOTA TUS FAVORITOS
 
 🏅 **PRIMERA RONDA** 🏅 
 
-*¡YA PUEDES VOTAR! --->* [⏰](https://emojipedia.org/alarm-clock/) ¡Hasta el 14 de enero![⏰](https://emojipedia.org/alarm-clock/)
+*¡YA PUEDES VOTAR! --->* [⏰](https://emojipedia.org/alarm-clock/) ¡Hasta el 16 de enero![⏰](https://emojipedia.org/alarm-clock/)
 
 Selecciona tus 3 obras favoritas de la lista de candidatas en cada categoría usando ESTE FORMULARIO
 
@@ -85,15 +77,11 @@ En la segunda ronda, los votantes podrán votar solamente un texto por categorí
 
 *Este formulario estará activo más adelante.*
 
-
-
 ## Obras candidatas 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
 *(Están ordenados por orden de aparición en los números de la revista. Hemos excluido los relatos/poemas publicados por los miembros del equipo Droids & Druids)*
 
 ***Puedes refrescar la memoria y volver a leerlos todos aquí en [LEKTU](https://lektu.com/e/droidsdruids/2399)***
-
-
 
 ### Categoría Poesía 🪶
 
