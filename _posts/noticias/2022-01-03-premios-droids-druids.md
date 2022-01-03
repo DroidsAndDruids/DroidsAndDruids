@@ -71,7 +71,9 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 *(Hemos excluido los relatos/poemas publicados por los miembros del equipo Droids & Druids)*
 
-**Puedes refrescar la memoria y volverlos a leer aquí en [LEKTU](https://lektu.com/e/droidsdruids/2399)**
+***Puedes refrescar la memoria y volver a leerlos todos aquí en [LEKTU](https://lektu.com/e/droidsdruids/2399)***
+
+
 
 ##### Poesía
 
