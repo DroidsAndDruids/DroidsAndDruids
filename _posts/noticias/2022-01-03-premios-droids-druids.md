@@ -40,9 +40,9 @@ Abriremos las listas y los formularios de voto en enero de 2022. Después de dos
 
 **¿Qué obras pueden participar?**
 
-Relatos y poemas publicados en los números de la revista Droids & Druids del año anterior. En este caso de 2021: incluye los números II (Criaturas), III (Viajes) y IV (Arte). 
+Relatos y poemas publicados en los números de la revista Droids & Druids del año anterior. En este caso de 2021: incluye los números II (Criaturas), III (Viajes) y IV (Arte). También incluye los textos seleccionados para la FLO2021.
 
-También incluye los textos seleccionados para la FLO2021.
+👇 *Tienes la lista completa de obras candidatas más abajo* 👇
 
 
 
@@ -67,7 +67,7 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 
 
-## Candidatos 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
+## Obras candidatas 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
 *(Están ordenados por orden de aparición en los números de la revista. Hemos excluido los relatos/poemas publicados por los miembros del equipo Droids & Druids)*
 
