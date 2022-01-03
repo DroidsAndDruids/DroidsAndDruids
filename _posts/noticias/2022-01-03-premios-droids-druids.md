@@ -34,9 +34,7 @@ En 2 categorías (Relato y Poesía)
 
 **¿Cuándo?**
 
-Abriremos las listas y los formularios de voto en enero de 2022. Después de dos rondas durante un par de semanas, conoceremos los ganadores.
-
-
+¡Durante este mes de enero de 2022! Después de dos rondas, conoceremos los ganadores.
 
 **¿Qué obras pueden participar?**
 
@@ -55,15 +53,19 @@ Los tres más votados serán los finalistas. En la segunda ronda, los votantes p
 En caso de que el premio Droide y el premio Druida coincidan, se escogerá el segundo más votado para el premio Druida, para que más autores puedan optar.
 
 **\
-¿Cuál es la recompensa?**
+¿Cuál es el premio?**
 
-¡Sorpresa! (Barajamos un trofeo sencillo y/o un lote de libros, pero seamos sinceros, este premio no va de conseguir algo material sino de rescatar esos maravillosos relatos y darles otra nueva vida para que lleguen a más gente, así como reconocer a sus autores :) )
+Un trofeo o diploma sencillo, un lote de libros y reconocimiento :) 
+
+*Este premio no va de conseguir algo material sino de rescatar esos maravillosos relatos y darles otra nueva vida para que lleguen a más gente, así como reconocer a todos esos autores maravillosos que habéis apoyado la revista Droids & Druids :)* 
 
 
 
-**¿Cómo me apunto?**
+**¿Cómo participo?**
 
-Si has publicado este año en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
+*Si eres autor:* Si has publicado este año en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
+
+*Si eres lector*: ¡Vota! Apoya tus obras favoritas y recomiéndalas :) 
 
 
 
