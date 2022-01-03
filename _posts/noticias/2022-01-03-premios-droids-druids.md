@@ -80,6 +80,7 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 * ***Para pasar el espejo hay que invocar un recuerdo*** - Irene B. Trenas (Poesía publicada en el certamen #FLO2021 - Número 3: Viajes)
 * ***No hay que viajar al reino de las hadas*** - Alejandro Rodríguez Tárraga "Shonen" (Poesía publicada en el certamen #FLO2021 - Número 3: Viajes)
 * ***Caravansaria II: La Niña*** - Ana Tapia (Número 3: Viajes)
+* ***Duerme mi niño*** - Mirto Torres (Número 3: Viajes)
 
 ### Relato
 
@@ -92,4 +93,5 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 * ***Sobre una mala noche*** - Aitor Aráez Pérez (Número 2: Criaturas)
 * ***Encargo en Itaca*** - Hector Vielva (Microrrelato ganador en el certamen #FLO2021 - Número 3: Viajes)
 * ***Qué te llevarías a una isla desierta*** - Aitor Aráez Pérez (Microrrelato del certamen #FLO2021 - Número 3: Viajes)
+* ***Extraño en el Paraíso*** - Yolanda Fernández Benito (Número 3: Viajes)
 *
