@@ -42,16 +42,6 @@ Relatos y poemas publicados en los números de la revista Droids & Druids del a�
 
 👇 *Tienes la lista completa de obras candidatas más abajo* 👇
 
-
-
-**¿Cuál es el proceso de voto?**
-
-Habilitaremos un formulario para votar. Habrá dos rondas de votación: la primera ronda, cada votante podrá nominar tres obras en las categorías Relato y Poesía.
-
-Los tres más votados serán los finalistas. En la segunda ronda, los votantes podrán votar un texto por categoría de entre los finalistas.
-
-En caso de que el premio Droide y el premio Druida coincidan, se escogerá el segundo más votado para el premio Druida, para que más autores puedan optar.
-
 **\
 ¿Cuál es el premio?**
 
@@ -66,6 +56,14 @@ Un trofeo o diploma sencillo, un lote de libros y reconocimiento :)
 *Si eres autor:* Si has publicado este año en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
 
 *Si eres lector*: ¡Vota! Apoya tus obras favoritas y recomiéndalas :) 
+
+**¿Cuál es el proceso de voto?**
+
+Habilitaremos un formulario para votar. Habrá dos rondas de votación: la primera ronda, cada votante podrá nominar tres obras en las categorías Relato y Poesía.
+
+Los tres más votados serán los finalistas. En la segunda ronda, los votantes podrán votar un texto por categoría de entre los finalistas.
+
+En caso de que el premio Droide y el premio Druida coincidan, se escogerá el segundo más votado para el premio Druida, para que más autores puedan optar.
 
 
 
