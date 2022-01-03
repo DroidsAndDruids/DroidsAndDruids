@@ -86,7 +86,9 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 **Número 4: Arte**
 
-*
+* ***La plegaria del Cosmonauta*** - Ana Tapia
+* ***El blues del robot*** - Blanca Jiménez
+* ***Despierta Apolo y devuelve la música al mundo*** - Luis Gallardo Gil  "Pluma de Ícaro"
 
 ### Relato [📇](https://emojipedia.org/card-index/)
 
