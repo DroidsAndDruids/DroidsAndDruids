@@ -81,8 +81,8 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 
 ### Relato
 
-* La estrella de Txuxe  - Len Belinchón (Número 1)
-* El Paquete - Jose David Gorzas (Número 1)
-* La hora del esparcimiento  - Mirto Torres (Número 1)
-* Dos claveles - Alejandro Rodríguez Tárraga (Número 1)
-* Os presento a mi nuevo Churri. - Borja Alonso (Número 2: Criaturas)
+* ***La estrella de Txuxe***  - Len Belinchón (Número 1)
+* ***El Paquete*** - Jose David Gorzas (Número 1)
+* ***La hora del esparcimiento***  - Mirto Torres (Número 1)
+* ***Dos claveles*** - Alejandro Rodríguez Tárraga (Número 1)
+* ***Os presento a mi nuevo Churri*** - Borja Alonso (Número 2: Criaturas)
