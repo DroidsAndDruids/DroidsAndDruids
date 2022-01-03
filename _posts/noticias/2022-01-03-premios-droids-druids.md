@@ -95,3 +95,4 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 * ***Qué te llevarías a una isla desierta*** - Aitor Aráez Pérez (Microrrelato del certamen #FLO2021 - Número 3: Viajes)
 * ***Extraño en el Paraíso*** - Yolanda Fernández Benito (Número 3: Viajes)
 * ***Ruina Selena*** - de Alejandro Rodríguez Tárraga "Shonen"  (Número 3: Viajes)
+* ***El elegido*** - Borja Echevarría (Número 3: Viajes)
