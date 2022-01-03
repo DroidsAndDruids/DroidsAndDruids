@@ -49,15 +49,15 @@ Relatos y poemas publicados en los números de la revista Droids & Druids del a�
 
 Un trofeo o diploma sencillo, un lote de libros y reconocimiento :) 
 
-*Este premio no va de conseguir algo material sino de rescatar esos maravillosos relatos y darles otra nueva vida para que lleguen a más gente, así como reconocer a todos esos autores maravillosos que habéis apoyado la revista Droids & Druids :)* 
+*Aunque este premio no va de conseguir algo material sino de rescatar esos maravillosos relatos y darles otra nueva vida para que lleguen a más gente, así como reconocer a todos esos autores maravillosos que habéis apoyado la revista Droids & Druids :)* 
 
 **¿Cómo participo?**
 
-*Si eres autor:* Si has publicado este año en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
+***Si eres autore**:* Si has publicado este año en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
 
-*Si eres lector*: ¡Vota! Apoya tus obras favoritas y recomiéndalas :) 
+***Si eres lectore*:** ¡Vota! Apoya tus obras favoritas y recomiéndalas :) 
 
-*Si eres un editor:* ¿Quieres incluir un libro de tu sello en el premio? ¡Escríbenos a droidsanddruids@gmail.com!
+***Si eres editore:*** ¿Quieres incluir un libro de tu sello en el premio? ¡Escríbenos a droidsanddruids@gmail.com!
 
 **¿Cuál es el proceso de voto?**
 
