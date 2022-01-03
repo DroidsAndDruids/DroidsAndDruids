@@ -63,4 +63,14 @@ En caso de que el premio Droide y el premio Druida coincidan, se escogerá el se
 
 **¿Cómo me apunto?**
 
-Si has publicado este año en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :)
+Si has publicado este año en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
+
+
+
+### Candidatos 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
+
+##### Poesía
+
+
+
+##### Relato
