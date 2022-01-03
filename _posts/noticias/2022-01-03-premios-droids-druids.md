@@ -78,6 +78,8 @@ Si has publicado este año en la revista, no tienes que hacer nada más, estará
 ### Poesía
 
 * ***Para pasar el espejo hay que invocar un recuerdo*** - Irene B. Trenas (Poesía publicada en el certamen #FLO2021 - Número 3: Viajes)
+* ***No hay que viajar al reino de las hadas*** - Alejandro Rodríguez Tárraga "Shonen" (Poesía publicada en el certamen #FLO2021 - Número 3: Viajes)
+* ***Caravansaria II: La Niña*** - Ana Tapia (Número 3: Viajes)
 
 ### Relato
 
