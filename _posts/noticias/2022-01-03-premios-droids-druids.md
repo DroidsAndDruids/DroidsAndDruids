@@ -129,4 +129,4 @@ En la segunda ronda, los votantes podrán votar solamente un texto por categorí
 * ***registroU243.txt*** - Javier Alcalde Marchena 
 * ***Ensamblando*** - Marla Hectic 
 * ***Androide rico, androide pobre*** - Jose David Cano "Gorzas" 
-* ***La verdad de los hombres*** - Andrés Bigorra Mir
+* ***La verdad de los hombres*** ***Pez***- Andrés Bigorra Mir
