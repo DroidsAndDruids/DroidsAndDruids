@@ -13,8 +13,6 @@ Además, hemos publicado la entrevista a Isabel Fernández Madrid ([@IsabellePar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mg_qV4gpTkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 ## Contenido de la revista
 
 * EQUIPO 5
@@ -61,8 +59,4 @@ Además, hemos publicado la entrevista a Isabel Fernández Madrid ([@IsabellePar
   * A. Relaciona cada obra con su autora 84
   * B. ACERTIJO: DUELO DE MAGOS 85
   * SOLUCIONES AL NÚMERO ANTERIOR 86
-  * B. ACERTIJO: VERIFICACIÓN DE TARJETAS 87
-
-[](<>)
-
-- - -
+  * B. ACERTIJO: VERIFICACIÓN DE TARJETAS 8
