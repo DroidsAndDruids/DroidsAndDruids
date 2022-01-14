@@ -24,7 +24,7 @@ Recepción de relatos/artículos para el **número V: JUEGOS**, abierta hasta el
 
    **Atención:** NO queremos apología del racismo, machismo u otra discriminación ni de la crueldad animal. No hay unas reglas exactas sobre qué se admite o no, debéis guiaros por el sentido común. Si falta al respeto a algún colectivo, probablemente no nos guste.
 
-   **\*\* Importante:** No publicamos obras con nombres comprometidos por derechos de autor. Es decir, no vale un torneo de quidditch, llámalo de otra forma :)
+   **\*\* Importante:** No publicamos obras con nombres comprometidos por derechos de autor. Es decir, no vale un torneo de Quidditch, llámalo de otra forma :)
 6. ***FORMATO:*** Se admiten **relatos, poemas, viñetas** y **artículos** de ciencia ficción y género fantástico (incluye terror fantástico), en castellano de hasta **3000 palabras**, en formato **Word** en **Times New Roman 12**. En el documento no debe incluirse nombre o datos personales. Solamente el título y la obra.
 7. ***ENVÍO:*** Deben enviarse rellenando este [FORMULARIO](https://forms.gle/8D7eKKm2z34dpR7F9) hasta hasta el 22 de Febrero 2022 (incluido)
 8. ***FECHAS:*** Los seleccionados se conocerán a finales de marzo o principios de abril (según cantidad de obras). Cualquier retraso o alteración del calendario será notificada en @droidsanddruids. 
