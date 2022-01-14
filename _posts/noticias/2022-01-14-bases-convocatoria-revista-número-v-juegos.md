@@ -2,8 +2,8 @@
 layout: page
 title: "Bases convocatoria revista número V: JUEGOS"
 date: 2022-01-14T11:46:56.567Z
-description: Recepción de relatos/artículos para el número V de la revista,
-  abierta hasta el 22 de Febrero 2022
+description: Recepción abierta para el número V de la revista, abierta hasta el
+  22 de Febrero 2022
 category: noticias
 ---
 Recepción de relatos/artículos para el **número V: JUEGOS**, abierta hasta el 22 de Febrero 2022
