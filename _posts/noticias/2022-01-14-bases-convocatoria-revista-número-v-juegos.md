@@ -28,6 +28,6 @@ Recepción de relatos/artículos para el **número V: JUEGOS**, abierta hasta el
 6. ***FORMATO:*** Se admiten **relatos, poemas, viñetas** y **artículos** de ciencia ficción y género fantástico (incluye terror fantástico), en castellano de hasta **3000 palabras**, en formato **Word** en **Times New Roman 12**. En el documento no debe incluirse nombre o datos personales. Solamente el título y la obra.
 7. ***ENVÍO:*** Deben enviarse rellenando este [FORMULARIO](https://forms.gle/8D7eKKm2z34dpR7F9) hasta hasta el 22 de Febrero 2022 (incluido)
 8. ***FECHAS:*** Los seleccionados se conocerán a finales de marzo o principios de abril (según cantidad de obras). Cualquier retraso o alteración del calendario será notificada en @droidsanddruids. 
-9. ***SELECCIÓN*:** Los participantes seleccionados verán **publicados sus trabajos en el siguiente número de la revista, en ABRIL**, y además, se elegirá un ganador del número, **cuyo relato será radioficcionado en el podcast Droids & Druids.** Además, los relatos y poemas seleccionados también serán **candidatos en los *Premios Droids & Druids*** del año siguiente.
+9. ***SELECCIÓN*:** Los participantes seleccionados verán **publicados sus trabajos en el siguiente número de la revista, en ABRIL,** y  se elegirá un ganador del número, **cuyo relato será radioficcionado en el podcast Droids & Druids.** Además, los relatos y poemas seleccionados también serán **candidatos en los *Premios Droids & Druids*** del año siguiente.
 
    A los seleccionados se les pedirá una breve nota biográfica para incluir en la revista.
