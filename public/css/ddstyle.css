@@ -192,7 +192,7 @@ img.dd-logo {
   transform: skew(-5deg) rotate(5deg);
   grid-area: text;
   color: black;
-  text-shadow: 3px 3px 0 #4ef3dc, -3px -3px 0 #D53A33;
+  text-shadow: 1px 1px 0 #4ef3dc, -1px -1px 0 #D53A33;
 }
 
 .dd-page-title-container .dd-page-title,
@@ -212,7 +212,7 @@ img.dd-logo {
   transform: skew(-5deg) rotate(-5deg);
   grid-area: text;
   color: white;
-  text-shadow: 3px 3px 3px #4ef3dc, -3px -3px 0 #D53A33;
+  text-shadow: 1px 1px 0 #4ef3dc, -1px -1px 0 #D53A33;
   font-weight: 600;
 }
 
