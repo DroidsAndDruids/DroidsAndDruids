@@ -81,15 +81,23 @@ En la segunda ronda, los votantes podrán votar solamente una obra por categorí
 
 ## Finalistas 2021 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
-#### Premio Droide (jurado) [🤖](https://emojipedia.org/robot/) 
+Los finalistas seleccionados durante la primera ronda han sido:
 
-CATEGORÍA POESIA
 
-#### Premio Druida (público) 🧙‍♀️​ 
 
-El premio del público. ¡Votais vosotros!
+### Premio Droide (jurado) [🤖](https://emojipedia.org/robot/)
 
-En 2 categorías (Relato y Poesía)
+##### Categoría Poesía 🪶
+
+
+
+##### Categoría Relato [📇](https://emojipedia.org/card-index/)
+
+### Premio Druida (público) 🧙‍♀️​
+
+##### Categoría Poesía 🪶
+
+##### Categoría Relato [📇](https://emojipedia.org/card-index/)
 
 
 
