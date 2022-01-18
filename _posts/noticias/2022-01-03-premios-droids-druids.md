@@ -65,21 +65,35 @@ Seleccionaremos en dos rondas. En la primera ronda, seleccionaremos 3 obras nomi
 
 🏅 **PRIMERA RONDA** 🏅 
 
-*¡YA PUEDES VOTAR! --->* [⏰](https://emojipedia.org/alarm-clock/) ¡Hasta el 16 de enero INCLUIDO [⏰](https://emojipedia.org/alarm-clock/)
+*¡Ronda cerrada!*
 
-Selecciona tus 3 obras favoritas de la lista de candidatas en cada categoría usando [ESTE FORMULARIO](https://forms.gle/326uiwcCRNt2vGMG9)
+En esta ronda se seleccionaron 3 obras favoritas de la lista de candidatas en cada categoría.
 
 Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán las finalistas. 
 
 🏆  **RONDA FINAL** 🏆
 
-En la segunda ronda, los votantes podrán votar solamente un texto por categoría de entre los tres finalistas.
+*¡YA PUEDES VOTAR! --->* [⏰](https://emojipedia.org/alarm-clock/) ¡Hasta el 30 de enero INCLUIDO! [⏰](https://emojipedia.org/alarm-clock/)
 
-*Elige tu ganador de entre los tres finalistas usando [ESTE FORMULARIO](https://forms.gle/3Tm3VqSRffAVoqTN8)*
+En la segunda ronda, los votantes podrán votar solamente una obra por categoría de entre los tres finalistas. *Elige tu ganador de entre los tres finalistas usando [ESTE FORMULARIO](https://forms.gle/3Tm3VqSRffAVoqTN8)*
 
 
 
-## Obras candidatas 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
+## Finalistas 2021 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
+
+#### Premio Droide (jurado) [🤖](https://emojipedia.org/robot/) 
+
+CATEGORÍA POESIA
+
+#### Premio Druida (público) 🧙‍♀️​ 
+
+El premio del público. ¡Votais vosotros!
+
+En 2 categorías (Relato y Poesía)
+
+
+
+## Obras candidatas 2021 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
 *(Están ordenados por orden de aparición en los números de la revista. Hemos excluido los relatos/poemas publicados por los miembros del equipo Droids & Druids)*
 
