@@ -1,6 +1,9 @@
 ---
 layout: blog
 title: Finalistas Premios Droide y Druida 2022
+author:
+  - name: Droids & Druids
+    id: equipo
 date: 2022-01-18T13:53:05.086Z
 description: ¿Quieres saber los finalistas?
 category: blog
