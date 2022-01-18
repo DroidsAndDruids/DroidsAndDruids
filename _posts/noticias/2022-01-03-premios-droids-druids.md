@@ -75,7 +75,9 @@ Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán 
 
 En la segunda ronda, los votantes podrán votar solamente un texto por categoría de entre los tres finalistas.
 
-*Este formulario estará activo más adelante.*
+*Elige tu ganador de entre los tres finalistas usando [ESTE FORMULARIO](https://forms.gle/3Tm3VqSRffAVoqTN8)*
+
+
 
 ## Obras candidatas 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
