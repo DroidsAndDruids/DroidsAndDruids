@@ -69,7 +69,7 @@ Seleccionaremos en dos rondas. En la primera ronda, seleccionaremos 3 obras nomi
 
 En esta ronda se seleccionaron 3 obras favoritas de la lista de candidatas en cada categoría.
 
-Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán las finalistas. 
+Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán las 3 finalistas. Habrá un 4º puesto en la categoría Relato. 
 
 🏆  **RONDA FINAL** 🏆
 
@@ -93,9 +93,19 @@ Los finalistas seleccionados durante la primera ronda han sido:
 
 ##### Categoría Relato [📇](https://emojipedia.org/card-index/)
 
+* ***Fin de línea*** - Celia Corral-Vázquez
+* ***La verdad de los hombres*** ***Pez***- Andrés Bigorra Mir
+* ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" 
+
+**4º puesto:** 
+
+* ***Mientras Baba duerme*** -Elena Solera
+
 ### Premio Druida (público) 🧙‍♀️​
 
 ##### Categoría Poesía 🪶
+
+
 
 ##### Categoría Relato [📇](https://emojipedia.org/card-index/)
 
