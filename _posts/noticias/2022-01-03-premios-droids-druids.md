@@ -105,9 +105,17 @@ Los finalistas seleccionados durante la primera ronda han sido:
 
 ##### Categoría Poesía 🪶
 
-
+* ***Despierta Apolo y devuelve la música al mundo*** - Luis Gallardo Gil  "Pluma de Ícaro"
+* ***No hay que viajar al reino de las hadas*** - Alejandro Rodríguez Tárraga "Shonen" 
+* ***Duerme mi niño*** - Mirto Torres 
 
 ##### Categoría Relato [📇](https://emojipedia.org/card-index/)
+
+* ***El artífice*** - Jesús Durán Durán 
+* ***Ruina Selena*** - de Alejandro Rodríguez Tárraga "Shonen"  
+* ***Los niños verán*** - Marla Hectic 
+
+  **4º puesto: *Fin de línea*** - Celia Corral-Vázquez
 
 
 
