@@ -109,7 +109,7 @@ Los finalistas seleccionados durante la primera ronda han sido:
 * ***La verdad de los hombres*** ***Pez***- Andrés Bigorra Mir
 * ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" 
 
- **\    4º puesto: *Mientras Baba duerme*** -Elena Solera
+**4º puesto: *Mientras Baba duerme*** -Elena Solera
 
 ### Premio Druida (público) 🧙‍♀️​
 
