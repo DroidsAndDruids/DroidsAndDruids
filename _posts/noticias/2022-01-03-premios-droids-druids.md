@@ -6,7 +6,17 @@ description: ¡Llegan los premios de la revista Droids & Druids! Queremos
   reconocer a nuestros autores y que podáis elegir vuestros favoritos.
 category: noticias
 ---
-⭐ ***¿Eres editor y quieres incluir un libro de tu sello en el lote del premio? ¡Escríbenos a droidsanddruids@gmail.com!*** ⭐
+**⭐ Muchísimas gracias a nuestras editoriales patrocinadoras ⭐**
+
+**[OBSCURA EDITORIAL](https://www.obscura.es/)**
+
+**[CRONONAUTA](https://www.crononauta.es/)**
+
+**[MALAS ARTES](https://malasarteseditorial.com/)**
+
+**[NIÑA LOBA EDITORIAL](https://www.ninalobaeditorial.es/)**
+
+
 
 Hemos estado pensando mucho en cómo agradecer el apoyo a todos esos autores que han estado enviándonos sus obras desde los inicios de nuestra revista, y hemos llegado a un nuevo proyecto que esperamos que os guste.
 
@@ -65,19 +75,61 @@ Seleccionaremos en dos rondas. En la primera ronda, seleccionaremos 3 obras nomi
 
 🏅 **PRIMERA RONDA** 🏅 
 
-*¡YA PUEDES VOTAR! --->* [⏰](https://emojipedia.org/alarm-clock/) ¡Hasta el 16 de enero INCLUIDO [⏰](https://emojipedia.org/alarm-clock/)
+*¡Ronda cerrada!*
 
-Selecciona tus 3 obras favoritas de la lista de candidatas en cada categoría usando [ESTE FORMULARIO](https://forms.gle/326uiwcCRNt2vGMG9)
+En esta ronda se seleccionaron 3 obras favoritas de la lista de candidatas en cada categoría.
 
-Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán las finalistas. 
+Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán las 3 finalistas. Habrá un 4º puesto en la categoría Relato. 
 
 🏆  **RONDA FINAL** 🏆
 
-En la segunda ronda, los votantes podrán votar solamente un texto por categoría de entre los tres finalistas.
+*¡YA PUEDES VOTAR! --->* [⏰](https://emojipedia.org/alarm-clock/) ¡Hasta el 30 de enero INCLUIDO! [⏰](https://emojipedia.org/alarm-clock/)
 
-*Este formulario estará activo más adelante.*
+En la segunda ronda, los votantes podrán votar solamente una obra por categoría de entre los tres finalistas. *Elige tu ganador de entre los tres finalistas usando [ESTE FORMULARIO](https://forms.gle/3Tm3VqSRffAVoqTN8)*
 
-## Obras candidatas 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
+
+
+## Finalistas 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
+
+Los finalistas seleccionados durante la primera ronda han sido:
+
+
+
+### Premio Droide (jurado) [🤖](https://emojipedia.org/robot/)
+
+##### Categoría Poesía 🪶
+
+* ***Caravansaria II: La Niña*** - Ana Tapia 
+* ***Para pasar el espejo hay que invocar un recuerdo*** - Irene B. Trenas 
+* ***El blues del robot*** - Blanca Jiménez
+
+##### Categoría Relato [📇](https://emojipedia.org/card-index/)
+
+* ***Fin de línea*** - Celia Corral-Vázquez
+* ***La verdad de los hombres*** ***Pez***- Andrés Bigorra Mir
+* ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" 
+
+**4º puesto: *Mientras Baba duerme*** -Elena Solera
+
+### Premio Druida (público) 🧙‍♀️​
+
+##### Categoría Poesía 🪶
+
+* ***Despierta Apolo y devuelve la música al mundo*** - Luis Gallardo Gil  "Pluma de Ícaro"
+* ***No hay que viajar al reino de las hadas*** - Alejandro Rodríguez Tárraga "Shonen" 
+* ***Duerme mi niño*** - Mirto Torres 
+
+##### Categoría Relato [📇](https://emojipedia.org/card-index/)
+
+* ***El artífice*** - Jesús Durán Durán 
+* ***Ruina Selena*** - de Alejandro Rodríguez Tárraga "Shonen"  
+* ***Los niños verán*** - Marla Hectic 
+
+  **4º puesto: *Fin de línea*** - Celia Corral-Vázquez
+
+
+
+## Obras candidatas del 2021 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
 *(Están ordenados por orden de aparición en los números de la revista. Hemos excluido los relatos/poemas publicados por los miembros del equipo Droids & Druids)*
 
