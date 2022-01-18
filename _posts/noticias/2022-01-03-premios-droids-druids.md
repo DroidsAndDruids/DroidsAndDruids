@@ -6,7 +6,17 @@ description: ¡Llegan los premios de la revista Droids & Druids! Queremos
   reconocer a nuestros autores y que podáis elegir vuestros favoritos.
 category: noticias
 ---
-⭐ ***¿Eres editor y quieres incluir un libro de tu sello en el lote del premio? ¡Escríbenos a droidsanddruids@gmail.com!*** ⭐
+**⭐ Muchísimas gracias a nuestras editoriales patrocinadoras ⭐**
+
+**[OBSCURA EDITORIAL](https://www.obscura.es/)**
+
+**[CRONONAUTA](https://www.crononauta.es/)**
+
+**[MALAS ARTES](https://malasarteseditorial.com/)**
+
+**[NIÑA LOBA EDITORIAL](https://www.ninalobaeditorial.es/)**
+
+
 
 Hemos estado pensando mucho en cómo agradecer el apoyo a todos esos autores que han estado enviándonos sus obras desde los inicios de nuestra revista, y hemos llegado a un nuevo proyecto que esperamos que os guste.
 
@@ -79,7 +89,7 @@ En la segunda ronda, los votantes podrán votar solamente una obra por categorí
 
 
 
-## Finalistas 2021 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
+## Finalistas 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
 Los finalistas seleccionados durante la primera ronda han sido:
 
@@ -99,7 +109,7 @@ Los finalistas seleccionados durante la primera ronda han sido:
 * ***La verdad de los hombres*** ***Pez***- Andrés Bigorra Mir
 * ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" 
 
-**4º puesto: *Mientras Baba duerme*** -Elena Solera
+ **\    4º puesto: *Mientras Baba duerme*** -Elena Solera
 
 ### Premio Druida (público) 🧙‍♀️​
 
@@ -119,7 +129,7 @@ Los finalistas seleccionados durante la primera ronda han sido:
 
 
 
-## Obras candidatas 2021 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
+## Obras candidatas del 2021 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
 *(Están ordenados por orden de aparición en los números de la revista. Hemos excluido los relatos/poemas publicados por los miembros del equipo Droids & Druids)*
 
