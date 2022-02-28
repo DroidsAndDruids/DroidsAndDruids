@@ -5,8 +5,6 @@ date: 2022-02-28T08:32:23.580Z
 description: ¡Conoce las obras ganadoras!
 category: blog
 ---
-
-
 **⭐ Muchísimas gracias a nuestras editoriales patrocinadoras ⭐**
 
 **[OBSCURA EDITORIAL](https://www.obscura.es/)**
@@ -23,42 +21,16 @@ category: blog
 
 *¡Enhorabuena a les premiades!*
 
-![]()
+![](/public/images/tiny.jpg)
 
+## Ganadores 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
+Puedes ver el vídeo de la **[GALA DE PREMIOS ](https://www.youtube.com/watch?v=1XFcfxzIAS4)**en nuestro canal de Youtube.
 
-## Finalistas 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
+##### [🤖](https://emojipedia.org/robot/)  🪶 Premio Droide de Poesía: *Para pasar el espejo hay que invocar un recuerdo* - Irene B. Trenas  (Número 3: Viajes)
 
-Los finalistas seleccionados durante la primera ronda han sido:
+##### [🤖](https://emojipedia.org/robot/)  [📇](https://emojipedia.org/card-index/) Premio Droide de Relato: ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" (**Número 2: Criaturas)**
 
-### Premio Droide (jurado) [🤖](https://emojipedia.org/robot/)
+##### 🧙‍♀️​ 🪶 Premio Druida de Poesía: ***Despierta Apolo y devuelve la música al mundo*** - Luis Gallardo Gil  "Pluma de Ícaro" (**Número 4: Arte)**
 
-##### Categoría Poesía 🪶
-
-* ***Caravansaria II: La Niña*** - Ana Tapia 
-* ***Para pasar el espejo hay que invocar un recuerdo*** - Irene B. Trenas 
-* ***El blues del robot*** - Blanca Jiménez
-
-##### Categoría Relato [📇](https://emojipedia.org/card-index/)
-
-* ***Fin de línea*** - Celia Corral-Vázquez
-* ***La verdad de los hombres*** ***Pez***- Andrés Bigorra Mir
-* ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" 
-
-**4º puesto: *Mientras Baba duerme*** -Elena Solera
-
-### Premio Druida (público) 🧙‍♀️​
-
-##### Categoría Poesía 🪶
-
-* ***Despierta Apolo y devuelve la música al mundo*** - Luis Gallardo Gil  "Pluma de Ícaro"
-* ***No hay que viajar al reino de las hadas*** - Alejandro Rodríguez Tárraga "Shonen" 
-* ***Duerme mi niño*** - Mirto Torres 
-
-##### Categoría Relato [📇](https://emojipedia.org/card-index/)
-
-* ***El artífice*** - Jesús Durán Durán 
-* ***Ruina Selena*** - de Alejandro Rodríguez Tárraga "Shonen"  
-* ***Los niños verán*** - Marla Hectic 
-
-  **4º puesto: *Fin de línea*** - Celia Corral-Vázquez
+##### 🧙‍♀️​[📇](https://emojipedia.org/card-index/)  Premio Druida de Relato: ***Los niños verán*** - Marla Hectic (**Número 3: Viajes)**
