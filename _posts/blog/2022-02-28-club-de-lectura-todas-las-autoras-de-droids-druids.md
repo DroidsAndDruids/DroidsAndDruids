@@ -146,6 +146,7 @@ Estos libros no los hemos analizado, pero hemos entrevistado a sus autoras en lo
 
 * Romántica histórica
 * 400 páginas
+* Titanic
 
 #### Escucha la entrevista conjunta a Raquel Arbeteta e Isabel Fernández en el episodio [\#DDMAG 07](https://droidsanddruids.com/podcast/2022/01/06/ddmag-07-arte-con-raquel-arbeteta-e-isabel-fdez-madrid.html).
 
@@ -157,8 +158,8 @@ Estos libros no los hemos analizado, pero hemos entrevistado a sus autoras en lo
 * Ciencia ficción
 * Vuelta los orígenes
 
-##### La hemos entrevistado en nuestro [EVENTO EN VIVO del 29 de diciembre 2021](https://youtu.be/frqDR1wZ4wU) que podéis ver en YouTube, sobre ***El pasado es un cazador paciente.*** Laura, además, es autora murciana como nosotras :) 
+##### La hemos entrevistado en nuestro [EVENTO EN VIVO del 29 de diciembre 2021](https://youtu.be/frqDR1wZ4wU) que podéis ver en YouTube, sobre ***El pasado es un cazador paciente.*** Laura, además, es autora murciana como nosotras :)
 
-#### ¿Quieres conocer más autoras murcianas? ¡Hicimos una [lista de autoras murcianas de ciencia ficción y fantasía](https://droidsanddruids.com/blog/2021/12/20/autoras-murcianas-de-cifi-y-fantas%C3%ADa.html)! 
+#### ¿Quieres conocer más autoras murcianas? ¡Hicimos una [lista de autoras murcianas de ciencia ficción y fantasía](https://droidsanddruids.com/blog/2021/12/20/autoras-murcianas-de-cifi-y-fantas%C3%ADa.html)!
 
 🤖 [🧙‍♀️](https://emojipedia.org/woman-mage/)
