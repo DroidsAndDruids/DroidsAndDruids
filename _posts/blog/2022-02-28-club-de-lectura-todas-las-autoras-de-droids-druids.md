@@ -40,3 +40,13 @@ Nuestro primer club de lectura fue comentando esta novela. Encontrarás personaj
 Si te gusta el anime y el mundo pokemon este es tu libro: explosión de color, personajes simpáticos, inclusión de géneros no binarios. Felicidad crea un mundo desbordante de imaginación y ternura, dejándonos con un importante mensaje.
 
 #### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 1x06](https://droidsanddruids.com/podcast/2020/12/06/d-d-1x06-club-lectura-pakminy%C3%B3.html).
+
+![Pulse enter para continuar](/public/images/p.png)
+
+### Pulse enter para continuar (Ana Galvañ)
+
+* Cómic de ciencia ficción
+
+Reconozco que fue un gran reto comentar este cómic más visual y conceptual que enfocado en la trama. Si quieres algo diferente con una estética futurista y preciosa, adéntrate en el mundo de Ana.
+
+#### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 1x10](https://droidsanddruids.com/podcast/2021/04/11/d-d-1x10-cl-pulse-enter-para-continuar.html).
