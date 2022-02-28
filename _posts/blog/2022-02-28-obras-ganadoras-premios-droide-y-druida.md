@@ -1,6 +1,9 @@
 ---
 layout: blog
 title: Obras ganadoras Premios Droide y Druida 2022
+author:
+  - id: equipo
+    name: equipo
 date: 2022-02-28T08:32:23.580Z
 description: ¡Conoce las obras ganadoras!
 category: blog
