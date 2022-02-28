@@ -16,7 +16,7 @@ category: noticias
 
 **[NIÑA LOBA EDITORIAL](https://www.ninalobaeditorial.es/)**
 
-
+**[CON PLUMA Y PÍXEL](https://conplumaypixel.com/tienda/ols/products/susanna-blue)**
 
 Hemos estado pensando mucho en cómo agradecer el apoyo a todos esos autores que han estado enviándonos sus obras desde los inicios de nuestra revista, y hemos llegado a un nuevo proyecto que esperamos que os guste.
 
@@ -87,13 +87,9 @@ Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán 
 
 En la segunda ronda, los votantes podrán votar solamente una obra por categoría de entre los tres finalistas. *Elige tu ganador de entre los tres finalistas usando [ESTE FORMULARIO](https://forms.gle/3Tm3VqSRffAVoqTN8)*
 
-
-
 ## Finalistas 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
 Los finalistas seleccionados durante la primera ronda han sido:
-
-
 
 ### Premio Droide (jurado) [🤖](https://emojipedia.org/robot/)
 
@@ -126,8 +122,6 @@ Los finalistas seleccionados durante la primera ronda han sido:
 * ***Los niños verán*** - Marla Hectic 
 
   **4º puesto: *Fin de línea*** - Celia Corral-Vázquez
-
-
 
 ## Obras candidatas del 2021 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
