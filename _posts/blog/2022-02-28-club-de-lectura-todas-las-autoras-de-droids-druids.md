@@ -1,7 +1,6 @@
 ---
 layout: blog
-title: ¿Qué leo ahora? Todas las autoras que han aparecido en el podcast Droids
-  & Druids
+title: ¿Qué leo ahora? Todas las autoras en el podcast Droids & Druids
 author:
   - id: ines-galiano
     name: por Inés Galiano
