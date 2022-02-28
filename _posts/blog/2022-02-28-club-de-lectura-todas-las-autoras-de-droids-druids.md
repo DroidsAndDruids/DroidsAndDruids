@@ -15,7 +15,9 @@ Algunas de estas autoras han sido entrevistadas en los especiales #DDMAG, y otra
 
 Encontrarás obras de ciencia ficción y fantasía, algún cómic e incluso algún videojuego. 
 
-Aquí tienes las obras que han aparecido **en el podcast en 2020 y 2021 por orden alfabético**:
+Aquí tienes las obras que han aparecido **en el podcast en 2020 y 2021**:
+
+## Club de lectura:
 
 ![Bienvenidos a Welcome de Laura fernandez](/public/images/screen-shot-2022-02-28-at-10.55.20-am.png)
 
