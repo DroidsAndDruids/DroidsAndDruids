@@ -32,7 +32,7 @@ Autora murciana de relatos cortos publicados en Lektu.
 Autora de cómics e ilustradora murciana. Tras su paso por la Facultad de Bellas Artes de Valencia se especializó en creatividad y dirección de arte. Más tarde abandonó la publicidad para dedicarse de lleno al cómic y la ilustración. Actualmente vive en Murcia donde trabaja desde su propio estudio en el ámbito editorial. Ha colaborado con prensa y editoriales como El País, The Guardian, The Washington Post, The New York Times y Berliner. En el ámbito del cómic, sus historias han aparecido en publicaciones como Fantagraphics, Nobrow, Kus!, Vertigo DC, Apa-Apa y Fosfatina. En 2016 recibió uno de los diez premios Gráffica y en 2020 fue nominada a uno de los premios Ignatz. Recientemente ha publicado *[Tarde en McBurger’s](http://www.apaapacomics.com/tarde-en-mcburgers),* una historia preadolescente y fantástica editada por [Apa Apa cómics](http://www.apaapacomics.com/).
 
 * GALVAÑ es el apellido auténtico con "eñe", no una licencia artística.
-* ##### La hemos entrevistado en el **club de lectura del podcast, en el [EPISODIO 1x10](https://deploy-preview-78--droidsanddruids.netlify.app/podcast/2021/04/11/d-d-1x10-cl-pulse-enter-para-continuar.html) sobre el cómic *Pulse enter para continuar***
+* ##### La hemos entrevistado en nuestro **club de lectura, en el [EPISODIO 1x10](https://deploy-preview-78--droidsanddruids.netlify.app/podcast/2021/04/11/d-d-1x10-cl-pulse-enter-para-continuar.html), sobre el cómic *Pulse enter para continuar***
 
 ## [Martínez Barquero, Isabel](https://elcobijodeunadesalmada.blogspot.com/)
 
