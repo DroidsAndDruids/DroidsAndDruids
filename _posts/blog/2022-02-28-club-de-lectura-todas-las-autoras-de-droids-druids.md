@@ -19,6 +19,8 @@ Aquí tienes las obras que han aparecido **en el podcast en 2020 y 2021**:
 
 ## Club de lectura
 
+Estos libros son los que hemos comentado y analizado en los episodios de club.
+
 ![Bienvenidos a Welcome de Laura fernandez](/public/images/screen-shot-2022-02-28-at-10.55.20-am.png)
 
 ### **Bienvenidos a Welcome** (Laura Fernández)
@@ -106,3 +108,26 @@ Si te gusta el cine de terror y quieres algo breve escrito a seis manos, tienes 
 * 343 páginas
 
 ¡Estás a tiempo de unirte a la lectura conjunta del Bosque, que comenzamos el 22 de Febrero! Escríbenos a droidsanddruids@gmail.com para unirte al canal de Telegram.
+
+## \#DDMAG
+
+Estos libros no los hemos analizado, pero hemos entrevistado a sus autoras en los episodios especiales de la revista (sin spoilers)
+
+![Bruja de Biertan](/public/images/b.png)
+
+### La bruja de Biertan (Verónica Cervilla)
+
+* Fantasía oscura e histórica
+* Ambientación romaní
+* 153 páginas
+
+#### Entrevista a la autora en el episodio [\#DDMAG 1x01](https://droidsanddruids.com/podcast/2021/02/05/ddmag-1x01-entrevista-a-ver%C3%B3nica-cervilla.html).
+
+![Malakor](/public/images/978841219219.jpeg)
+
+### Malakor (Zahara Ordóñez)
+
+* Fantasía épica
+* 574 páginas
+
+#### Entrevista a la autora en el episodio [\#DDMAG 1x05](https://go.ivoox.com/rf/70596394).
