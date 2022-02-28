@@ -58,7 +58,7 @@ Reconozco que fue un gran reto comentar este cómic más visual y conceptual que
 * Ciencia ficción lingüística
 * 152 páginas
 
-Si lo que buscas es una novelette cortita aquí tienes una escrita por una de las grandes escritoras del mundillo. Lola Robles es escritora pero también divulgadora y activista, y en esta novela aprendimos que la ciencia ficción no siempre tiene que tratar sobre tecnología avanzada, sino que puede centrarse en otros campos como la lingüística :)
+Si lo que buscas es una novelette cortita aquí tienes una escrita por una de las grandes escritoras del mundillo. Lola Robles es escritora pero también divulgadora y activista, y en esta novela aprendimos que la ciencia ficción no siempre tiene que tratar sobre tecnología avanzada, sino que puede centrarse en otros campos como la lingüística.
 
 #### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 1x08](https://droidsanddruids.com/podcast/2021/01/11/d-d-1x08-club-lectura-el-informe-monteverde.html).
 
@@ -72,6 +72,6 @@ Si lo que buscas es una novelette cortita aquí tienes una escrita por una de la
 
 Si buscas una novela corta y distinta, Sarah Gailey revoluciona el género western. Encontrarás personajes no binarios, representación LGTBQ y reflexión social, todo ello mientras viajas en una caravana de bibliotecarias por el desierto. 
 
-En esta ocasión, además, nos centramos en el mundo de la traducción y trajimos al podcast a su traductore Carla Bataller :)
+En esta ocasión, además, nos centramos en el mundo de la traducción y trajimos al podcast a su traductore Carla Bataller Estruch.
 
 #### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 2x04](https://droidsanddruids.com/podcast/2021/11/05/d-d-2x04-cl-se-buscan-mujeres-sensatas.html).
