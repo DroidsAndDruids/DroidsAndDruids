@@ -85,6 +85,8 @@ Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán 
 
 *¡Ronda cerrada!*
 
+*Hasta el año que viene :)* 
+
 ## Ganadores 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
 Puedes ver el vídeo de la **[GALA DE PREMIOS ](https://www.youtube.com/watch?v=1XFcfxzIAS4)**en nuestro canal de Youtube.
