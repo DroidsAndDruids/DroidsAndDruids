@@ -86,3 +86,23 @@ En esta ocasión, además, nos centramos en el mundo de la traducción y trajimo
 El primer videojuego que comentamos en el podcast fue Call of the Sea: una aventura grafica muy narrativa de corta duración creada por el estudio español Out of the Blue. Además de comentar toda la narrativa y la trama de la historia y sus personajes, entrevistamos a su creadora, Tatiana Delgado.
 
 #### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 2x02](https://droidsanddruids.com/podcast/2021/11/05/d-d-2x02-cl-call-of-the-sea-videojuego.html).
+
+![El vigilante](/public/images/v.png)
+
+### El vigilante (Sara G, Chico Morera y Sara R.)
+
+* Terror y misterio
+* 178 páginas
+
+Si te gusta el cine de terror y quieres algo breve escrito a seis manos, tienes la última novela que hemos comentado en el club. Sara G y Chico Morera, cineastas y youtubers, junto a Sara R. quien añade el componente literario nos traen esta novelette altamente visual. Podrás visualizar cada escena como si fuera una película.
+
+#### Puedes escuchar nuestro análisis y la entrevista que les hicimos en el [EPISODIO 2x06](https://droidsanddruids.com/podcast/2022/02/28/d-d-2x06-cl-el-vigilante-con-sara-g-chico-morera-sara-r.html).
+
+![Bosque](/public/images/b2.png)
+
+### Bosque (Lola Llatas)
+
+* Fantasía oscura
+* 343 páginas
+
+¡Estás a tiempo de unirte a la lectura conjunta del Bosque, que comenzamos el 22 de Febrero! Escríbenos a droidsanddruids@gmail.com para unirte al canal de Telegram.
