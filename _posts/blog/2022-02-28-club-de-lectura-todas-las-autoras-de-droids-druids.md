@@ -58,7 +58,7 @@ Reconozco que fue un gran reto comentar este cómic más visual y conceptual que
 * Ciencia ficción lingüística
 * 152 páginas
 
-Si lo que buscas es una novelette cortita aquí tienes una escrita por una de las grandes escritoras del mundillo. Lola Robles es escritora pero también divulgadora y activista, y en esta novela aprendimos que la ciencia ficción no siempre tiene que tratar sobre tecnología avanzada, sino que puede centrarse en otros campos como la lingüística :)
+Si lo que buscas es una novelette cortita aquí tienes una escrita por una de las grandes escritoras del mundillo. Lola Robles es escritora pero también divulgadora y activista, y en esta novela aprendimos que la ciencia ficción no siempre tiene que tratar sobre tecnología avanzada, sino que puede centrarse en otros campos como la lingüística.
 
 #### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 1x08](https://droidsanddruids.com/podcast/2021/01/11/d-d-1x08-club-lectura-el-informe-monteverde.html).
 
@@ -72,6 +72,17 @@ Si lo que buscas es una novelette cortita aquí tienes una escrita por una de la
 
 Si buscas una novela corta y distinta, Sarah Gailey revoluciona el género western. Encontrarás personajes no binarios, representación LGTBQ y reflexión social, todo ello mientras viajas en una caravana de bibliotecarias por el desierto. 
 
-En esta ocasión, además, nos centramos en el mundo de la traducción y trajimos al podcast a su traductore Carla Bataller :)
+En esta ocasión, además, nos centramos en el mundo de la traducción y trajimos al podcast a su traductore Carla Bataller Estruch.
 
 #### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 2x04](https://droidsanddruids.com/podcast/2021/11/05/d-d-2x04-cl-se-buscan-mujeres-sensatas.html).
+
+![Call of the sea (Out of the Blue)](/public/images/c.png)
+
+### Call of the sea (Out of the Blue)
+
+* Videojuego aventura gráfica 
+* Fantasía / Misterio / Puzzles
+
+El primer videojuego que comentamos en el podcast fue Call of the Sea: una aventura grafica muy narrativa de corta duración creada por el estudio español Out of the Blue. Además de comentar toda la narrativa y la trama de la historia y sus personajes, entrevistamos a su creadora, Tatiana Delgado.
+
+#### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 2x02](https://droidsanddruids.com/podcast/2021/11/05/d-d-2x02-cl-call-of-the-sea-videojuego.html).
