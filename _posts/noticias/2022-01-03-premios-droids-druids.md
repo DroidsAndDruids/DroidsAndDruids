@@ -24,6 +24,8 @@ Para reconocer el talento de nuestros autores, convocamos los 
 
 ## **Premios Droide y Druida 2022:**
 
+![](/public/images/tiny-small.png)
+
 #### Premio Droide [🤖](https://emojipedia.org/robot/)
 
 El premio del jurado. Vota el equipo de la revista.
