@@ -21,7 +21,7 @@ Aquí tienes las obras que han aparecido **en el podcast en 2020 y 2021**:
 
 ![Bienvenidos a Welcome de Laura fernandez](/public/images/screen-shot-2022-02-28-at-10.55.20-am.png)
 
-### **Bienvenidos a Welcome** (Laura Fernández)
+### [**Bienvenidos a Welcome** (Laura Fernández)](https://www.casadellibro.com/libro-bienvenidos-a-welcome/9788439735755/9083587)
 
 * **Ciencia ficción / Weird**
 * **256 páginas**
