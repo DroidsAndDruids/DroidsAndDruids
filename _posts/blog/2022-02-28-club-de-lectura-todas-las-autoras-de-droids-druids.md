@@ -131,3 +131,20 @@ Estos libros no los hemos analizado, pero hemos entrevistado a sus autoras en lo
 * 574 páginas
 
 #### Entrevista a la autora en el episodio [\#DDMAG 1x05](https://go.ivoox.com/rf/70596394).
+
+![](/public/images/t.jpeg)
+
+### Te traeré a casa (Raquel Arbeteta)
+
+* Retelling de Orfeo 
+* 198 páginas
+* Novelette de ciencia ficción distópica
+
+![](/public/images/b4.png)
+
+### Bailando en gris (Isabel Fernández)
+
+* Romántica histórica
+* 400 páginas
+
+#### Escucha la entrevista conjunta a Raquel Arbeteta e Isabel Fernández en el episodio [\#DDMAG 07](https://droidsanddruids.com/podcast/2022/01/06/ddmag-07-arte-con-raquel-arbeteta-e-isabel-fdez-madrid.html).
