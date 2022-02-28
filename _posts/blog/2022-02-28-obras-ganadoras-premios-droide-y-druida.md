@@ -21,7 +21,9 @@ category: blog
 
 *¡Enhorabuena a les premiades!*
 
-![Trofeos de los premios: dos cortezas de arbol para los premios druida y dos laminas de vidrio grabado sobre pedestal para los droide](/public/images/tiny.jpg "Trofeos de los premios 2022")
+
+
+![Trofeos de los premios: dos cortezas de arbol para los premios druida y dos laminas de vidrio grabado sobre pedestal para los droide](/public/images/tiny-small.png "Trofeos de los premios 2022")
 
 ## Ganadores 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
