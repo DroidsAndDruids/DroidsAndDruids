@@ -9,4 +9,6 @@ category: blog
 
 Algunas de estas autoras han sido entrevistadas en los especiales #DDMAG, y otras en los episodios de Club de Lectura, donde además hemos comentado el libro en profundidad :) 
 
-Encontrarás obras de ciencia ficción y fantasía, algún cómic e incluso algún videojuego.
+Encontrarás obras de ciencia ficción y fantasía, algún cómic e incluso algún videojuego. 
+
+Aquí tienes las obras que han aparecido **en el podcast en 2020 y 2021 por orden alfabético**:
