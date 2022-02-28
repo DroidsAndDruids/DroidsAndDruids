@@ -83,9 +83,19 @@ Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán 
 
 🏆  **RONDA FINAL** 🏆
 
-*¡YA PUEDES VOTAR! --->* [⏰](https://emojipedia.org/alarm-clock/) ¡Hasta el 30 de enero INCLUIDO! [⏰](https://emojipedia.org/alarm-clock/)
+*¡Ronda cerrada!*
 
-En la segunda ronda, los votantes podrán votar solamente una obra por categoría de entre los tres finalistas. *Elige tu ganador de entre los tres finalistas usando [ESTE FORMULARIO](https://forms.gle/3Tm3VqSRffAVoqTN8)*
+## Ganadores 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
+
+Los finalistas seleccionados durante la primera ronda han sido:
+
+##### [🤖](https://emojipedia.org/robot/)  🪶 Premio Droide de Poesía : *Para pasar el espejo hay que invocar un recuerdo* - Irene B. Trenas  (Número 3: Viajes)
+
+##### [🤖](https://emojipedia.org/robot/)  [📇](https://emojipedia.org/card-index/) Premio Droide de Relato [](https://emojipedia.org/card-index/) : ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" (**Número 2: Criaturas)**
+
+##### 🧙‍♀️​ 🪶 Premio Druida de Poesía 🪶: ***Despierta Apolo y devuelve la música al mundo*** - Luis Gallardo Gil  "Pluma de Ícaro" (**Número 4: Arte)**
+
+##### 🧙‍♀️​[📇](https://emojipedia.org/card-index/)  Premio Druida de Relato [📇](https://emojipedia.org/card-index/) : ***Los niños verán*** - Marla Hectic (**Número 3: Viajes)**
 
 ## Finalistas 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
