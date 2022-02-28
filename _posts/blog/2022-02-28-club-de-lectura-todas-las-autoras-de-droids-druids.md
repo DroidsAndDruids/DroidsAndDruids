@@ -50,3 +50,14 @@ Si te gusta el anime y el mundo pokemon este es tu libro: explosión de color, p
 Reconozco que fue un gran reto comentar este cómic más visual y conceptual que enfocado en la trama. Si quieres algo diferente con una estética futurista y preciosa, adéntrate en el mundo de Ana.
 
 #### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 1x10](https://droidsanddruids.com/podcast/2021/04/11/d-d-1x10-cl-pulse-enter-para-continuar.html).
+
+![Informe Monteverde](/public/images/i.png)
+
+### El informe Monteverde (Lola Robles)
+
+* Ciencia ficción lingüística
+* 152 páginas
+
+Si lo que buscas es una novelette cortita aquí tienes una escrita por una de las grandes escritoras del mundillo. Lola Robles es escritora pero también divulgadora y activista, y en esta novela aprendimos que la ciencia ficción no siempre tiene que tratar sobre tecnología avanzada, sino que puede centrarse en otros campos como la lingüística :)
+
+#### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 1x08](https://droidsanddruids.com/podcast/2021/01/11/d-d-1x08-club-lectura-el-informe-monteverde.html).
