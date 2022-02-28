@@ -91,13 +91,13 @@ Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán 
 
 Puedes ver el vídeo de la **[GALA DE PREMIOS ](https://www.youtube.com/watch?v=1XFcfxzIAS4)**en nuestro canal de Youtube.
 
-##### [🤖](https://emojipedia.org/robot/)  🪶 Premio Droide de Poesía : *Para pasar el espejo hay que invocar un recuerdo* - Irene B. Trenas  (Número 3: Viajes)
+##### [🤖](https://emojipedia.org/robot/)  🪶 Premio Droide de Poesía: *Para pasar el espejo hay que invocar un recuerdo* - Irene B. Trenas  (Número 3: Viajes)
 
-##### [🤖](https://emojipedia.org/robot/)  [📇](https://emojipedia.org/card-index/) Premio Droide de Relato [](https://emojipedia.org/card-index/) : ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" (**Número 2: Criaturas)**
+##### [🤖](https://emojipedia.org/robot/)  [📇](https://emojipedia.org/card-index/) Premio Droide de Relato: ***Pensamientos de un hada que existe*** - Alejandro Rodríguez Tárraga "Shonen" (**Número 2: Criaturas)**
 
-##### 🧙‍♀️​ 🪶 Premio Druida de Poesía 🪶: ***Despierta Apolo y devuelve la música al mundo*** - Luis Gallardo Gil  "Pluma de Ícaro" (**Número 4: Arte)**
+##### 🧙‍♀️​ 🪶 Premio Druida de Poesía: ***Despierta Apolo y devuelve la música al mundo*** - Luis Gallardo Gil  "Pluma de Ícaro" (**Número 4: Arte)**
 
-##### 🧙‍♀️​[📇](https://emojipedia.org/card-index/)  Premio Druida de Relato [📇](https://emojipedia.org/card-index/) : ***Los niños verán*** - Marla Hectic (**Número 3: Viajes)**
+##### 🧙‍♀️​[📇](https://emojipedia.org/card-index/)  Premio Druida de Relato: ***Los niños verán*** - Marla Hectic (**Número 3: Viajes)**
 
 ## Finalistas 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
