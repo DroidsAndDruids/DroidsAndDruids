@@ -42,6 +42,8 @@ Nacida en Murcia, abogada y profesora. Tiene multitud de obras publicadas, entre
 
 (Abarán, 1992) es diseñadora y correctora, además de escritora y miembro del portal La Nave Invisible, dedicado a visibilizar a escritoras de fantasía, ciencia ficción y terror. Ha publicado relatos en revistas como *SuperSonic* y en varias antologías. También es autora de dos novelas cortas, ***Izahi, a tus hijas*** (Ed. Hati) y ***El pasado es un cazador paciente*** (Ed. Sportula). En 2022 publicará su primera novela con Ed. Crononauta: ***Concierto en sol menor***.
 
+* La hemos entrevistado en nuestro [EVENTO EN VIVO del 29 de diciembre 2021](https://youtu.be/frqDR1wZ4wU) que podéis ver en YouTube.
+
 ## **[Morán Iglesias, Laura ](https://lauramoranescritora.com/)**
 
 Bilbaína de sangre pero murciana de corazón. En la adolescencia ganó varias veces el Certamen literario Miguel Hernández de la Vega Baja. Estudió Filología inglesa en la Universidad de Murcia, donde se licenció en 2012, y ahora dedica su tiempo a escribir novelas y a traducir videojuegos. Su primera novela fue ***A través de la arena*** (autopublicada, 2017), de fantasía juvenil. En 2018 publicó ***Pastelería Emporio*** con Insomnia Ediciones, una novela corta que mezcla la ambientación de fantasía más clásica con el humor y la comida y ha participado en varias antologías como ***La isla del escritor*** (LiterUp, 2016), y es la antóloga de ***La Otra Fantasía Medieval*,** una antología de relatos de fantasía medieval sin machismo.
