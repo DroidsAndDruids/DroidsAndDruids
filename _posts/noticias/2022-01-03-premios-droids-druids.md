@@ -87,7 +87,7 @@ Copia y pega de la lista de abajo tus 3 favoritas. Las tres más votadas serán 
 
 ## Ganadores 2022 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
-Los finalistas seleccionados durante la primera ronda han sido:
+Puedes ver el vídeo de la **[GALA DE PREMIOS ](https://www.youtube.com/watch?v=1XFcfxzIAS4)**en nuestro canal de Youtube.
 
 ##### [🤖](https://emojipedia.org/robot/)  🪶 Premio Droide de Poesía : *Para pasar el espejo hay que invocar un recuerdo* - Irene B. Trenas  (Número 3: Viajes)
 
