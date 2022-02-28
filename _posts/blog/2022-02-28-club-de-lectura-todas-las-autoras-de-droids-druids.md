@@ -117,8 +117,17 @@ Estos libros no los hemos analizado, pero hemos entrevistado a sus autoras en lo
 
 ### La bruja de Biertan (Verónica Cervilla)
 
-* Fantasía y magia oscura
+* Fantasía oscura e histórica
 * Ambientación romaní
 * 153 páginas
 
 #### Entrevista a la autora en el episodio [\#DDMAG 1x01](https://droidsanddruids.com/podcast/2021/02/05/ddmag-1x01-entrevista-a-ver%C3%B3nica-cervilla.html).
+
+![Malakor](/public/images/978841219219.jpeg)
+
+### Malakor (Zahara Ordóñez)
+
+* Fantasía épica
+* 574 páginas
+
+#### Entrevista a la autora en el episodio [\#DDMAG 1x05](https://go.ivoox.com/rf/70596394).
