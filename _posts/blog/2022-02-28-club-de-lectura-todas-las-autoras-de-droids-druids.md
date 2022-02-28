@@ -13,10 +13,6 @@ Encontrarás obras de ciencia ficción y fantasía, algún cómic e incluso alg�
 
 Aquí tienes las obras que han aparecido **en el podcast en 2020 y 2021 por orden alfabético**:
 
+![Bienvenidos a Welcome de Laura fernandez](/public/images/screen-shot-2022-02-28-at-10.55.20-am.png)
 
-
-B
-
-
-
-Bienvenidos a Welcome - Laura Fernández
+**Bienvenidos a Welcome** - Laura Fernández
