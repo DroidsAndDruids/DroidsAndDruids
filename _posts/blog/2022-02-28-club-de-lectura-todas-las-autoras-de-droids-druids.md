@@ -9,7 +9,7 @@ date: 2022-02-28T09:37:46.672Z
 description: "Aquí tienes todas las autoras que han pasado por el podcast "
 category: blog
 ---
-¿Pensando qué leer a continuación? Dale una oportunidad a las obras que hemos seleccionado para el club de lectura y las entrevistas de DDMAG, los especiales de la revista. Seleccionamos con cariño, buscando dar una oportunidad a autoras locales de editoriales independientes, para que encuentres las joyas que no te llegan tan fácilmente.
+¿Pensando qué leer a continuación? Dale una oportunidad a las obras que hemos seleccionado para el club de lectura y las entrevistas de DDMAG, los especiales de la revista. Seleccionamos con cariño, buscando dar una oportunidad a autoras locales o de editoriales independientes, para que encuentres las joyas que no te llegan tan fácilmente.
 
 Algunas de estas autoras han sido entrevistadas en los especiales #DDMAG, y otras en los episodios de Club de Lectura, donde además hemos comentado el libro en profundidad :) 
 
@@ -61,3 +61,17 @@ Reconozco que fue un gran reto comentar este cómic más visual y conceptual que
 Si lo que buscas es una novelette cortita aquí tienes una escrita por una de las grandes escritoras del mundillo. Lola Robles es escritora pero también divulgadora y activista, y en esta novela aprendimos que la ciencia ficción no siempre tiene que tratar sobre tecnología avanzada, sino que puede centrarse en otros campos como la lingüística :)
 
 #### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 1x08](https://droidsanddruids.com/podcast/2021/01/11/d-d-1x08-club-lectura-el-informe-monteverde.html).
+
+![Se buscan mujeres sensatas (Sarah Gailey)](/public/images/s.png)
+
+### Se buscan mujeres sensatas (Sarah Gailey)
+
+* Western
+* Ciencia ficción distópica
+* 200 páginas
+
+Si buscas una novela corta y distinta, Sarah Gailey revoluciona el género western. Encontrarás personajes no binarios, representación LGTBQ y reflexión social, todo ello mientras viajas en una caravana de bibliotecarias por el desierto. 
+
+En esta ocasión, además, nos centramos en el mundo de la traducción y trajimos al podcast a su traductore Carla Bataller :)
+
+#### Puedes escuchar nuestro análisis y la entrevista que le hicimos en el [EPISODIO 2x04](https://droidsanddruids.com/podcast/2021/11/05/d-d-2x04-cl-se-buscan-mujeres-sensatas.html).
