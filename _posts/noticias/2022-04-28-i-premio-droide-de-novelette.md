@@ -2,10 +2,10 @@
 layout: page
 title: I PREMIO DROIDE DE NOVELETTE
 date: 2022-04-28T14:33:06.563Z
-description: Bases de la primera convocatoria de novelette
+description: ABIERTA convocatoria de novelette - hasta el 31 de agosto 2022
 category: noticias
 ---
-Las categorías de siempre continuarán siendo las mismas para los premios Droids & Druids del año que viene. La convocatoria se abrirá en enero/febrero 2023, para que votéis todas las obras publicadas en la revista del año anterior. El premio volverá a ser un trofeo y un libro.
+Las categorías de siempre continuarán siendo las mismas para ***los premios Droids & Druids*** del año que viene. El período de votaciones se abrirá en enero/febrero, para que votéis todas las obras publicadas en la revista del año anterior. El premio volverá a ser un trofeo y un libro.
 
  **Premio Droide de Relato y Poesía** 🤖
 
@@ -15,11 +15,13 @@ El premio del jurado a la mejor obra de la revista del año anterior. Vota el eq
 
 El premio del público a la mejor obra de la revista del año anterior. ¡Votáis vosotros!
 
-¿Y qué habrá de nuevo? Una nueva categoría especial que nos hace mucha ilusión: **Premio Droide de Novelette**
+¿Y qué habrá de nuevo en 2023? Una nueva categoría especial que nos hace mucha ilusión: **Premio Droide de Novelette**
 
 ¡El nuevo premio del jurado de novelette! Lee bien las bases para que decidir si os interesa participar.
 
-## **BASES I PREMIO DROIDE DE NOVELETTE**
+## **BASES I PREMIO DROIDE DE NOVELETTE** 
+
+⚠️ CONVOCATORIA ABIERTA HASTA EL 31 DE AGOSTO 2022⚠️ 
 
 Si tenéis dudas, podéis escribir a [droidsanddruids@gmail.com](mailto:droidsanddruids@gmail.com). (SOLO DUDAS, el envío debe hacerse a través del formulario).
 
