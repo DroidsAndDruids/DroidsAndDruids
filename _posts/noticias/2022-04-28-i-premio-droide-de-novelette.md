@@ -19,7 +19,7 @@ El premio del público a la mejor obra de la revista del año anterior. ¡Votái
 
 ¡El nuevo premio del jurado de novelette! Lee bien las bases para que decidir si os interesa participar.
 
-## **BASES I PREMIO DROIDE DE NOVELETTE** 
+## **BASES I PREMIO DROIDE DE NOVELETTE**
 
 ⚠️ CONVOCATORIA ABIERTA HASTA EL 31 DE AGOSTO 2022⚠️ 
 
@@ -29,7 +29,9 @@ Si tenéis dudas, podéis escribir a [droidsanddruids@gmail.com](mailto:droidsan
 2. Cada participante solo puede participar con una obra.
 3. Se admiten novelettes de **EXTENSIÓN** entre 18-25 mil palabras. Habrá flexibilidad de unas 500 palabras.
 4. Las obras deben estar escritas en castellano y deben ser inéditas.
-5. El TEMA es libre, siempre y cuando se adecue al subgénero literario de la **FANTACIENCIA**. Si necesitas más información, tenemos un episodio de podcast sobre este subgénero [AQUÍ](https://droidsanddruids.com/podcast/2021/11/05/ddmag-x06-qu%C3%A9-es-fantaciencia.html).
+5. El TEMA es libre, siempre y cuando se adecue al subgénero literario de la **FANTACIENCIA** (ciencia ficción fantástica), el género híbrido que combina la ciencia ficción con la fantasía: mundos fantásticos con tecnología futurista avanzada (¡o mundo futurista con fantasía!)\
+   Si necesitas más información, tenemos un episodio de podcast sobre este subgénero [AQUÍ](https://droidsanddruids.com/podcast/2021/11/05/ddmag-x06-qu%C3%A9-es-fantaciencia.html), y un hilo de Twitter con muchos ejemplos [AQUÍ](https://twitter.com/DroidsAndDruids/status/1419982166864367628?s=20&t=zBQHwqU773cq2Ox2yguQbQ). \
+   No aceptaremos obras que sean de fantasía o de ciencia ficción de manera separada. Buscamos historias híbridas que tengan elementos de ambos géneros  de manera que puedan considerarse Fantaciencia.
 6. No admitimos obras que contengan violencia animal ni apología del racismo, machismo u otra discriminación, del mismo modo que tampoco lo hacemos en la revista. 
 7. El **PLAZO** será desde que estas bases se publiquen hasta el 31 de agosto 2022 (incluido).
 8. El **ENVÍO** debe hacerse a través de [ESTE FORMULARIO](https://forms.gle/hd5DrSw3brnxrRZh7) de forma anónima: deberás usar un pseudónimo y una cuenta de email que no sea reconocible. En el formulario deberás completar título, breve sinopsis, número de palabras, y adjuntar 2 documentos:
