@@ -15,7 +15,7 @@ El premio del jurado a la mejor obra de la revista del año anterior. Vota el eq
 
 El premio del público a la mejor obra de la revista del año anterior. ¡Votáis vosotros!
 
-¿Y qué habrá de nuevo en 2023? Una nueva categoría especial que nos hace mucha ilusión: **Premio Droide de Novelette**
+¿Y qué habrá de nuevo? Una nueva categoría especial que nos hace mucha ilusión: **Premio Droide de Novelette**
 
 ¡El nuevo premio del jurado de novelette! Lee bien las bases para que decidir si os interesa participar.
 
