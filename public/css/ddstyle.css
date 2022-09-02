@@ -419,6 +419,7 @@ and (min-width : 680px) {
 
 .dd-revista-posts {
   display: flex;
+  flex-direction: column;
   margin: 2em 0;
   align-items: center;
   justify-content: center;
