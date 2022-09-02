@@ -1,6 +1,6 @@
 ---
 layout: revista
-title: Droids And Druids - Número 6 - Juegos
+title: Droids And Druids - Número 6 - Transformaciones
 image: /public/images/dd_transformaciones.jpg
 lektu: https://lektu.com/l/droidsdruids/droids-druids-6-transformaciones-septiembre-2022/20348
 date: 2022-09-02T08:32:18.380Z
