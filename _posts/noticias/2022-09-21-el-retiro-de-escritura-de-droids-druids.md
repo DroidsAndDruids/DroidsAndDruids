@@ -30,7 +30,7 @@ El precio será de 85 euros que incluirá:
 * Alquiler de sábanas y toallas
 * Alquiler de salas de escritura 24 horas para talleres y maratón de escritura
 * Actividades, talleres y mini pack Droids & Druids
-* Carnet de alberguista (requisito del albergue - con duración de 2 años - se puede descontar si ya se posee)
+* [Carnet de alberguista](https://hostelpack.com/) (requisito del albergue - con duración de 1 año - se puede descontar si ya se posee) 
 
 #### PREINSCRIPCIÓN
 
