@@ -32,22 +32,22 @@ El precio será de 85 euros que incluirá:
 * Actividades, talleres y mini pack Droids & Druids
 * Carnet de alberguista (requisito del albergue - con duración de 2 años - se puede descontar si ya se posee)
 
-#### PREINSCRIPCIÓN (30 Septiembre)
+#### PREINSCRIPCIÓN 
 
-La inscripción al retiro se abrirá mediante formulario el día 25 de Septiembre. Tendrán preferencia les autores de la revista Droids & Druids, y después, se adjudicarán las plazas por orden de inscripción. 
+La inscripción al retiro se abrirá mediante [ESTE FORMULARIO](https://docs.google.com/forms/d/1Qkh8EPuv2KLG0Eilpi_GzZ5eonrmj7hdiT3BLfSacsk/edit) el día 23 de Septiembre. **Tendrán preferencia les autores de la revista Droids & Druids**, y después, se adjudicarán las plazas por orden de inscripción. 
 
-En la inscripción se podrá indicar con qué otra persona se quiere compartir la habitación y trataremos de no separar grupos al adjudicar plazas, pero os rogamos que hagáis la reserva al mismo tiempo para evitar caos.
+En la inscripción **se podrá indicar con qué otra persona se quiere compartir la habitación** y trataremos de no separar grupos al adjudicar plazas, pero os rogamos que hagáis la reserva al mismo tiempo para evitar caos.
 
-En el caso de que las inscripciones superen las plazas se abrirá lista de espera (y según el interés, trataremos de ampliar algunas plazas). 
+En el caso de que las inscripciones superen las plazas se abrirá **lista de espera** (y según el interés, trataremos de ampliar algunas plazas). 
 
 #### RESERVA (10 euros - 12 Octubre)
 
-Después de adjudicar las plazas, os enviaremos los detalles para el pago de la reserva antes del 12 de octubre. Esta reserva vale 10 euros, que será descontado del precio final, y que nos permite pagar la inversión inicial y la penalización del albergue si alguien no aparece.
+**Después de adjudicar las plazas, os enviaremos los detalles para el pago de la reserva que deberá hacerse hasta el 12 de octubre**. Esta reserva vale 10 euros, que será descontado del precio final, y que nos permite pagar la inversión inicial y la penalización del albergue si alguien no aparece. Esta reserva podrá devolverse si se cancela antes del 12 de octubre. 
 
 Una vez superado este plazo, se sacarán de la lista a las personas que no hayan efectuado la reserva y se procederá a contactar a las personas en lista de espera.
 
 #### PAGO FINAL (75 euros - 1 noviembre)
 
-El pago total del retiro se hará antes del 1 de noviembre.
+El pago total del retiro se hará antes del 1 de noviembre. En caso de imprevisto y cancelación, se  devolverá el importe descontando la penalización hasta 4 días antes del evento.
 
 ![Cartel que dice: Retiro de escritura - * Alojamiento 2 noches en habitación doble o triple con baño propio * Pensión completa en el comedor (desayuno, comida y cena) * Alquiler de sábanas y toallas * Alquiler de salas de escritura 24 horas para talleres y maratón de escritura * Actividades, talleres y mini pack Droids & Druids * Carnet de alberguista (requisito del albergue - con duración de 2 años - se puede descontar si ya se posee)](/public/images/rsz_1retiro_a4.png)
