@@ -49,3 +49,5 @@ Una vez superado este plazo, se sacarán de la lista a las personas que no hayan
 #### PAGO FINAL (75 euros - 1 noviembre)
 
 El pago total del retiro se hará antes del 1 de noviembre.
+
+![Cartel que dice: Retiro de escritura - * Alojamiento 2 noches en habitación doble o triple con baño propio * Pensión completa en el comedor (desayuno, comida y cena) * Alquiler de sábanas y toallas * Alquiler de salas de escritura 24 horas para talleres y maratón de escritura * Actividades, talleres y mini pack Droids & Druids * Carnet de alberguista (requisito del albergue - con duración de 2 años - se puede descontar si ya se posee)](/public/images/rsz_1retiro_a4.png)
