@@ -32,9 +32,9 @@ El precio será de 85 euros que incluirá:
 * Actividades, talleres y mini pack Droids & Druids
 * Carnet de alberguista (requisito del albergue - con duración de 2 años - se puede descontar si ya se posee)
 
-#### PREINSCRIPCIÓN 
+#### PREINSCRIPCIÓN
 
-La inscripción al retiro se abrirá mediante [ESTE FORMULARIO](https://docs.google.com/forms/d/1Qkh8EPuv2KLG0Eilpi_GzZ5eonrmj7hdiT3BLfSacsk/edit) el día 23 de Septiembre. **Tendrán preferencia les autores de la revista Droids & Druids**, y después, se adjudicarán las plazas por orden de inscripción. 
+La inscripción al retiro se abrirá mediante [ESTE FORMULARIO](https://docs.google.com/forms/d/1Qkh8EPuv2KLG0Eilpi_GzZ5eonrmj7hdiT3BLfSacsk/edit) desde el día 23 de Septiembre. **Tendrán preferencia les autores de la revista Droids & Druids**, y después, se adjudicarán las plazas por orden de inscripción. 
 
 En la inscripción **se podrá indicar con qué otra persona se quiere compartir la habitación** y trataremos de no separar grupos al adjudicar plazas, pero os rogamos que hagáis la reserva al mismo tiempo para evitar caos.
 
