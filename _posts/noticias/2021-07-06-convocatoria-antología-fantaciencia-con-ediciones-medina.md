@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Convocatoria Antología Fantaciencia con Ediciones Medina
+title: "Convocatoria Antología Fantaciencia "
 date: 2021-07-06T10:55:44.829Z
 description: Participa en la antología de la revista Droids & Druids en
   colaboración con la Editorial Medina
@@ -52,7 +52,7 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
 
    También se seleccionarán varios poemas y viñetas (el número mínimo y máximo dependerá de la necesidad del volumen y será a discreción del jurado y la editorial).
 
-   **Los seleccionados serán publicados en una antología en papel y formato digital, publicada por Ediciones  Medina.** La fecha de publicación aún no está confirmada pues depende del calendario de la editorial.
+   **Los seleccionados serán publicados en una antología en papel y formato digital, publicada por Editorial Malas Artes.** La fecha de publicación aún no está confirmada pues depende del calendario de la editorial.
 
    **Ediciones Medina enviará un contrato de cesión de derechos a cada autor** seleccionado para firmar. En este contrato se especificarán los detalles de la publicación, los porcentajes de derechos de autor, ejemplares de cortesía, y demás detalles de acuerdo a la política de la editorial (estos detalles pueden variar según el número de autores seleccionados).
 
