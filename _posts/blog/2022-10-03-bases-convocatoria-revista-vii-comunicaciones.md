@@ -22,7 +22,7 @@ Recepción abierta para el **número VII: COMUNICACIONES** abierta hasta el 4 de
 4. El autor mantiene todos sus derechos sobre el texto. Además, **Droids & Druids no requiere exclusividad**, por lo que el autor puede publicar posteriormente el texto en otras revistas si así lo desea, siempre y cuando no suponga la modificación de los números de Droids & Druids ya publicados.
 5. ***TEMA* para esta VII convocatoria es COMUNICACIONES.** En este número queremos ver **comunicaciones indirectas o a distancia** entre los personajes: queremos que se envien cartas, que usen telefonos, radio, chats, que se comuniquen de un planeta a otro... En resumen, obras en las que tengan que **utilizar un medio para comunicarse** y que no sea una conversacion directa. No os olvidéis que *debe seguir siendo **fantasía o ciencia ficción\*\****:\*\* un relato sobre una chica que chatea con su abuela no entraría, pero si su abuela es una mujer loba o un alien entonces ya es otra cosa.
 
-   ![](/public/images/medios-small.png)
+   ![un droide a la izquierda enviando un mensaje por carta, radio, telefono, ordenador hasta el destinatario druida a la derecha](/public/images/medios-small.png)
 
    **Atención:** NO queremos apología del racismo, machismo u otra discriminación ni de la crueldad animal. No hay unas reglas exactas sobre qué se admite o no, debéis guiaros por el sentido común. Si falta al respeto a algún colectivo, probablemente no nos guste.
 
