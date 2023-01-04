@@ -13,11 +13,14 @@
         <img class="dd-logo" src="{{ site.baseurl }}public/images/logo_circle-min.png" alt="">
       </a>
     </li>
-    {% assign pages_list = site.pages | sort: 'order' | where: "layout", "page" %}
+    {% assign pages_list = site.pages | sort: 'order' | where: "layout", "page" | where: "header", true %}
     {% for node in pages_list %}
     <li class="dd-navbar-item{% if page.url == node.url %} active{% endif %}">
       <a href="{{ node.url }}">{{ node.title }}</a>
     </li>
     {% endfor %}
+    <li class="dd-navbar-item">
+      <a href="https://droidsanddruids.sumupstore.com/" target="_blank">👉 Tienda 🛒</a>
+    </li>
   </ul>
 </nav>

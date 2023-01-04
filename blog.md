@@ -1,5 +1,6 @@
 ---
 layout: page
+header: true
 title: Blog
 title_page: Blog
 order: 3

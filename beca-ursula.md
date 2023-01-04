@@ -2,6 +2,7 @@
 layout: page
 title: Beca Úrsula
 title_page: beca-ursula
+header: false
 categories: personal
 order: 5
 ---
