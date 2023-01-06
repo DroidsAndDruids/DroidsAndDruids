@@ -204,19 +204,16 @@ img.dd-logo {
 }
 
 .dd-footer {
-  position: absolute;
-  display: flex;
-  transform: rotate(90deg);
-  transform: rotate(90);
   position: fixed;
-  margin: 0;
-  padding: 0;
-  bottom: 7em;
-  left: -4.5em;
+  display: flex;
+  bottom: 0;
+  padding: .5em 3em;
+  background-color: #ffffffc2;
+  width: 100%;
 }
 
 .dd-copyright {
-  opacity: 0.6;
+  color: #9b93fe;
 }
 
 .dd-action-button {
