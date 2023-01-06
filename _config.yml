@@ -1,12 +1,12 @@
 markdown:         kramdown
+plugins:          [jekyll-paginate]
+
 
 # Setup
 title:            Droids And Druids
 description:      'Un podcast sobre ciencia ficción y fantasía'
 url:              https://droidsanddruids.com
 baseurl:          /
-
-paginate:         5
 
 social:
   twitter:        https://twitter.com/DroidsAndDruids

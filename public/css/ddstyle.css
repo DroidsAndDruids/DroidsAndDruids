@@ -8,6 +8,11 @@ body {
   color: white;
 }
 
+.page, .post {
+  border-bottom: 1px solid #171624;
+  padding-bottom: 1em;
+}
+
 .dd-navbar {
   position: fixed;
   top: 0;
@@ -169,6 +174,11 @@ img.dd-logo {
 
 .dd-post-title {
   font-weight: 200;
+}
+
+.dd-post-title a {
+  color: #00c8c0;
+  font-weight: 800;
 }
 
 .dd-header h1 {

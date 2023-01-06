@@ -34,7 +34,7 @@ Aquí encontraras todo lo relacionado con nuestra revista, ¡sigue leyendo para 
     {% endif %}
     <h2 class="post-title dd-post-title">
       <a href="{{ post.url }}">
-        {{ post.title }} →
+        {{ post.title }}
       </a>
     </h2>
 

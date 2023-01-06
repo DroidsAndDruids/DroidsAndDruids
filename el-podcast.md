@@ -13,7 +13,7 @@ order: 1
   <div class="post">
     <h2 class="post-title dd-post-title">
       <a href="{{ post.url }}">
-        {{ post.title }} →
+        {{ post.title }}
       </a>
     </h2>
 
@@ -28,7 +28,7 @@ order: 1
 </div>
 
 {% if posts.size > 5 %}
-<div class="pagination">
+<div class="dd-pagination pagination">
     {% if paginator.next_page %}
       <a class="pagination-item older" href="page{{paginator.next_page}}">Atrás</a>
     {% else %}

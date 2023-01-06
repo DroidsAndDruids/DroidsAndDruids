@@ -13,7 +13,7 @@ order: 4
   <div class="post">
     <h2 class="post-title dd-post-title">
       <a href="{{ post.url }}">
-        {{ post.title }} →
+        {{ post.title }}
       </a>
     </h2>
 

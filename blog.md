@@ -14,15 +14,12 @@ order: 3
   <div class="post">
     <h2 class="post-title dd-post-title">
       <a href="{{ post.url }}">
-        {{ post.title }} →
+        {{ post.title }}
       </a>
     </h2>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    <p class="dd-post--author">por {{ author.name }}</p>
     <p>{{ post.description }}</p>
-
   </div>
   {% endfor %}
 </div>
