@@ -16,56 +16,56 @@
 <div class="dd-header">
   <h1 class="dd-title">DROIDS AND DRUIDS</h1>
   <p class="dd-subtitle">donde la fantasía y la ciencia ficción se encuentran</p>
-
-  <section class="dd-header--info">
-    <article class="dd-header--box dd-header--box-a1">
-      <h2>📻 Escucha el podcast</h2>
-      {% if podcast.title %}
-        <h3>Último episodio</h3>
-        <p><a href="{{ podcast.url }}">{{ podcast.title }}</a> {{ podcast.description}}</p>
-      {% endif %}
-    </article>
-
-    <article class="dd-header--box dd-header--box-a2">
-      <h2>📰 Descárgate la revista</h2>
-      {% if revista.title %}
-        <h3>Último número</h3>
-        <p><a href="{{ revista.url }}">{{ revista.title }}</a> {{ revista.description}}</p>
-      {% endif %}
-    </article>
-
-    <article class="dd-header--box dd-header--box-a3">
-      <h2>📜 Lee el blog</h2>
-      {% if post.title %}
-        {% assign author = post.author.first %}
-        <h3>Último post</h3>
-        <p><a href="{{ post.url }}">{{ post.title }}</a> {{ post.description}}<span class="dd-post--author">- {{ author.name }}</span></p>
-      {% endif %}
-    </article>
-
-    <article class="dd-header--box dd-header--box-a4">
-      <h2>📌 No te pierdas nada</h2>
-      <h3>Beca Úrsula</h3>
-      <p>¿Tienes un podcast relacionado con la ciencia ficción, la fantasía, o el terror? ¿Te gustaría participar en un intercambio podcastero?</p>
-      <p>Si esto te interesa, aquí puedes conocer más sobre la iniciativa <a href="{{ becapage.url }}">Becas Úrsula</a></p>
-      <h3>Noticias</h3>
-
-      {% if noticia.title %}
-        <p><a href="{{ noticia.url }}">{{ noticia.title }}</a> {{ noticia.description}}</p>
-      {% endif %}
-
-      <h3>Redes sociales</h3>
-
-      <div class="dd-social">
-        <ul>
-          <li><a href="https://twitter.com/DroidsAndDruids">Twitter</a></li>
-          <li><a href="https://instagram.com/DroidsAndDruids">Instagram</a></li>
-          <li><a href="https://www.ivoox.com/podcast-droids-and-druids_sq_f1919150_1.html">iVoox</a></li>
-          <li><a href="https://lektu.com/e/droidsdruids/2399">Lektu</a></li>
-          <li><a href="https://www.goodreads.com/group/show/1138379-club-de-lectura-de-droids-druids">Goodreads</a></li>
-          <li><a href="https://github.com/DroidsAndDruids">GitHub</a></li>
-        </ul>
-      </div>
-    </article>
-  </section>
 </div>
+
+<section class="dd-main-section">
+  <article class="dd-main--box dd-main--box-a1">
+    <h2>📻 Escucha el podcast</h2>
+    {% if podcast.title %}
+      <h3>Último episodio</h3>
+      <p><a href="{{ podcast.url }}">{{ podcast.title }}</a> {{ podcast.description}}</p>
+    {% endif %}
+  </article>
+
+  <article class="dd-main--box dd-main--box-a2">
+    <h2>📰 Descárgate la revista</h2>
+    {% if revista.title %}
+      <h3>Último número</h3>
+      <p><a href="{{ revista.url }}">{{ revista.title }}</a> {{ revista.description}}</p>
+    {% endif %}
+  </article>
+
+  <article class="dd-main--box dd-main--box-a3">
+    <h2>📜 Lee el blog</h2>
+    {% if post.title %}
+      {% assign author = post.author.first %}
+      <h3>Último post</h3>
+      <p><a href="{{ post.url }}">{{ post.title }}</a> {{ post.description}}<span class="dd-post--author">- {{ author.name }}</span></p>
+    {% endif %}
+  </article>
+
+  <article class="dd-main--box dd-main--box-a4">
+    <h2>📌 No te pierdas nada</h2>
+    <h3>Beca Úrsula</h3>
+    <p>¿Tienes un podcast relacionado con la ciencia ficción, la fantasía, o el terror? ¿Te gustaría participar en un intercambio podcastero?</p>
+    <p>Si esto te interesa, aquí puedes conocer más sobre la iniciativa <a href="{{ becapage.url }}">Becas Úrsula</a></p>
+    <h3>Noticias</h3>
+
+    {% if noticia.title %}
+      <p><a href="{{ noticia.url }}">{{ noticia.title }}</a> {{ noticia.description}}</p>
+    {% endif %}
+
+    <h3>Redes sociales</h3>
+
+    <div class="dd-social">
+      <ul>
+        <li><a href="https://twitter.com/DroidsAndDruids">Twitter</a></li>
+        <li><a href="https://instagram.com/DroidsAndDruids">Instagram</a></li>
+        <li><a href="https://www.ivoox.com/podcast-droids-and-druids_sq_f1919150_1.html">iVoox</a></li>
+        <li><a href="https://lektu.com/e/droidsdruids/2399">Lektu</a></li>
+        <li><a href="https://www.goodreads.com/group/show/1138379-club-de-lectura-de-droids-druids">Goodreads</a></li>
+        <li><a href="https://github.com/DroidsAndDruids">GitHub</a></li>
+      </ul>
+    </div>
+  </article>
+</section>
