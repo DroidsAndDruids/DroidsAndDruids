@@ -2,6 +2,7 @@
 layout: page
 title: Nosotres
 title_page: Sobre nosotras
+header: true
 categories: personal
 order: 6
 ---
