@@ -12,7 +12,7 @@ Para reconocer el talento de nuestros autores, vuelven los Premios Droide y Drui
 
 Este año, se mantienen las categorías relato y poesía de obras de la revista con el procedimiento estándar. Y además, hacemos **una serie de cambios** importantes:
 
-* La categoría ***poesía*** tendrá solo una ronda.
+* Este año procederemos con **solo una ronda**. La obra más votada será la ganadora.
 * La *Gala* de entrega de premios será **presencial** dentro del marco del Festival Terramur. 
 * **Añadimos las *categorías novelette y novela*** *que serán categorías con un procedimiento especial*\* que incluirá una \*lista de libros favoritos Droids & Druids*. Más info en FAQs.
 * Tendremos un **miembro de honor invitado en el jurado** para ayudarnos a valorar las categorías externas a la revista. *Este año, la invitada es Carla Plumed,* que se une para esta ocasión al resto del jurado de la revista: Inés Galiano, Mariado Martínez, Elena Torró, Amanda Iniesta, Genís Robles, Toni Abellan, Vanessa Cornago y Silvia Rodríguez
@@ -36,8 +36,6 @@ Categorías: Relato, Poesía, Novelette, Novela
 Copia y pega de la lista de candidatas más abajo tus 3 obras favoritas. Las tres más votadas serán las 3 finalistas. 
 
 Los votos recibidos como primer favorito sumarán tres puntos, los votos en segundo puesto dos y los de tercero un punto. Finalmente, la obra con más puntos acumulados será la ganadora.
-
-
 
 ## Obras candidatas para los Premios 2023 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
