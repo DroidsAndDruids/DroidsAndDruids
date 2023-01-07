@@ -25,6 +25,7 @@ body {
 
 .dd-navbar-mobile {
   display: none;
+  background-color: #171624;
 }
 
 .dd-navbar ul.dd-navbar-list {
@@ -296,6 +297,7 @@ and (max-width : 1220px) {
     display: block;
     z-index: 1;
     width: 100vw;
+    height: 7rem;
   }
 
   .dd-navbar-mobile a {
@@ -343,6 +345,10 @@ and (max-width : 1220px) {
     padding: 1em 0;
   }
 
+  .dd-page p img {
+    width: 100%;
+  }
+
   .dd-page-title {
     padding: .5em 0;
     font-size: 28px;
@@ -362,12 +368,16 @@ and (min-width : 680px) {
   .dd-container-page {
     padding: 0 1em;
     width: 100%;
-    margin: 6rem 0;
+    margin: 9rem 0;
     max-width: 70%;
   }
 
   .dd-page {
     padding: 1em 0;
+  }
+
+  .dd-page p img {
+    width: 100%;
   }
 }
 
