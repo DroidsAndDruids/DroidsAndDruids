@@ -8,6 +8,8 @@ category: noticias
 ---
 Para reconocer el talento de nuestros autores, vuelven los Premios Droide y Druida, convocados por primera vez el año 2022. Podéi﻿s leer **MÁS INFO en las FAQs** de abajo [😊](https://emojipedia.org/es/cara-feliz-con-ojos-sonrientes/), ver los [ganadores del año pasado](https://droidsanddruids.com/noticias/2022/01/03/premios-droids-druids.html), e incluso ver la [gala 2022 en YouTube](https://www.youtube.com/watch?v=1XFcfxzIAS4). 
 
+![foto de los trofeos](/public/images/tiny-small.png)
+
 Se mantienen las categorías relato y poesía de obras de la revista con el procedimiento estándar. Y además, este año hacemos **una serie de cambios** importantes:
 
 * La categoría ***poesía*** tendrá solo una ronda.
