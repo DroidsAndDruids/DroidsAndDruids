@@ -53,63 +53,63 @@ Puedes refrescar la memoria y volver a leerlos todos aquí en [LEKTU](https://le
 
 ### Categoría Poesía 🪶
 
-Número 5: Juegos
+**Número 5: Juegos**
 
-* Gira la moneda en el aire - Luis Gallardo Gil / Pluma de Ícaro
+* **Gira la moneda en el aire** - Luis Gallardo Gil / Pluma de Ícaro
 
-Número 6: Transformaciones
+**Número 6: Transformaciones**
 
-* Antojo - Irene B. Trenas
-* El vuelo de la hojalata - Arien Vega
-* El hilo de la verdad - Mirto Torres
-* La leyenda de faerya - Luis Gallardo Gil / Pluma de Ícaro
+* **Antojo** - Irene B. Trenas
+* **El vuelo de la hojalata** - Arien Vega
+* **El hilo de la verdad** - Mirto Torres
+* **La leyenda de faerya** - Luis Gallardo Gil / Pluma de Ícaro
 
 ### Categoría Relato [📇](https://emojipedia.org/card-index/)
 
-Número 5: Juegos
+**Número 5: Juegos**
 
-* Segunda ronda: más allá de la vida - Irene B. Trenas 
-* La prueba de los dos dados - Jesús Durán y Libertad García-Villada 
-* El día que llegaron los héroes - Alejandro Rodríguez Tárraga 
-* EDLA - Elena Mejías 
-* Una bala para victoria - Eduardo Iriarte Gahete. 
-* ¿Izquierda o derecha? - Yolanda Fernández Benito. 
-* Kri-uuru o la vida de los perdidos - Imanol Vázquez. 
-* Juego de dioses - Cristina J. García. 
+* **Segunda ronda: más allá de la vida** - Irene B. Trenas 
+* **La prueba de los dos dados** - Jesús Durán y Libertad García-Villada 
+* **El día que llegaron los héroes** - Alejandro Rodríguez Tárraga 
+* **EDLA** - Elena Mejías 
+* **Una bala para victoria** - Eduardo Iriarte Gahete. 
+* **¿Izquierda o derecha?** - Yolanda Fernández Benito. 
+* **Kri-uuru o la vida de los perdidos** - Imanol Vázquez. 
+* **Juego de dioses** - Cristina J. García. 
 
-Número 6: Transformaciones
+**Número 6: Transformaciones**
 
-* El mundo oculto - Elena Mejías Gil 
-* Hijos jilgueros - Ángel Belmonte Rodes 
-* La canción de la niña rigas - Celia Corral-Vázquez 
-* Puesta pa’l derroche - Ana Saiz García 
-* La casa úemer - Nia Schamuells 
-* Una pregunta, un deseo - Brian Moscoso Rial 
-* El sepelio - Yolanda Fernández Benito. 
+* **El mundo oculto** - Elena Mejías Gil 
+* **Hijos jilgueros** - Ángel Belmonte Rodes 
+* **La canción de la niña rigas** - Celia Corral-Vázquez 
+* **Puesta pa’l derroche** - Ana Saiz García 
+* **La casa úemer** - Nia Schamuells 
+* **Una pregunta, un deseo** - Brian Moscoso Rial 
+* **El sepelio** - Yolanda Fernández Benito. 
 
 ### Lista de libros favoritos de Droids & Druids de 2022 
 
-Categoría Novelette
+**Categoría Novelette**
 
-* El monstruo del bosque y los monstruos de la ciudad - Julia Rupérez (Dorna)
-* Miasis - Mª Carmen Copete (Transbordador)
-* Sed - Cristina B. Morales (Hela)
-* Por ti la luna - Mars Abella Vazquez (Freya)
+* **El monstruo del bosque y los monstruos de la ciudad** - Julia Rupérez (Dorna)
+* **Miasis** - Mª Carmen Copete (Transbordador)
+* **Sed** - Cristina B. Morales (Hela)
+* **Por ti la luna** - Mars Abella Vazquez (Freya)
 
-Categoría Novela
+**Categoría Novela**
 
-* El dárico gris - Eva Amuedo (Obscura)
-* Otras amigas de la magia - Maeva Nieto (Hela)
-* Nos devoró la niebla - Marina Tena (Insólita)
-* Las cinco vueltas del Carrousel - Ysera Sevriens (Roomie)
-* El mundo necesita a Delirium - Rosa Gil (Contraluz)
-* El fin del mundo como excusa para amarte - Rubén Bellés (Obscura)
+* **El dárico gris** - Eva Amuedo (Obscura)
+* **Otras amigas de la magia** - Maeva Nieto (Hela)
+* **Nos devoró la niebla** - Marina Tena (Insólita)
+* **Las cinco vueltas del Carrousel** - Ysera Sevriens (Roomie)
+* **El mundo necesita a Delirium** - Rosa Gil (Contraluz)
+* **El fin del mundo como excusa para amarte** - Rubén Bellés (Obscura)
 
 ###  
 
 ### FAQs
 
-¿Cuándo se producen las votaciones?
+**¿Cuándo se producen las votaciones?**
 
 ¡Durante este mes de enero de 2023! Después de dos rondas, conoceremos los ganadores.
 
@@ -117,11 +117,13 @@ Categoría Novela
 
 Relatos y poemas publicados en los números de la revista Droids & Druids del año anterior. En este caso de 2022: incluye los números V (Juegos), VI (Transformaciones).  
 
-👇 Tienes la lista completa de obras candidatas de este año más abajo 👇
+Tienes la lista completa de obras candidatas de este año arriba.
 
-¿Cuál es el premio?
+**¿Cuál es el premio?**
 
 IMAGEN 
+
+
 
 Trofeo, libros, y reconocimiento :) 
 
