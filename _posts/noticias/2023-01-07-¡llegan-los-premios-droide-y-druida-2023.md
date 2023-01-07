@@ -8,58 +8,42 @@ category: noticias
 ---
 Para reconocer el talento de nuestros autores, vuelven los Premios Droide y Druida, convocados por primera vez el año 2022. Podéi﻿s leer **MÁS INFO en las FAQs** de abajo [😊](https://emojipedia.org/es/cara-feliz-con-ojos-sonrientes/), ver los [ganadores del año pasado](https://droidsanddruids.com/noticias/2022/01/03/premios-droids-druids.html), e incluso ver la [gala 2022 en YouTube](https://www.youtube.com/watch?v=1XFcfxzIAS4). 
 
-Se mantienen las categorías relato y poesía de obras de la revista con el procedimiento estándar. Y además, este año hacemos una serie de cambios importantes:
+Se mantienen las categorías relato y poesía de obras de la revista con el procedimiento estándar. Y además, este año hacemos **una serie de cambios** importantes:
 
-* La categoría poesía tendrá solo una ronda.
-* La Gala de entrega de premios será presencial dentro del marco del Festival Terramur. 
-* Añadimos las categorías novelette y novela que serán categorías con un procedimiento especial\* que incluirá una \*lista de libros favoritos Droids & Druids*. Más info en FAQs.
-* Tendremos un miembro de honor invitado en el jurado para ayudarnos a valorar las categorías externas a la revista. Este año, la invitada es CARLA PLUMED, que se une para esta ocasión al resto del jurado de la revista: Inés Galiano, Mariado Martínez, Elena Torró, Amanda Iniesta, Genís Robles, Toni Abellan, Vanessa Cornago y Silvia Rodríguez.
+* La categoría ***poesía*** tendrá solo una ronda.
+* La *Gala* de entrega de premios será **presencial** dentro del marco del Festival Terramur. 
+* **Añadimos las *categorías novelette y novela*** *que serán categorías con un procedimiento especial*\* que incluirá una \*lista de libros favoritos Droids & Druids*. Más info en FAQs.
+* Tendremos un **miembro de honor invitado en el jurado** para ayudarnos a valorar las categorías externas a la revista. *Este año, la invitada es Carla Plumed,* que se une para esta ocasión al resto del jurado de la revista: Inés Galiano, Mariado Martínez, Elena Torró, Amanda Iniesta, Genís Robles, Toni Abellan, Vanessa Cornago y Silvia Rodríguez
 
 #### Premio Droide [🤖](https://emojipedia.org/robot/)
 
 El premio del jurado. Vota el equipo de la revista.
 
-Categorías:
-
-* Relato
-* Poesía
-* Novelette
-* Novela
+Categorías: Relato, Poesía, Novelette, Novela
 
 #### Premio Druida 🧙‍♀️​
 
 El premio del público. ¡Votais vosotros!
 
-Categorías:
-
-* Relato
-* Poesía
-* Novelette
-* Novela
-
-
+Categorías: Relato, Poesía, Novelette, Novela
 
 ### VOTA TUS FAVORITOS
 
-🏅 PRIMERA RONDA 🏅
+**🏅 PRIMERA RONDA 🏅- HASTA EL 15 ENERO (incluido)**
 
-Enlace de voto próximamente - HASTA EL 15 ENERO (incluido)
-
-https://forms.gle/7S9D6AoSvqagieri9
+**[Enlace de voto AQU](https://forms.gle/7S9D6AoSvqagieri9)** 
 
 Poesía: Solo habrá una ronda para la categoría poesía, ya que hay pocas obras. La más votada será la ganadora directamente en la gala.
 
 Relato, Novelette y Novela: En esta ronda vota tus tres favoritas para obtener los finalistas. 
 
-Copia y pega de la lista de más abajo tus 3 obras favoritas. Las tres más votadas serán las 3 finalistas. 
+Copia y pega de la lista de candidatas más abajo tus 3 obras favoritas. Las tres más votadas serán las 3 finalistas. 
 
-🏆 RONDA FINAL (Excepto poesía) 🏆
+**🏆 RONDA FINAL (Excepto poesía) 🏆**
 
 Se abrirá cuando acabe la primera ronda
 
 En esta ronda se selecciona la obra ganadora entre las finalistas.
-
-
 
 ## Obras candidatas para los Premios 2023 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
@@ -153,18 +137,11 @@ Seleccionaremos en dos rondas. En la primera ronda, seleccionaremos 3 obras nomi
 
 En caso de que el premio Droide y el premio Druida coincidan, se escogerá el segundo más votado para el premio Druida, para que más autores puedan optar.
 
-
-
 \*¿Cuál es el procedimiento de voto en las categorías especiales?
 
 * Premio Droide de Novelette: se desarrolla durante el año anterior y sale publicado durante el marco del festival. Aquí podéis ver la info. La obra ganadora del premio Droide de novelette 2023 ha sido “Puedes llamarme espátula” de Celia Corral-Vázquez, y la finalista “La obsoletadora” de Alejandro Rodríguez.
-
-
-
 * Para las otras tres categorías, se procede con \*la lista de libros favoritos Droids & Druids\*: con los favoritos de los ocho miembros del jurado y del miembro invitado, y las recomendaciones de las autoras que han pasado por el podcast, se publicará una lista de novelas y novelettes favoritas del año publicadas en castellano en editoriales independientes del país.
 * * Premio Droide de Novela: el jurado vota la ganadora de la lista de favoritos Droids & Druids.
   * Premios Druida de Novelette y Novela: el público vota la ganadora de la lista de favoritos Droids & Druids
-
-
 
 ⭐ ¿Tienes más dudas? Siempre estamos disponibles en droidsanddruids@gmail.com ⭐
