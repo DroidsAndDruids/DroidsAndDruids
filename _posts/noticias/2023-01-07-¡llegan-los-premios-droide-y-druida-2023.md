@@ -105,11 +105,13 @@ Puedes refrescar la memoria y volver a leerlos todos aquí en [LEKTU](https://le
 
 ##### **¿Cuándo se producen las votaciones?**
 
-¡Durante este mes de enero de 2023! Después de dos rondas, conoceremos los ganadores.
+¡Durante este mes de enero de 2023! Los ganadores se conoceran en la Gala.
 
-¿Qué obras pueden participar?
+##### ¿Qué obras pueden participar?
 
 Relatos y poemas publicados en los números de la revista Droids & Druids del año anterior. En este caso de 2022: incluye los números V (Juegos), VI (Transformaciones).  
+
+Las obras externas son seleccionadas por el jurado en la lista de libros favoritos Droids & Druids: obras en castellano publicadas el año anterior.
 
 Tienes la lista completa de obras candidatas de este año arriba.
 
