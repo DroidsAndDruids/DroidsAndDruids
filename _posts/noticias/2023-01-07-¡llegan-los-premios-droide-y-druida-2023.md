@@ -91,6 +91,8 @@ Puedes refrescar la memoria y volver a leerlos todos aquí en [LEKTU](https://le
 
 ### Lista de libros favoritos de Droids & Druids de 2022 
 
+(﻿Obras escritas en castellano y publicadas en 2022)
+
 **Categoría Novelette**
 
 * **El monstruo del bosque y los monstruos de la ciudad** - Julia Rupérez (Dorna)
