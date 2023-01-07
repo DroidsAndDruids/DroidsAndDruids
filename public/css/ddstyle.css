@@ -72,7 +72,7 @@ img.dd-logo {
   display: grid;
   margin: 2em 1em;
   grid-gap: 1rem;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 2fr 1fr;
   grid-template-rows: 1fr;
   grid-template-areas:
     "a1 a5"
@@ -248,8 +248,13 @@ img.dd-logo {
   margin: 0 0 .5em 0;
 }
 
+.dd-terramur {
+  text-align: center;
+  background: #f5cc9033;
+}
+
 .dd-main--box.dd-terramur h2 {
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: 800;
 }
 
@@ -277,11 +282,10 @@ and (max-width : 1220px) {
     margin-top: 4em;
   }
 
-  .dd-main-section {
-    width: 85%;
+  .dd-main-section {    
     padding-top: 0;
     grid-template-columns: 1fr;
-    grid-template-rows: 4fr;
+    grid-template-rows: 5fr;
     grid-template-areas:
         "a5"
         "a1"
