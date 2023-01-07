@@ -253,6 +253,10 @@ img.dd-logo {
   font-weight: 800;
 }
 
+.dd-main--box.dd-terramur img {
+  width: 100%;
+}
+
 @media only screen 
 and (min-width : 320px) 
 and (max-width : 1220px) {
