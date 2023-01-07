@@ -41,6 +41,8 @@ Relato, Novelette y Novela: En esta ronda vota tus tres favoritas para obtener l
 
 Copia y pega de la lista de candidatas más abajo tus 3 obras favoritas. Las tres más votadas serán las 3 finalistas. 
 
+Los votos recibidos como primer favorito sumarán tres puntos, los votos en segundo puesto dos y los de tercero un punto. Finalmente, la obra con más puntos acumulados será la ganadora.
+
 **🏆 RONDA FINAL (Excepto poesía) 🏆**
 
 Se abrirá cuando acabe la primera ronda
@@ -137,15 +139,19 @@ Trofeo, libros, y reconocimiento :) 
 
 ##### **¿Cuál es el procedimiento de voto estándar?** (Categorías Relato y Poesía)
 
-Seleccionaremos en dos rondas. En la primera ronda, seleccionaremos 3 obras nominadas de cada categoría para el premio Druida (público) y Droide (jurado). En la segunda, podréis votar vuestra obra ganadora de entre las tres finalistas de cada categoría.
+Seleccionaremos en una ronda. Vota tus tres obras favoritas por orden de preferencia. Los votos de primer favorito sumarán 3 puntos, los votos en segundo puesto 2 y los de tercero 1. Finalmente, la obra con más puntos acumulados será la ganadora.
 
 En caso de que el premio Droide y el premio Druida coincidan, se escogerá el segundo más votado para el premio Druida, para que más autores puedan optar.
+
+
 
 ##### \*¿Cuál es el procedimiento de voto en las categorías especiales?
 
 * **Premio Droide de Novelette:** se desarrolla durante el año anterior y sale publicado durante el marco del festival. Aquí podéis ver la info. La obra ganadora del premio Droide de novelette 2023 ha sido “Puedes llamarme espátula” de Celia Corral-Vázquez, y la finalista “La obsoletadora” de Alejandro Rodríguez.
-* **Para las otras tres categorías, se procede con \*la lista de libros favoritos Droids & Druids\***: con los favoritos de los ocho miembros del jurado y del miembro invitado, y las recomendaciones de las autoras que han pasado por el podcast, se publicará una lista de novelas y novelettes favoritas del año publicadas en castellano en editoriales independientes del país.
-* * **Premio Droide de Novela**: el jurado vota la ganadora de la lista de favoritos Droids & Druids.
-  * **Premios Druida de Novelette y Novela**: el público vota la ganadora de la lista de favoritos Droids & Druids
+* **Para las otras tres categorías**, **se procede con \*la lista de libros favoritos Droids & Druids\*:** con los favoritos de los ocho miembros del jurado y del miembro invitado, y las recomendaciones de las autoras que han pasado por el podcast, se publicará una lista de novelas y novelettes favoritas del año publicadas en castellano en editoriales independientes del país.
+
+  *Se votarán tres obras por orden de preferencia*. Los votos de primer favorito sumarán 3 puntos, los votos en segundo puesto 2 y los de tercero 1. Finalmente, la obra con más puntos acumulados será la ganadora.
+
+  * Premio Droide de Novela: el jurado vota la ganadora de la lista de favoritos Droids & Druids. Premios Druida de Novelette y Novela: el público vota la ganadora de la lista de favoritos Droids & Druids.
 
 ***⭐ ¿Tienes más dudas? Siempre estamos disponibles en droidsanddruids@gmail.com ⭐***
