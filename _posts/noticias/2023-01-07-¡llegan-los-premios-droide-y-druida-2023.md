@@ -107,9 +107,9 @@ Puedes refrescar la memoria y volver a leerlos todos aquí en [LEKTU](https://le
 
 ###  
 
-### FAQs
+## FAQs
 
-**¿Cuándo se producen las votaciones?**
+##### **¿Cuándo se producen las votaciones?**
 
 ¡Durante este mes de enero de 2023! Después de dos rondas, conoceremos los ganadores.
 
@@ -119,31 +119,29 @@ Relatos y poemas publicados en los números de la revista Droids & Druids del a�
 
 Tienes la lista completa de obras candidatas de este año arriba.
 
-**¿Cuál es el premio?**
+##### **¿Cuál es el premio?**
 
-IMAGEN 
-
-
+![foto de los trofeos de los premios](/public/images/tiny-small.png)
 
 Trofeo, libros, y reconocimiento :) 
 
-¿Cómo participo?
+##### **¿Cómo participo?**
 
-\*Si eres autore:\* Si has publicado el año anterior en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
+**\*Si eres autore:\*** Si has publicado el año anterior en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
 
-Si eres lectore: ¡Vota! Apoya tus obras favoritas y recomiéndalas :)
+**Si eres lectore:** ¡Vota! Apoya tus obras favoritas y recomiéndalas :)
 
-¿Cuál es el procedimiento de voto estándar? (Categorías Relato y Poesía)
+##### **¿Cuál es el procedimiento de voto estándar?** (Categorías Relato y Poesía)
 
 Seleccionaremos en dos rondas. En la primera ronda, seleccionaremos 3 obras nominadas de cada categoría para el premio Druida (público) y Droide (jurado). En la segunda, podréis votar vuestra obra ganadora de entre las tres finalistas de cada categoría.
 
 En caso de que el premio Droide y el premio Druida coincidan, se escogerá el segundo más votado para el premio Druida, para que más autores puedan optar.
 
-\*¿Cuál es el procedimiento de voto en las categorías especiales?
+##### \*¿Cuál es el procedimiento de voto en las categorías especiales?
 
-* Premio Droide de Novelette: se desarrolla durante el año anterior y sale publicado durante el marco del festival. Aquí podéis ver la info. La obra ganadora del premio Droide de novelette 2023 ha sido “Puedes llamarme espátula” de Celia Corral-Vázquez, y la finalista “La obsoletadora” de Alejandro Rodríguez.
-* Para las otras tres categorías, se procede con \*la lista de libros favoritos Droids & Druids\*: con los favoritos de los ocho miembros del jurado y del miembro invitado, y las recomendaciones de las autoras que han pasado por el podcast, se publicará una lista de novelas y novelettes favoritas del año publicadas en castellano en editoriales independientes del país.
-* * Premio Droide de Novela: el jurado vota la ganadora de la lista de favoritos Droids & Druids.
-  * Premios Druida de Novelette y Novela: el público vota la ganadora de la lista de favoritos Droids & Druids
+* **Premio Droide de Novelette:** se desarrolla durante el año anterior y sale publicado durante el marco del festival. Aquí podéis ver la info. La obra ganadora del premio Droide de novelette 2023 ha sido “Puedes llamarme espátula” de Celia Corral-Vázquez, y la finalista “La obsoletadora” de Alejandro Rodríguez.
+* **Para las otras tres categorías, se procede con \*la lista de libros favoritos Droids & Druids\***: con los favoritos de los ocho miembros del jurado y del miembro invitado, y las recomendaciones de las autoras que han pasado por el podcast, se publicará una lista de novelas y novelettes favoritas del año publicadas en castellano en editoriales independientes del país.
+* * **Premio Droide de Novela**: el jurado vota la ganadora de la lista de favoritos Droids & Druids.
+  * **Premios Druida de Novelette y Novela**: el público vota la ganadora de la lista de favoritos Droids & Druids
 
-⭐ ¿Tienes más dudas? Siempre estamos disponibles en droidsanddruids@gmail.com ⭐
+***⭐ ¿Tienes más dudas? Siempre estamos disponibles en droidsanddruids@gmail.com ⭐***
