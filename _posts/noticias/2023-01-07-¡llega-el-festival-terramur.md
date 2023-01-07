@@ -9,7 +9,7 @@ category: noticias
 ---
 ¡Ya llega la primera edición del Terramur! El festival de ciencia ficción, fantasía y terror que organizamos en la ciudad de Murcia. 
 
-CARTEL
+![](/public/images/tiny.png)
 
 ¿Quieres saber todo lo que estamos preparando?Aquí tienes más info [👇](https://emojipedia.org/backhand-index-pointing-down/)
 
@@ -34,30 +34,22 @@ SÁBADO 23pm -Fiesta de disfraces y  
 
 DOMINGO: 11am-14pm: Mañaneo de podcasts 
 
-
-
 ### PROGRAMA DE CHARLAS
 
 **\
 *Próximamente*** tendrás el programa completo de charlas del salón de actos
 
-
-
 ### SALA DE TALLERES
 
 Ya te puedes inscribir en los talleres y actividades. ¡Tenemos talleres de escritura, poesía, actividades de rol de mesa, de cluedo, etc.! Son completamente gratuitos pero con aforo limitado. Se asignarán las plazas por orden de llegada.
 
-[Descúbrelos todos e inscríbete aquí ](<https://forms.gle/JmkgH8GoQpsEskBj6>)[](https://forms.gle/JmkgH8GoQpsEskBj6)
-
-
+[Descúbrelos todos e inscríbete aquí ](https://forms.gle/JmkgH8GoQpsEskBj6)[](https://forms.gle/JmkgH8GoQpsEskBj6)
 
 ### GALA DE PREMIOS DROIDE Y DRUIDE
 
 Este año la gala será presencial, a última hora del sábado. ¿Aún no has votado tus favoritos? 
 
-[Descubre todo sobre estos premios aquí ](<https://droidsanddruids.com/noticias/2023/01/05/llegan-los-premios-droide-y-druida-2023.html>)[](https://droidsanddruids.com/noticias/2023/01/05/llegan-los-premios-droide-y-druida-2023.html)
-
-
+[Descubre todo sobre estos premios aquí ](https://droidsanddruids.com/noticias/2023/01/05/llegan-los-premios-droide-y-druida-2023.html)[](https://droidsanddruids.com/noticias/2023/01/05/llegan-los-premios-droide-y-druida-2023.html)
 
 ### VOLUNTARIOS
 
@@ -65,8 +57,8 @@ Este año la gala será presencial, a última hora del sábado. ¿Aún no has vo
 
 Apreciaremos mucho la ayuda. Abrimos bloques de 2,5h para ayudar (en los puestos de bienvenida, repartir programas e indicar direcciones, avisar a los ponentes del tiempo que queda, colocar sillas y carteles,  repartir el agua a los ponentes, etc.)
 
-[Apúntate aquí ](<https://forms.gle/b5kX2Mbojyiu5y8o8>)[](https://forms.gle/b5kX2Mbojyiu5y8o8)
+[Apúntate aquí ](https://forms.gle/b5kX2Mbojyiu5y8o8)[](https://forms.gle/b5kX2Mbojyiu5y8o8)
 
 ### PACKS MECENAS
 
-Apreciamos muchísimo si aportas comprando alguno de nuestros packs de mecenas. ¡Y podrás llevarte una camiseta única!. [Los tienes todos en la tienda ](<https://droidsanddruids.sumupstore.com/productos>)[](https://droidsanddruids.sumupstore.com/productos)
+Apreciamos muchísimo si aportas comprando alguno de nuestros packs de mecenas. ¡Y podrás llevarte una camiseta única!. [Los tienes todos en la tienda ](https://droidsanddruids.sumupstore.com/productos)[](https://droidsanddruids.sumupstore.com/productos)
