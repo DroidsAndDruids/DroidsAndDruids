@@ -29,25 +29,15 @@ El premio del público. ¡Votais vosotros!
 
 Categorías: Relato, Poesía, Novelette, Novela
 
-### VOTA TUS FAVORITOS
-
-**🏅 PRIMERA RONDA 🏅- HASTA EL 15 ENERO (incluido)**
+### **🏅**VOTA TUS FAVORITOS**🏅- HASTA EL 19 ENERO (incluido)**
 
 **[Enlace de voto](https://forms.gle/7S9D6AoSvqagieri9)**
-
-Poesía: Solo habrá una ronda para la categoría poesía, ya que hay pocas obras. La más votada será la ganadora directamente en la gala.
-
-Relato, Novelette y Novela: En esta ronda vota tus tres favoritas para obtener los finalistas. 
 
 Copia y pega de la lista de candidatas más abajo tus 3 obras favoritas. Las tres más votadas serán las 3 finalistas. 
 
 Los votos recibidos como primer favorito sumarán tres puntos, los votos en segundo puesto dos y los de tercero un punto. Finalmente, la obra con más puntos acumulados será la ganadora.
 
-**🏆 RONDA FINAL (Excepto poesía) 🏆**
 
-Se abrirá cuando acabe la primera ronda
-
-En esta ronda se selecciona la obra ganadora entre las finalistas.
 
 ## Obras candidatas para los Premios 2023 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
@@ -142,8 +132,6 @@ Trofeo, libros, y reconocimiento :) 
 Seleccionaremos en una ronda. Vota tus tres obras favoritas por orden de preferencia. Los votos de primer favorito sumarán 3 puntos, los votos en segundo puesto 2 y los de tercero 1. Finalmente, la obra con más puntos acumulados será la ganadora.
 
 En caso de que el premio Droide y el premio Druida coincidan, se escogerá el segundo más votado para el premio Druida, para que más autores puedan optar.
-
-
 
 ##### \*¿Cuál es el procedimiento de voto en las categorías especiales?
 
