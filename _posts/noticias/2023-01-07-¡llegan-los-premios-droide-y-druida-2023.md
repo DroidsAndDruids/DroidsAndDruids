@@ -10,7 +10,7 @@ Para reconocer el talento de nuestros autores, vuelven los Premios Droide y Drui
 
 ![foto de los trofeos](/public/images/tiny-small.png)
 
-Se mantienen las categorías relato y poesía de obras de la revista con el procedimiento estándar. Y además, este año hacemos **una serie de cambios** importantes:
+Este año, se mantienen las categorías relato y poesía de obras de la revista con el procedimiento estándar. Y además, hacemos **una serie de cambios** importantes:
 
 * La categoría ***poesía*** tendrá solo una ronda.
 * La *Gala* de entrega de premios será **presencial** dentro del marco del Festival Terramur. 
@@ -33,7 +33,7 @@ Categorías: Relato, Poesía, Novelette, Novela
 
 **🏅 PRIMERA RONDA 🏅- HASTA EL 15 ENERO (incluido)**
 
-**[Enlace de voto AQU](https://forms.gle/7S9D6AoSvqagieri9)** 
+**[Enlace de voto](https://forms.gle/7S9D6AoSvqagieri9)**
 
 Poesía: Solo habrá una ronda para la categoría poesía, ya que hay pocas obras. La más votada será la ganadora directamente en la gala.
 
