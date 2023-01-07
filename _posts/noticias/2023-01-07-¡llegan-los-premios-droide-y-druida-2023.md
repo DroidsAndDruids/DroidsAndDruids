@@ -29,9 +29,7 @@ El premio del público. ¡Votais vosotros!
 
 Categorías: Relato, Poesía, Novelette, Novela
 
-### VOTA TUS FAVORITOS
-
-**🏅 PRIMERA RONDA 🏅- HASTA EL 15 ENERO (incluido)**
+### **🏅**VOTA TUS FAVORITOS**🏅- HASTA EL 19 ENERO (incluido)**
 
 **[Enlace de voto](https://forms.gle/7S9D6AoSvqagieri9)**
 
@@ -39,11 +37,7 @@ Copia y pega de la lista de candidatas más abajo tus 3 obras favoritas. Las tre
 
 Los votos recibidos como primer favorito sumarán tres puntos, los votos en segundo puesto dos y los de tercero un punto. Finalmente, la obra con más puntos acumulados será la ganadora.
 
-**🏆 RONDA FINAL (Excepto poesía) 🏆**
 
-Se abrirá cuando acabe la primera ronda
-
-En esta ronda se selecciona la obra ganadora entre las finalistas.
 
 ## Obras candidatas para los Premios 2023 [🤖](https://emojipedia.org/robot/)🧙‍♀️​
 
