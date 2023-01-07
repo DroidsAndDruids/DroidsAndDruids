@@ -33,7 +33,7 @@ Categorías: Relato, Poesía, Novelette, Novela
 
 **[Enlace de voto](https://forms.gle/7S9D6AoSvqagieri9)**
 
-Copia y pega de la lista de candidatas más abajo tus 3 obras favoritas. Las tres más votadas serán las 3 finalistas. 
+Copia y pega de la lista de candidatas más abajo tus 3 obras favoritas. 
 
 Los votos recibidos como primer favorito sumarán tres puntos, los votos en segundo puesto dos y los de tercero un punto. Finalmente, la obra con más puntos acumulados será la ganadora.
 
