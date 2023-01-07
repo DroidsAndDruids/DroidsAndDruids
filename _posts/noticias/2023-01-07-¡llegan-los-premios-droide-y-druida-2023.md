@@ -15,7 +15,7 @@ Este año, se mantienen las categorías relato y poesía de obras de la revista 
 * Este año procederemos con **solo una ronda**. La obra más votada será la ganadora.
 * La *Gala* de entrega de premios será **presencial** dentro del marco del Festival Terramur. 
 * **Añadimos las *categorías novelette y novela*** *que serán categorías con un procedimiento especial*\* que incluirá una \*lista de libros favoritos Droids & Druids*. Más info en FAQs.
-* Tendremos un **miembro de honor invitado en el jurado** para ayudarnos a valorar las categorías externas a la revista. *Este año, la invitada es Carla Plumed,* que se une para esta ocasión al resto del jurado de la revista: Inés Galiano, Mariado Martínez, Elena Torró, Amanda Iniesta, Genís Robles, Toni Abellan, Vanessa Cornago y Silvia Rodríguez
+* Tendremos un **miembro de honor invitado en el jurado** para ayudarnos a valorar las categorías externas a la revista. *Este año, la invitada es Carla Plumed,* que se une para esta ocasión al resto del jurado de la revista: Inés Galiano, Mariado Martínez, Elena Torró, Amanda Iniesta, Genís Robles, Toni Abellan, Vanessa Cornago, Silvia Rodríguez y Aitor Araez
 
 #### Premio Droide [🤖](https://emojipedia.org/robot/)
 
