@@ -73,11 +73,12 @@ img.dd-logo {
   margin: 2em 1em;
   grid-gap: 1rem;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
   grid-template-areas:
-    "a1 a4"
-    "a2 a4"
-    "a3 a4";
+    "a1 a5"
+    "a2 a5"
+    "a3 a5"
+    "a4 a5";
   z-index: 1;
 }
 
@@ -247,6 +248,11 @@ img.dd-logo {
   margin: 0 0 .5em 0;
 }
 
+.dd-main--box.dd-terramur h2 {
+  font-size: 2em;
+  font-weight: 800;
+}
+
 @media only screen 
 and (min-width : 320px) 
 and (max-width : 1220px) {
@@ -273,6 +279,7 @@ and (max-width : 1220px) {
     grid-template-columns: 1fr;
     grid-template-rows: 4fr;
     grid-template-areas:
+        "a5"
         "a1"
         "a2"
         "a3"

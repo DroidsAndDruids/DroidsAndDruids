@@ -9,9 +9,10 @@ category: noticias
 ---
 ¡Ya llega la primera edición del Terramur! El festival de ciencia ficción, fantasía y terror que organizamos en la ciudad de Murcia. 
 
-![](/public/images/tiny.png)
-
 ¿Quieres saber todo lo que estamos preparando?Aquí tienes más info [👇](https://emojipedia.org/backhand-index-pointing-down/)
+
+
+![Cartel del Festival Terramur. Ilustración de la Catedral de Murcia en un escenario apocalípico rodeada de meteoritos y naves espaciales, siendo atacada por unas hadas rebeldes](/public/images/tiny.png)
 
 ### SEDES
 
