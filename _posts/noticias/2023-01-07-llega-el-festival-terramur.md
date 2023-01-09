@@ -37,7 +37,7 @@ DOMINGO: 11am-14pm: Mañaneo de podcasts en directo
 ### PROGRAMA DE CHARLAS
 
 **\
-*Próximamente*** tendrás el programa completo de charlas del salón de actos
+*Próximamente*** tendrás el programa completo de charlas del salón de actos 
 
 ### SALA DE TALLERES
 
