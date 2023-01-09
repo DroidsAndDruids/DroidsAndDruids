@@ -11,7 +11,6 @@ category: noticias
 
 ¿Quieres saber todo lo que estamos preparando?Aquí tienes más info [👇](https://emojipedia.org/backhand-index-pointing-down/)
 
-
 ![Cartel del Festival Terramur. Ilustración de la Catedral de Murcia en un escenario apocalípico rodeada de meteoritos y naves espaciales, siendo atacada por unas hadas rebeldes](/public/images/tiny.png)
 
 ### SEDES
@@ -20,9 +19,9 @@ category: noticias
 
 Pabellón 5. Antiguo Cuartel de Artillería, C. Madre Elisea Oliver Molina, s/n, 30002 Murcia
 
-VIERNES 17pm-21pm - Charlas, talleres y feria editorial
+VIERNES 17pm-21:30pm - Charlas, talleres y feria editorial
 
-SÁBADO 10am-21pm - Charlas, talleres y feria editorial
+SÁBADO 10am-22:00pm - Charlas, talleres y feria editorial
 
 <http://www.centroparraga.es/>
 
@@ -33,7 +32,7 @@ C. Fuensanta, 5, 30001 Murcia
 
 SÁBADO 23pm -Fiesta de disfraces y  
 
-DOMINGO: 11am-14pm: Mañaneo de podcasts 
+DOMINGO: 11am-14pm: Mañaneo de podcasts en directo
 
 ### PROGRAMA DE CHARLAS
 
