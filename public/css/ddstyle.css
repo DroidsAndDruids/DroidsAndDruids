@@ -444,7 +444,7 @@ and (min-width : 680px) {
   }
 
   .dd-page p img {
-    width: 100%;
+    width: 20rem;
   }
 }
 

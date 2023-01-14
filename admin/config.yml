@@ -106,15 +106,15 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Programa"
-        name: "programa-terramur-2023"
-        file: "programa-terramur-2023.md"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
       - label: "Nosotres"
         name: "nosotres"
         file: "sobre-nosotres/equipo.md"
         fields:
           - {label: Title, name: title, widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Programa"
+        name: "programa-terramur-2023"
+        file: "programa-terramur-2023.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}

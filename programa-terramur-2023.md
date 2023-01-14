@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Programa TERRAMUR
+title: TERRAMUR
 title_page: programa-terramur
-header: false
+header: true
 categories: personal
-order: 5
+order: 6
 ---
 
 {% tabs log %}
@@ -352,3 +352,5 @@ order: 5
 {% endtab %}
 
 {% endtabs %}
+
+[Más información del evento](/noticias/2023/01/07/llega-el-festival-terramur.html)

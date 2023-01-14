@@ -7,37 +7,43 @@ description: Llega la primera edición del Festival Terramur, el festival de
   Druids
 category: noticias
 ---
+
 ¡Ya llega la primera edición del Terramur! El festival de ciencia ficción, fantasía y terror que organizamos en la ciudad de Murcia. 
 
-¿Quieres saber todo lo que estamos preparando?Aquí tienes más info [👇](https://emojipedia.org/backhand-index-pointing-down/)
+¿Quieres saber todo lo que estamos preparando?Aquí tienes más info 👇
 
 ![Cartel del Festival Terramur. Ilustración de la Catedral de Murcia en un escenario apocalípico rodeada de meteoritos y naves espaciales, siendo atacada por unas hadas rebeldes](/public/images/tiny.png)
 
 ### SEDES
 
-**Centro Párraga**
+#### 📍 **Centro Párraga**
 
-Pabellón 5. Antiguo Cuartel de Artillería, C. Madre Elisea Oliver Molina, s/n, 30002 Murcia
+Información:
 
-VIERNES 17pm-21:30pm - Charlas, talleres y feria editorial
+* [Pabellón 5. Antiguo Cuartel de Artillería, C. Madre Elisea Oliver Molina, s/n, 30002 Murcia](https://goo.gl/maps/3MQXetbuVa7noLQR9)
+* [http://www.centroparraga.es](http://www.centroparraga.es)
 
-SÁBADO 10am-22:00pm - Charlas, talleres y feria editorial
+Actividades:
 
-<http://www.centroparraga.es/>
+* **VIERNES 17**: 17pm-21:30pm - Charlas, talleres y feria editorial
+* **SÁBADO 18**: 10am-22:00pm - Charlas, talleres y feria editorial
 
-**\
-Café Ficciones**
+#### 📍 **Café Ficciones**
 
-C. Fuensanta, 5, 30001 Murcia
+Información:
 
-SÁBADO 23pm -Fiesta de disfraces y  
+* [C. Fuensanta, 5, 30001 Murcia](https://goo.gl/maps/AjE6XiHANaZp49uG8)
+* [@cafedeficciones](https://www.instagram.com/cafedeficciones/)
 
-DOMINGO: 11am-14pm: Mañaneo de podcasts en directo
+Actividades:
 
-### PROGRAMA DE CHARLAS
+* **SÁBADO 18** 23pm - Fiesta de disfraces
+* **DOMINGO 19**: 11am-14pm: Mañaneo de podcasts en directo
 
-**\
-*Próximamente*** tendrás el programa completo de charlas del salón de actos 
+
+### PROGRAMA
+
+[Puedes consultar el programa completo aquí](/programa-terramur-2023.html)
 
 ### SALA DE TALLERES
 
