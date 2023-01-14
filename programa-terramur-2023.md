@@ -201,7 +201,7 @@ order: 5
         </tr>
         <tr min-height="50" height="50">
           <td>18:50-19:15</td>
-          <td class="dd-table-talk"><strong>Pausa</strong></td>
+          <td class="dd-table-pause"><strong>Pausa</strong></td>
         </tr>
         <tr min-height="200" height="200">
           <td>19:15-20:05</td>
@@ -217,7 +217,7 @@ order: 5
         </tr>
         <tr min-height="100" height="100">
           <td>21:30-22:15</td>
-          <td class="dd-table-event"><strong>Gala de Premios Droide y Druida</strong></td>
+          <td class="dd-table-event"><strong>🏆 Gala de Premios Droide y Druida 🏆</strong></td>
         </tr>
       </tbody>
     </table>
@@ -265,7 +265,7 @@ order: 5
       <tbody>
         <tr min-height="50" height="50">
           <td>23:30</td>
-          <td class="dd-table-event"><strong>Fiesta de disfraces</strong></td>
+          <td class="dd-table-event"><strong>🥸 Fiesta de disfraces 🎭</strong></td>
         </tr>
       </tbody>
     </table>
