@@ -264,7 +264,14 @@ img.dd-logo {
 
 .dd-table-grid {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-gap: 1rem;
+  grid-template-columns: 50% 50%;
+}
+
+.dd-table-grid-full {
+  display: grid;
+  grid-gap: 0;
+  grid-template-columns: 100%;
 }
 
 .dd-table-grid td {
@@ -307,7 +314,7 @@ and (min-width : 320px)
 and (max-width : 1220px) {
   .dd-table-grid {
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: 100%;
   }
 
   .dd-header h1 {

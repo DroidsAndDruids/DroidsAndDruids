@@ -96,7 +96,7 @@ order: 5
   </div>
 </div>
 
-<div class="dd-table-grid">
+<div class="dd-table-grid dd-table-grid-full">
   <div class="dd-column-grid">
     <table class="dd-table-program">
       <thead>
@@ -268,7 +268,7 @@ order: 5
   </div>
 </div>
 
-<div class="dd-table-grid">
+<div class="dd-table-grid dd-table-grid-full">
   <div class="dd-column-grid">
     <table class="dd-table-program">
       <thead>
@@ -291,7 +291,7 @@ order: 5
 
 📍 Café Ficciones
 
-<div class="dd-table-grid">
+<div class="dd-table-grid dd-table-grid-full">
   <div class="dd-column-grid">
     <table class="dd-table-program">
       <thead>
@@ -302,7 +302,7 @@ order: 5
       </thead>
       <tbody>
         <tr min-height="50" height="50">
-          <td>23:30</td>
+          <td>23:30-??:??</td>
           <td class="dd-table-event"><strong>🥸 Fiesta de disfraces 🎭</strong></td>
         </tr>
       </tbody>
@@ -318,7 +318,7 @@ order: 5
 
 ### Mañana
 
-<div class="dd-table-grid">
+<div class="dd-table-grid dd-table-grid-full">
   <div class="dd-column-grid">
     <table class="dd-table-program">
       <thead>
