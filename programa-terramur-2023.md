@@ -96,6 +96,25 @@ order: 5
   </div>
 </div>
 
+<div class="dd-table-grid">
+  <div class="dd-column-grid">
+    <table class="dd-table-program">
+      <thead>
+        <tr min-height="50" height="50">
+          <th></th>
+          <th>Isla de Gont <br> <em>Feria (entresuelo)</em></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr min-height="50" height="50">
+          <td>17:00-21:30</td>
+          <td class="dd-table-extra"><strong>Puestos de venta de libros</strong></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
 {% endtab %}
 
 {% tab log Sábado 18 %}
@@ -217,7 +236,7 @@ order: 5
         </tr>
         <tr min-height="100" height="100">
           <td>21:30-22:15</td>
-          <td class="dd-table-event"><strong>🏆 Gala de Premios Droide y Druida 🏆</strong></td>
+          <td class="dd-table-event"><strong>Gala de Premios Droide y Druida 🏆</strong></td>
         </tr>
       </tbody>
     </table>
@@ -243,6 +262,25 @@ order: 5
         <tr min-height="650" height="650">
           <td>18:30-21:30</td>
           <td class="dd-table-workshop"><strong>Actividad rol en vivo: "Intrigas de Poniente"</strong> <em>Asociación Azarkia</em></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="dd-table-grid">
+  <div class="dd-column-grid">
+    <table class="dd-table-program">
+      <thead>
+        <tr min-height="50" height="50">
+          <th></th>
+          <th>Isla de Gont <br> <em>Feria (entresuelo)</em></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr min-height="50" height="50">
+          <td>10:00-21:00</td>
+          <td class="dd-table-extra"><strong>Puestos de venta de libros</strong></td>
         </tr>
       </tbody>
     </table>

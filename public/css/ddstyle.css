@@ -291,6 +291,12 @@ tbody tr:nth-child(even) td.dd-table-event {
   background-color: #b0fbea;
 }
 
+tbody tr:nth-child(odd) td.dd-table-extra,
+tbody tr:nth-child(even) td.dd-table-extra {
+  background-color: #f9f4ac;
+}
+
+
 tbody tr:nth-child(odd) td.dd-table-pause,
 tbody tr:nth-child(even) td.dd-table-pause {
   background-color: #deddde;
