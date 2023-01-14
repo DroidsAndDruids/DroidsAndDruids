@@ -262,9 +262,48 @@ img.dd-logo {
   width: 100%;
 }
 
+.dd-table-grid {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.dd-table-grid td {
+  vertical-align: baseline;
+}
+
+.dd-table-grid th {
+  vertical-align: baseline;
+  text-align: center;
+}
+
+tbody tr:nth-child(odd) td.dd-table-talk,
+tbody tr:nth-child(even) td.dd-table-talk {
+  background-color: #f2deff;
+}
+
+tbody tr:nth-child(odd) td.dd-table-workshop,
+tbody tr:nth-child(even) td.dd-table-workshop {
+  background-color: #c8fecf;
+}
+
+tbody tr:nth-child(odd) td.dd-table-event,
+tbody tr:nth-child(even) td.dd-table-event {
+  background-color: #b0fbea;
+}
+
+tbody tr:nth-child(odd) td.dd-table-pause,
+tbody tr:nth-child(even) td.dd-table-pause {
+  background-color: #deddde;
+}
+
 @media only screen 
 and (min-width : 320px) 
 and (max-width : 1220px) {
+  .dd-table-grid {
+    display: grid;
+    grid-template-columns: auto;
+  }
+
   .dd-header h1 {
     font-size: 4rem;
     margin: 5rem 0 1rem 0;
@@ -384,7 +423,7 @@ and (min-width : 680px) {
     padding: 0 1em;
     width: 100%;
     margin: 9rem 0;
-    max-width: 70%;
+    max-width: 80%;
   }
 
   .dd-page {
