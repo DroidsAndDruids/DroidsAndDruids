@@ -160,7 +160,7 @@ img.dd-logo {
   padding-bottom: 1em;
   text-align: center;
   font-size: 56px;
-  margin: .5em 0 1em 0;
+  margin: 0;
   font-weight: 600;
   transform: skew(-5deg) rotate(5deg);
   grid-area: text;
@@ -203,6 +203,7 @@ img.dd-logo {
   line-height: 1.5;
   padding: 1em 0;
   width: 50vw;
+  color: white;
 }
 
 .dd-footer {
@@ -250,7 +251,7 @@ img.dd-logo {
 
 .dd-terramur {
   text-align: center;
-  background: #f5cc9033;
+  background: #eec9946b;
 }
 
 .dd-main--box.dd-terramur h2 {
@@ -422,7 +423,7 @@ and (min-width : 680px) {
   .dd-container-page {
     padding: 0 1em;
     width: 100%;
-    margin: 9rem 0;
+    margin: 6rem 0;
     max-width: 80%;
   }
 

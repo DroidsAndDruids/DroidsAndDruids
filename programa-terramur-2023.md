@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Programa Terramur
+title: Programa TERRAMUR
 title_page: programa-terramur
 header: false
 categories: personal
 order: 5
 ---
-
 
 {% tabs log %}
 
@@ -297,7 +296,7 @@ order: 5
         </tr>
         <tr min-height="100" height="100">
           <td>11:30-12:30</td>
-          <td class="dd-table-talk"><strong>Podcast en directo: Ficciópatas</strong> <em>Chrish Nash, Victor Morata y Eric Fluna</em></td>
+          <td class="dd-table-talk"><strong>Podcast en directo: Ficciópatas</strong> <em>Chris Nash, Victor Morata y Eric Fluna</em></td>
         </tr>
         <tr min-height="100" height="100">
           <td>12:30-13:00</td>
