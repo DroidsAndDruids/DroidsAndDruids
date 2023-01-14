@@ -64,7 +64,7 @@ order: 6
       <thead>
         <tr min-height="100" height="100">
           <th></th>
-          <th>Isla de Roke <br> <em>Sala de Talleres, primera planta</em></th>
+          <th>Isla de Roke <br> <em>Sala de Talleres, primera planta</em> <br> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIpXXZy6WzBaSGCqo-qf_XqZSAiIOJIvcQQbtZIaqZG4jnMw/viewform" target="_blank">Apúntate a los talleres</a></th>
         </tr>
       </thead>
       <tbody>
@@ -165,7 +165,7 @@ order: 6
       <thead>
         <tr min-height="100" height="100">
           <th></th>
-          <th>Isla de Roke <br> <em>Sala de Talleres, primera planta</em></th>
+          <th>Isla de Roke <br> <em>Sala de Talleres, primera planta</em> <br> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIpXXZy6WzBaSGCqo-qf_XqZSAiIOJIvcQQbtZIaqZG4jnMw/viewform" target="_blank">Apúntate a los talleres</a></th>
         </tr>
       </thead>
       <tbody>
@@ -236,7 +236,9 @@ order: 6
         </tr>
         <tr min-height="100" height="100">
           <td>21:30-22:15</td>
-          <td class="dd-table-event"><strong>Gala de Premios Droide y Druida 🏆</strong></td>
+          <td class="dd-table-event"><strong>Gala de Premios Droide y Druida 🏆</strong>
+          <br> <a href="/noticias/2023/01/05/llegan-los-premios-droide-y-druida-2023.html" target="_blank">¡Participa!</a>
+          </td>
         </tr>
       </tbody>
     </table>
@@ -247,7 +249,7 @@ order: 6
       <thead>
         <tr min-height="100" height="100">
           <th></th>
-          <th>Isla de Roke <br> <em>Sala de Talleres, primera planta</em></th>
+          <th>Isla de Roke <br> <em>Sala de Talleres, primera planta</em> <br> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIpXXZy6WzBaSGCqo-qf_XqZSAiIOJIvcQQbtZIaqZG4jnMw/viewform" target="_blank">Apúntate a los talleres</a></th>
         </tr>
       </thead>
       <tbody>

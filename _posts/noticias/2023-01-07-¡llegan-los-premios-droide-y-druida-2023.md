@@ -123,7 +123,7 @@ Trofeo, libros, y reconocimiento :) 
 
 ##### **¿Cómo participo?**
 
-**\*Si eres autore:\*** Si has publicado el año anterior en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
+**Si eres autore:** Si has publicado el año anterior en la revista, no tienes que hacer nada más, estarás en la lista de candidatos, y pueden nominarte. Comparte la web de los premios para que te voten y recuérdaselo a tus lectores :) 
 
 **Si eres lectore:** ¡Vota! Apoya tus obras favoritas y recomiéndalas :)
 
