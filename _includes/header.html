@@ -13,6 +13,9 @@
 {% assign pages_list = site.pages | sort: 'order' | where: "title_page", "beca-ursula" %}
 {% assign becapage = pages_list.first %}
 
+{% assign programas = site.pages | sort: 'order' | where: "title_page", "programa-terramur-2023" %}
+{% assign programa = programas.first %}
+
 <div class="dd-header">
   <h1 class="dd-title">DROIDS AND DRUIDS</h1>
   <p class="dd-subtitle">donde la fantasía y la ciencia ficción se encuentran</p>
@@ -82,7 +85,17 @@
 
     <p>Del 17 al 19 de Febrero de 2023</p>
 
-    <p>Centro Párraga (Murcia)</p>
+    <p>
+      <a href="{{ programa.url }}">
+        Programa
+      </a>
+    </p>
+
+    <p>
+      <a href="{% post_url noticias/2023-01-07-llega-el-festival-terramur %}">
+        Más información
+      </a>
+    </p>
 
     <a href="{% post_url noticias/2023-01-07-llega-el-festival-terramur %}">
       <img src="{{ site.baseurl }}public/images/tiny.png" alt="Cartel Festival Terramur" />
