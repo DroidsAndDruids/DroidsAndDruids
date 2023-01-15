@@ -268,6 +268,10 @@ img.dd-logo {
   grid-template-columns: 50% 50%;
 }
 
+.dd-table-program {
+  table-layout: fixed;
+}
+
 .dd-table-grid-full {
   display: grid;
   grid-gap: 0;
