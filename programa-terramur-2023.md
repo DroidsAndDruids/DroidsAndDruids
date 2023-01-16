@@ -228,7 +228,7 @@ order: 6
         </tr>
         <tr height="200">
           <td>20:15 - 21:05</td>
-          <td class="dd-table-talk"><strong>Literatura de terror</strong> <em>Marina Tena, Celia Añó, Verónica Cervilla, Yolanda Camacho, JM Sala. Modera: Chris Nash</em></td>
+          <td class="dd-table-talk"><strong>Literatura de terror</strong> <em>Marina Tena, Celia Añó, Verónica Cervilla, Yolanda Camacho, JM Sala. Modera: Chris T. Nash</em></td>
         </tr>
         <tr height="50">
           <td>21:05 - 21:30</td>
@@ -342,7 +342,7 @@ order: 6
         </tr>
         <tr height="100">
           <td>11:30 - 12:30</td>
-          <td class="dd-table-talk"><strong>Podcast en directo: Ficciópatas</strong> <em>Chris Nash, Victor Morata y Eric Fluna</em></td>
+          <td class="dd-table-talk"><strong>Podcast en directo: Ficciópatas</strong> <em>Chris T. Nash, Victor Morata y Eric Luna</em></td>
         </tr>
         <tr height="100">
           <td>12:30 - 13:00</td>
