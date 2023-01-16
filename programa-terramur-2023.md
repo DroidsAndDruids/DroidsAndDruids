@@ -265,7 +265,7 @@ order: 6
         </tr>
         <tr height="650">
           <td>18:30 - 21:30</td>
-          <td class="dd-table-workshop"><strong>Actividad rol en vivo: "Intrigas de Poniente"</strong> <em>Asociación Azarkia</em></td>
+          <td class="dd-table-workshop"><strong>Actividad rol en vivo: "Intrigas de Poniente" - Pases de una hora</strong> <em>Asociación Azarkia</em></td> 
         </tr>
       </tbody>
     </table>
