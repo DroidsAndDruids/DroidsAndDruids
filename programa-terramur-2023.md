@@ -6,7 +6,6 @@ header: true
 categories: personal
 order: 6
 ---
-
 {% tabs log %}
 
 {% tab log Viernes 17 %}
@@ -72,15 +71,15 @@ order: 6
           <td>17:00 - 17:15</td>
         </tr>
         <tr height="150">
-          <td>17:20 - 18:05</td>
+          <td>17:10 - 18:00</td>
           <td class="dd-table-workshop"><strong>Taller: Introducción al diseño de juegos de mesa</strong> <em>Jorge Barroso</em></td>
         </tr>
         <tr height="90">
-          <td>18:15 - 18:30</td>
+          <td>18:05 - 18:25</td>
           <td>Presentación Editorial</td>
         </tr>
         <tr height="90">
-          <td>18:30 - 18:45</td>
+          <td>18:30 - 18:50</td>
           <td>Presentación Editorial</td>
         </tr>
         <tr height="50">
@@ -254,7 +253,7 @@ order: 6
       </thead>
       <tbody>
         <tr height="220">
-          <td>17:20 - 18:05</td>
+          <td>17:00 - 17:50</td>
           <td class="dd-table-workshop"><strong>Taller: Escribir fantasía, ciencia ficción y terror</strong> <em>Javier Miró</em></td>
         </tr>
         <tr height="50">
