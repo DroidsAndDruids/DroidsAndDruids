@@ -185,7 +185,7 @@ order: 6
           <td>13:00 - 13:50</td>
           <td class="dd-table-workshop"><strong>Taller "Relátomos": escribir relatos cortos desde cero</strong> <em>Celia Corral Vázquez</em></td>
         </tr>
-<tr height="100">
+<tr height="100"> 
           <td>13:55 - 14:15</td>
           <td>Presentación Editorial</td>
         </tr>
