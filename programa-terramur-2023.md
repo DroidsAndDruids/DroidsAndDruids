@@ -253,7 +253,7 @@ order: 6
       </thead>
       <tbody>
         <tr height="220">
-          <td>17:20 - 18:05</td>
+          <td>17:00 - 17:50</td>
           <td class="dd-table-workshop"><strong>Taller: Escribir fantasía, ciencia ficción y terror</strong> <em>Javier Miró</em></td>
         </tr>
         <tr height="50">
