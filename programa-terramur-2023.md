@@ -220,7 +220,7 @@ order: 6
         </tr>
         <tr height="200">
           <td>19:15 - 20:05</td>
-          <td class="dd-table-talk"><strong>Ciencia ficción feminista e inclusiva</strong> <em>Fani Álvarez, Irene Robles, Rubén Bellés. Modera: Talita Isla</em></td>
+          <td class="dd-table-talk"><strong>Ciencia ficción feminista e inclusiva</strong> <em>Fani Álvarez, Irene Robles, Isa J. González, Rubén Bellés. Modera: Talita Isla</em></td>
         </tr>
         <tr height="200">
           <td>20:15 - 21:05</td>
