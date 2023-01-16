@@ -249,6 +249,12 @@ order: 6
         </tr>
       </thead>
       <tbody>
+
+<tr height="50">
+          <td>16:30 - 16:50</td>
+          <td>Presentación Editorial</td>
+
+</tr>
         <tr height="220">
           <td>17:00 - 17:50</td>
           <td class="dd-table-workshop"><strong>Taller: Escribir fantasía, ciencia ficción y terror</strong> <em>Javier Miró</em></td>
