@@ -81,10 +81,7 @@ order: 6
         <tr height="90">
           <td>18:30 - 18:50</td>
           <td>Presentación Editorial</td>
-        </tr>
-        <tr height="50">
-          <td>18:45 - 19:00</td>
-          <td class="dd-table-pause"><strong>Pausa</strong></td>
+   
         </tr>
         <tr height="610">
           <td>19:00 - 21:30</td>
