@@ -30,7 +30,7 @@ order: 6
         </tr>
         <tr height="100">
           <td>17:20 - 17:50</td>
-          <td class="dd-table-talk"><strong>Charla homenaje a Úrsula K Le Guin</strong> <em>Eleazar Herrera y Ander Mombiela</em></td>
+          <td class="dd-table-talk"><strong>Charla homenaje a Úrsula K Le Guin</strong> <em>Eleazar Herrera y Ander Mombiela </em></td>
         </tr>
         <tr height="230">
           <td>18:00 - 18:45</td>
