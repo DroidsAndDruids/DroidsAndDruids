@@ -265,7 +265,7 @@ order: 6
         </tr>
         <tr height="50">
           <td>18:00 - 18:20</td>
-          <td>Presentación Editorial</td>
+          <td>Presentación Editorial Obscura "Verano del 99" de Yolanda Camacho</td>
         </tr>
         <tr height="650">
           <td>18:30 - 21:30</td>
