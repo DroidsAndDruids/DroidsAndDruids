@@ -171,7 +171,7 @@ order: 6
         </tr>
         <tr height="100">
           <td>11:00 - 11:20</td>
-          <td>Presentación Editorial</td>
+          <td>Presentación LES Editorial con Bárbara Guirao, Fani Álvarez y Elena Garvi</td>
         </tr>
         <tr height="220">
           <td>11:30 - 12:20</td>
