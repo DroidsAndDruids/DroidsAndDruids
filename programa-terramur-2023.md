@@ -76,7 +76,7 @@ order: 6
         </tr>
         <tr height="90">
           <td>18:05 - 18:25</td>
-          <td>Presentación Editorial</td>
+          <td>Presentación Editorial La Magnífica</td>
         </tr>
         <tr height="90">
           <td>18:30 - 18:50</td>
@@ -171,7 +171,7 @@ order: 6
         </tr>
         <tr height="100">
           <td>11:00 - 11:20</td>
-          <td>Presentación Editorial</td>
+          <td>Presentación LES Editorial con Bárbara Guirao, Fani Álvarez y Elena Garvi</td>
         </tr>
         <tr height="220">
           <td>11:30 - 12:20</td>
@@ -179,7 +179,7 @@ order: 6
         </tr>
         <tr height="100">
           <td>12:30 - 12:50</td>
-          <td>Presentación Editorial</td>
+          <td>Presentación Editorial  Crononauta: "Regreso a Gaozu" de Isa J González" </td>
         </tr>
         <tr height="210">
           <td>13:00 - 13:50</td>
@@ -256,7 +256,7 @@ order: 6
 
 <tr height="50">
           <td>16:30 - 16:50</td>
-          <td>Presentación Editorial</td>
+          <td>Presentación Editorial con Literup </td>
 
 </tr>
         <tr height="220">
@@ -265,7 +265,7 @@ order: 6
         </tr>
         <tr height="50">
           <td>18:00 - 18:20</td>
-          <td>Presentación Editorial</td>
+          <td>Presentación Editorial Obscura "Verano del 99" de Yolanda Camacho</td>
         </tr>
         <tr height="650">
           <td>18:30 - 21:30</td>
