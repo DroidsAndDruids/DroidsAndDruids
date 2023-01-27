@@ -179,7 +179,7 @@ order: 6
         </tr>
         <tr height="100">
           <td>12:30 - 12:50</td>
-          <td>Presentación Editorial  Crononauta: "Regreso a Gaozu" de Isa J González" </td>
+          <td>Presentación Editorial  Crononauta: "Regreso a Gaozu" de Isa J González </td>
         </tr>
         <tr height="210">
           <td>13:00 - 13:50</td>
