@@ -76,7 +76,7 @@ order: 6
         </tr>
         <tr height="90">
           <td>18:05 - 18:25</td>
-          <td>Presentación Editorial</td>
+          <td>Presentación Editorial La Magnífica</td>
         </tr>
         <tr height="90">
           <td>18:30 - 18:50</td>
