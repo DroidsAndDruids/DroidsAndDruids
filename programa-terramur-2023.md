@@ -256,7 +256,7 @@ order: 6
 
 <tr height="50">
           <td>16:30 - 16:50</td>
-          <td>Presentación Editorial con Literup </td>
+          <td>Turramur: cómo no comprar los libros de Literup </td>
 
 </tr>
         <tr height="220">
