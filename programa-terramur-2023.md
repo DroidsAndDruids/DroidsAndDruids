@@ -256,7 +256,7 @@ order: 6
 
 <tr height="50">
           <td>16:30 - 16:50</td>
-          <td>Presentación Editorial con Literup </td>
+          <td>Turramur: cómo no comprar los libros de Literup </td>
 
 </tr>
         <tr height="220">
@@ -269,7 +269,9 @@ order: 6
         </tr>
         <tr height="650">
           <td>18:30 - 21:30</td>
-          <td class="dd-table-workshop"><strong>Actividad rol en vivo: "Intrigas de Poniente" - Pases de una hora</strong> <em>Asociación Azarkia</em></td> 
+          <td class="dd-table-workshop"><strong>Actividad rol en vivo: "Intrigas de Poniente" - Pases de una hora (1er pase: 18:30,
+2o pase: 19:30, 3er pase: 20:30)
+</strong> <em>Asociación Azarkia</em></td> 
         </tr>
       </tbody>
     </table>
