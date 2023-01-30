@@ -12,7 +12,7 @@ order: 6
 
 📍 Centro Párraga
 
-### Tarde
+### Tarde 
 
 <div class="dd-table-grid">
   <div class="dd-column-grid">
