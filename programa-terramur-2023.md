@@ -53,7 +53,7 @@ order: 6
         <tr height="170">
           <td>20:30 - 21:30</td>
           <td class="dd-table-talk"><strong>Lectura dramatizada de teatro con coloquio</strong> <em>Bruno Puelles y Alba Quintas. Modera:
-              Inés Galiano</em></td>
+              Inés Galiano </em></td>
         </tr>
       </tbody>
     </table>
