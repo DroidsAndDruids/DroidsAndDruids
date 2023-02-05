@@ -184,7 +184,7 @@ order: 6
           <td>13:00 - 13:50</td>
           <td class="dd-table-workshop"><strong>Taller "Relátomos": escribir relatos cortos desde cero</strong> <em>Celia Corral Vázquez</em></td>
         </tr>
-<tr height="90"> 
+<tr height="100"> 
           <td>13:55 - 14:15</td>
           <td>Pausa</td>
         </tr>
@@ -266,7 +266,7 @@ order: 6
           <td>18:00 - 18:20</td>
           <td>Presentación Editorial Obscura "Verano del 99" de Yolanda Camacho</td>
         </tr>
-        <tr height="420">
+        <tr height="470">
           <td>18:30 - 21:30</td>
           <td class="dd-table-workshop"><strong>Actividad rol en vivo: "Intrigas de Poniente" - 2 Pases de una hora (1er pase: 19:00, 
 2o pase: 20:30)
