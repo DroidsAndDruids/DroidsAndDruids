@@ -124,7 +124,7 @@ order: 6
       <thead>
         <tr height="100">
           <th></th>
-          <th>Isla de Havnor <br> <em>Auditorio, planta baja</em></th>
+          <th>Isla de Havnor <br> <em>Auditorio, planta baja</em> <br> <em>Acceso libre</em></th>
         </tr>
       </thead>
       <tbody>
@@ -205,7 +205,7 @@ order: 6
       <thead>
         <tr height="100">
           <th></th>
-          <th>Isla de Havnor <br> <em>Auditorio, planta baja</em></th>
+          <th>Isla de Havnor <br> <em>Auditorio, planta baja</em> <br> <em>Acceso libre</em></th>
         </tr>
       </thead>
       <tbody>
