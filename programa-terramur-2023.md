@@ -164,7 +164,7 @@ order: 6
         </tr>
       </thead>
       <tbody>
-        <tr height="200">
+        <tr height="150">
           <td>10:00 - 10:50</td>
           <td class="dd-table-workshop"><strong>Taller de corrección: Cómo mejorar tus manuscritos</strong> <em>Aitor Aráez</em></td>
         </tr>
@@ -172,7 +172,7 @@ order: 6
           <td>11:00 - 11:20</td>
           <td>Presentación LES Editorial con Bárbara Guirao, Fani Álvarez y Elena Garvi</td>
         </tr>
-        <tr height="220">
+        <tr height="180">
           <td>11:30 - 12:20</td>
           <td class="dd-table-workshop"><strong>Taller "Guardar el infinito en un verso": taller de poesía de ciencia ficción y fantasía</strong> <em>Ana Tapia</em></td>
         </tr>
@@ -180,13 +180,13 @@ order: 6
           <td>12:30 - 12:50</td>
           <td>Presentación Editorial  Crononauta: "Regreso a Gaozu" de Isa J González </td>
         </tr>
-        <tr height="210">
+        <tr height="150">
           <td>13:00 - 13:50</td>
           <td class="dd-table-workshop"><strong>Taller "Relátomos": escribir relatos cortos desde cero</strong> <em>Celia Corral Vázquez</em></td>
         </tr>
 <tr height="50"> 
           <td>13:55 - 14:15</td>
-          <td>Presentación Editorial</td>
+          <td>Pausa</td>
         </tr>
         <tr height="100">
           <td>14:30 - 16:30</td>
