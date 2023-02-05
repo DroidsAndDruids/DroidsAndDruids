@@ -211,7 +211,7 @@ order: 6
       <tbody>
         <tr height="170">
           <td>17:00 - 17:50</td>
-          <td class="dd-table-talk"><strong>Humor en fantasía</strong> <em>Rosa Gil, Celia Corral, Ander Mombiela, Inés Galiano. Modera: Carla Plumed</em></td>
+          <td class="dd-table-talk"><strong>Humor y fantasía</strong> <em>Rosa Gil, Celia Corral, Ander Mombiela, Inés Galiano. Modera: Carla Plumed</em></td>
         </tr>
         <tr height="170">
           <td>18:00 - 18:50</td>
@@ -253,7 +253,7 @@ order: 6
       </thead>
       <tbody>
 
-<tr height="70">
+<tr height="100">
           <td>16:30 - 16:50</td>
           <td>Turramur: cómo no comprar los libros de Literup </td>
 
@@ -262,11 +262,11 @@ order: 6
           <td>17:00 - 17:50</td>
           <td class="dd-table-workshop"><strong>Taller: Escribir fantasía, ciencia ficción y terror</strong> <em>Javier Miró</em></td>
         </tr>
-        <tr height="70">
+        <tr height="100">
           <td>18:00 - 18:20</td>
           <td>Presentación Editorial Obscura "Verano del 99" de Yolanda Camacho</td>
         </tr>
-        <tr height="450">
+        <tr height="520">
           <td>18:30 - 21:30</td>
           <td class="dd-table-workshop"><strong>Actividad rol en vivo: "Intrigas de Poniente" - 2 Pases de una hora (1er pase: 19:00, 
 2o pase: 20:30)
