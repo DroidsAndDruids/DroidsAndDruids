@@ -288,7 +288,7 @@ order: 6
       </thead>
       <tbody>
         <tr height="50">
-          <td>10:00 - 21:00</td>
+          <td>10:00 - 21:30</td>
           <td class="dd-table-extra"><strong>Puestos de venta de libros</strong></td>
         </tr>
       </tbody>
