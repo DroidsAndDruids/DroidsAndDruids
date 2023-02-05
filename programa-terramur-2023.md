@@ -128,7 +128,7 @@ order: 6
         </tr>
       </thead>
       <tbody>
-        <tr height="170"
+        <tr height="170">
           <td>10:00 - 10:50</td>
           <td class="dd-table-talk"><strong>Mesa redonda de relato breve</strong> <em>Ana Saiz, Talita Isla, Javier Miró, Inés Alcolea, Rafa Díaz. Modera: Carla Plumed</em></td>
         </tr>
