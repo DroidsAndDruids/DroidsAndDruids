@@ -41,7 +41,7 @@ order: 6
           <td>18:45 - 19:00</td>
           <td class="dd-table-pause"><strong>Pausa</strong></td>
         </tr>
-        <tr height="180">
+        <tr height="170">
           <td>19:00 - 19:45</td>
           <td class="dd-table-talk"><strong>Géneros híbridos en literatura fantástica</strong> <em>Alejandro Rodríguez, Laura Morán, Laura
               Maquilón, Rocío Brea. Modera: Aitor Aráez</em></td>
@@ -50,7 +50,7 @@ order: 6
           <td>19:55 - 20:20</td>
           <td class="dd-table-talk"><strong>Traducción de neologismos fantásticos</strong> <em>Ana María Navarro</em></td>
         </tr>
-        <tr height="180">
+        <tr height="170">
           <td>20:30 - 21:30</td>
           <td class="dd-table-talk"><strong>Lectura dramatizada de teatro con coloquio</strong> <em>Bruno Puelles y Alba Quintas. Modera:
               Inés Galiano</em></td>
