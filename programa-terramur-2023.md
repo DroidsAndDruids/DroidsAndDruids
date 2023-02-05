@@ -82,7 +82,7 @@ order: 6
           <td>18:45 - 19:00</td>
           <td class="dd-table-pause"><strong>Pausa</strong></td>
         </tr>
-        <tr height="610">
+        <tr height="410">
           <td>19:00 - 21:30</td>
           <td class="dd-table-workshop"><strong>Actividad: Partida de rol de mesa "Los enigmas de Roke"</strong> <em>Jennifer Fuentes</em></td>
         </tr>
