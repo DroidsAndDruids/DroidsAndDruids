@@ -128,11 +128,11 @@ order: 6
         </tr>
       </thead>
       <tbody>
-        <tr height="200">
+        <tr height="180">
           <td>10:00 - 10:50</td>
           <td class="dd-table-talk"><strong>Mesa redonda de relato breve</strong> <em>Ana Saiz, Talita Isla, Javier Miró, Inés Alcolea, Rafa Díaz. Modera: Carla Plumed</em></td>
         </tr>
-        <tr height="210">
+        <tr height="180">
           <td>11:00 - 11:50</td>
           <td class="dd-table-talk"><strong>Fantasía en la ciudad</strong> <em>Bruno Puelles, Víctor Sellés, Myriam Lejardi, Maeva Nieto. Modera: Celia Corral</em></td>
         </tr>
@@ -140,11 +140,11 @@ order: 6
           <td>11:50 - 12:15</td>
           <td class="dd-table-pause"><strong>Pausa</strong></td>
         </tr>
-        <tr height="200">
+        <tr height="180">
           <td>12:15 - 13:05</td>
           <td class="dd-table-talk"><strong>Mesa redonda cómic y novela gráfica</strong> <em>Ana Galvañ, Ángel Abellán. Modera: Alejandro Rodríguez</em></td>
         </tr>
-        <tr height="200">
+        <tr height="180">
           <td>13:15 - 14:10</td>
           <td class="dd-table-talk"><strong>Literatura juvenil</strong> <em>Laura Tárraga, Arantxa Comes, Alba Quintas, Lucía G Sobrado, Nana Literaria. Modera: Eva Amuedo</em></td>
         </tr>
