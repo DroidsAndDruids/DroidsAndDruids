@@ -213,7 +213,7 @@ order: 6
           <td>17:00 - 17:50</td>
           <td class="dd-table-talk"><strong>Humor en fantasía</strong> <em>Rosa Gil, Celia Corral, Ander Mombiela, Inés Galiano. Modera: Carla Plumed</em></td>
         </tr>
-        <tr height="180">
+        <tr height="170">
           <td>18:00 - 18:50</td>
           <td class="dd-table-talk"><strong>Narrativa de videojuegos</strong> <em>Pablo Medina, Eleazar Herrera, Inés Alcolea. Modera: Salva Gómez</em></td>
         </tr>
@@ -221,11 +221,11 @@ order: 6
           <td>18:50 - 19:15</td>
           <td class="dd-table-pause"><strong>Pausa</strong></td>
         </tr>
-        <tr height="180">
+        <tr height="170">
           <td>19:15 - 20:05</td>
           <td class="dd-table-talk"><strong>Ciencia ficción feminista e inclusiva</strong> <em>Fani Álvarez, Irene Robles, Isa J. González.  Modera: Talita Isla</em></td>
         </tr>
-        <tr height="180">
+        <tr height="170">
           <td>20:15 - 21:05</td>
           <td class="dd-table-talk"><strong>Literatura de terror</strong> <em>Marina Tena, Celia Añó, Verónica Cervilla, Yolanda Camacho, JM Sala. Modera: Chris T. Nash</em></td>
         </tr>
