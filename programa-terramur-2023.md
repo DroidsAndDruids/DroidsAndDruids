@@ -71,17 +71,16 @@ order: 6
           <td>17:00 - 17:15</td>
         </tr>
         <tr height="150">
-          <td>17:10 - 18:00</td>
+          <td>17:15 - 18:05</td>
           <td class="dd-table-workshop"><strong>Taller: Introducción al diseño de juegos de mesa</strong> <em>Jorge Barroso</em></td>
         </tr>
         <tr height="90">
-          <td>18:05 - 18:25</td>
+          <td>18:15 - 18:35</td>
           <td>Presentación Editorial La Magnífica</td>
         </tr>
-        <tr height="90">
-          <td>18:30 - 18:50</td>
-          <td>Presentación Editorial</td>
-   
+       <tr height="50">
+          <td>18:45 - 19:00</td>
+          <td class="dd-table-pause"><strong>Pausa</strong></td>
         </tr>
         <tr height="610">
           <td>19:00 - 21:30</td>
