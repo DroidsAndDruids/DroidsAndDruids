@@ -266,7 +266,7 @@ order: 6
           <td>18:00 - 18:20</td>
           <td>Presentación Editorial Obscura "Verano del 99" de Yolanda Camacho</td>
         </tr>
-        <tr height="520">
+        <tr height="420">
           <td>18:30 - 21:30</td>
           <td class="dd-table-workshop"><strong>Actividad rol en vivo: "Intrigas de Poniente" - 2 Pases de una hora (1er pase: 19:00, 
 2o pase: 20:30)
