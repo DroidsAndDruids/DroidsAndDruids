@@ -32,7 +32,7 @@ order: 6
           <td>17:20 - 17:50</td>
           <td class="dd-table-talk"><strong>Charla homenaje a Úrsula K Le Guin</strong> <em>Eleazar Herrera y Ander Mombiela </em></td>
         </tr>
-        <tr height="230">
+        <tr height="180">
           <td>18:00 - 18:45</td>
           <td class="dd-table-talk"><strong>Mapas, mundos y sagas fantásticas</strong> <em>Eva Amuedo, Laura D Lobete y
               Consuelo Riquelme. Modera: Rafa Díaz</em></td>
