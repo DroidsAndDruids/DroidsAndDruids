@@ -216,7 +216,7 @@ order: 6
         </tr>
         <tr height="200">
           <td>18:00 - 18:50</td>
-          <td class="dd-table-talk"><strong>Narrativa de videojuegos</strong> <em>Pablo Medina, Eva Cid, Eleazar Herrera, Inés Alcolea. Modera: Salva Gómez</em></td>
+          <td class="dd-table-talk"><strong>Narrativa de videojuegos</strong> <em>Pablo Medina, Eleazar Herrera, Inés Alcolea. Modera: Salva Gómez</em></td>
         </tr>
         <tr height="50">
           <td>18:50 - 19:15</td>
@@ -269,8 +269,8 @@ order: 6
         </tr>
         <tr height="650">
           <td>18:30 - 21:30</td>
-          <td class="dd-table-workshop"><strong>Actividad rol en vivo: "Intrigas de Poniente" - Pases de una hora (1er pase: 18:30,
-2o pase: 19:30, 3er pase: 20:30)
+          <td class="dd-table-workshop"><strong>Actividad rol en vivo: "Intrigas de Poniente" - 2 Pases de una hora (1er pase: 19:00, 
+2o pase: 20:30)
 </strong> <em>Asociación Azarkia</em></td> 
         </tr>
       </tbody>
