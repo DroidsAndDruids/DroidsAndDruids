@@ -166,7 +166,7 @@ order: 6
       <tbody>
         <tr height="150">
           <td>10:00 - 10:50</td>
-          <td class="dd-table-workshop"><strong>Taller de corrección: Cómo mejorar tus manuscritos</strong> <em>Aitor Aráez</em></td>
+          <td class="dd-table-workshop"><strong>Taller de corrección: "Cómo mejorar tus manuscritos"</strong> <em>Aitor Aráez</em></td>
         </tr>
         <tr height="100">
           <td>11:00 - 11:20</td>
@@ -184,7 +184,7 @@ order: 6
           <td>13:00 - 13:50</td>
           <td class="dd-table-workshop"><strong>Taller "Relátomos": escribir relatos cortos desde cero</strong> <em>Celia Corral Vázquez</em></td>
         </tr>
-<tr height="50"> 
+<tr height="70"> 
           <td>13:55 - 14:15</td>
           <td>Pausa</td>
         </tr>
