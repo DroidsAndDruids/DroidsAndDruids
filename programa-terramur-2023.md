@@ -20,7 +20,7 @@ order: 6
       <thead>
         <tr height="100">
           <th></th>
-          <th>Isla de Havnor <br> <em>Auditorio, planta baja</em></th>
+          <th>Isla de Havnor <br> <em>Auditorio, planta baja</em> <br> <em>Acceso libre</em></th>
         </tr>
       </thead>
       <tbody>
@@ -128,7 +128,7 @@ order: 6
         </tr>
       </thead>
       <tbody>
-        <tr height="180">
+        <tr height="170"
           <td>10:00 - 10:50</td>
           <td class="dd-table-talk"><strong>Mesa redonda de relato breve</strong> <em>Ana Saiz, Talita Isla, Javier Miró, Inés Alcolea, Rafa Díaz. Modera: Carla Plumed</em></td>
         </tr>
@@ -144,7 +144,7 @@ order: 6
           <td>12:15 - 13:05</td>
           <td class="dd-table-talk"><strong>Mesa redonda cómic y novela gráfica</strong> <em>Ana Galvañ, Ángel Abellán. Modera: Alejandro Rodríguez</em></td>
         </tr>
-        <tr height="180">
+        <tr height="170">
           <td>13:15 - 14:10</td>
           <td class="dd-table-talk"><strong>Literatura juvenil</strong> <em>Laura Tárraga, Arantxa Comes, Alba Quintas, Lucía G Sobrado, Nana Literaria. Modera: Eva Amuedo</em></td>
         </tr>
