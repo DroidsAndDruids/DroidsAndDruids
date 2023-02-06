@@ -84,7 +84,7 @@ order: 6
         </tr>
         <tr height="450">
           <td>19:00 - 21:30</td>
-          <td class="dd-table-workshop"><strong>Actividad: Partida de rol de mesa "Los enigmas de Roke"</strong> <em>Jennifer Fuentes</em></td>
+          <td class="dd-table-workshop"><strong>Actividad: Partida de rol de mesa «Los enigmas de Roke»</strong> <em>Jennifer Fuentes</em></td>
         </tr>
       </tbody>
     </table>
