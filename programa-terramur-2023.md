@@ -12,7 +12,7 @@ order: 6
 
 📍 Centro Párraga
 
-### Tarde 
+### Tarde
 
 <div class="dd-table-grid">
   <div class="dd-column-grid">
@@ -268,7 +268,7 @@ order: 6
         </tr>
         <tr height="470">
           <td>18:30 - 21:30</td>
-          <td class="dd-table-workshop"><strong>Actividad rol en vivo: "Intrigas de Poniente" - 2 Pases de una hora (1er pase: 19:00, 
+          <td class="dd-table-workshop"><strong>Actividad rol en vivo: «Intrigas de Poniente» - 2 Pases de una hora (1er pase: 19:00, 
 2o pase: 20:30)
 </strong> <em>Asociación Azarkia</em></td> 
         </tr>
