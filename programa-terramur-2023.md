@@ -166,7 +166,7 @@ order: 6
       <tbody>
         <tr height="150">
           <td>10:00 - 10:50</td>
-          <td class="dd-table-workshop"><strong>Taller de corrección: "Cómo mejorar tus manuscritos"</strong> <em>Aitor Aráez</em></td>
+          <td class="dd-table-workshop"><strong>Taller de corrección: «Cómo mejorar tus manuscritos»</strong> <em>Aitor Aráez</em></td>
         </tr>
         <tr height="100">
           <td>11:00 - 11:20</td>
@@ -174,7 +174,7 @@ order: 6
         </tr>
         <tr height="180">
           <td>11:30 - 12:20</td>
-          <td class="dd-table-workshop"><strong>Taller "Guardar el infinito en un verso": taller de poesía de ciencia ficción y fantasía</strong> <em>Ana Tapia</em></td>
+          <td class="dd-table-workshop"><strong>Taller «Guardar el infinito en un verso»: taller de poesía de ciencia ficción y fantasía</strong> <em>Ana Tapia</em></td>
         </tr>
         <tr height="100">
           <td>12:30 - 12:50</td>
