@@ -182,7 +182,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>13:00 - 13:50</td>
-          <td class="dd-table-workshop"><strong>Taller <em>Relátomos</em>: escribir relatos cortos desde cero</strong> <em>Celia Corral Vázquez</em></td>
+          <td class="dd-table-workshop"><strong>Taller «Relátomos: escribir relatos cortos desde cero»</strong> <em>Celia Corral Vázquez</em></td>
         </tr>
 <tr height="100"> 
           <td>13:55 - 14:15</td>
@@ -264,7 +264,7 @@ order: 6
         </tr>
         <tr height="100">
           <td>18:00 - 18:20</td>
-          <td>Presentación Editorial Obscura "Verano del 99" de Yolanda Camacho</td>
+          <td>Presentación Editorial Obscura <em>Verano del 99</em> de Yolanda Camacho</td>
         </tr>
         <tr height="470">
           <td>18:30 - 21:30</td>
