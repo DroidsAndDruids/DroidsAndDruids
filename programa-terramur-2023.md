@@ -339,15 +339,15 @@ order: 6
       <tbody>
         <tr height="100">
           <td>11:00 - 11:30</td>
-          <td class="dd-table-talk"><strong>Podcast en directo: Furia en la librería</strong> <em>Carla Plumed e Inés Galiano</em></td>
+          <td class="dd-table-talk"><strong><em>Podcast</em> en directo: Furia en la librería</strong> <em>Carla Plumed e Inés Galiano</em></td>
         </tr>
         <tr height="100">
           <td>11:30 - 12:30</td>
-          <td class="dd-table-talk"><strong>Podcast en directo: Ficciópatas</strong> <em>Chris T. Nash, Victor Morata y Eric Luna</em></td>
+          <td class="dd-table-talk"><strong><em>Podcast</em> en directo: Ficciópatas</strong> <em>Chris T. Nash, Victor Morata y Eric Luna</em></td>
         </tr>
         <tr height="100">
           <td>12:30 - 13:00</td>
-          <td class="dd-table-talk"><strong>Presentación "Puedes llamarme Espátula"</strong> <em>Celia Corral y Aitor Aráez</em></td>
+          <td class="dd-table-talk"><strong>Presentación <em>Puedes llamarme Espátula</em></strong> <em>Celia Corral y Aitor Aráez</em></td>
         </tr>
         <tr height="100">
           <td>13:00 - 13:30</td>
