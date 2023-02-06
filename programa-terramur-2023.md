@@ -182,7 +182,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>13:00 - 13:50</td>
-          <td class="dd-table-workshop"><strong>Taller <em>Relátomos</em>: escribir relatos cortos desde cero</strong> <em>Celia Corral Vázquez</em></td>
+          <td class="dd-table-workshop"><strong>Taller <em>«Relátomos</em>: escribir relatos cortos desde cero»</strong> <em>Celia Corral Vázquez</em></td>
         </tr>
 <tr height="100"> 
           <td>13:55 - 14:15</td>
