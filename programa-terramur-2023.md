@@ -10,7 +10,7 @@ order: 6
 
 {% tab log Viernes 17 %}
 
-📍 Centro Párraga
+📍 Centro Párraga 
 
 ### Tarde
 
