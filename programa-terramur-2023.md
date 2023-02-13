@@ -134,7 +134,7 @@ order: 6
         </tr>
         <tr height="180">
           <td>11:00 - 11:50</td>
-          <td class="dd-table-talk"><strong>Fantasía en la ciudad</strong> <em>Bruno Puelles, Víctor Sellés, Myriam Lejardi, Maeva Nieto. Modera: Celia Corral</em></td>
+          <td class="dd-table-talk"><strong>Fantasía en la ciudad</strong> <em>Bruno Puelles, Myriam Lejardi, Maeva Nieto. Modera: Celia Corral</em></td>
         </tr>
         <tr height="50">
           <td>11:50 - 12:15</td>
@@ -223,7 +223,7 @@ order: 6
         </tr>
         <tr height="170">
           <td>19:15 - 20:05</td>
-          <td class="dd-table-talk"><strong>Ciencia ficción feminista e inclusiva</strong> <em>Fani Álvarez, Irene Robles, Isa J. González.  Modera: Talita Isla</em></td>
+          <td class="dd-table-talk"><strong>Ciencia ficción feminista e inclusiva</strong> <em>Fani Álvarez, Irene Robles, Isa J. González, Rubén Bellés.  Modera: Talita Isla</em></td>
         </tr>
         <tr height="170">
           <td>20:15 - 21:05</td>
@@ -241,7 +241,7 @@ order: 6
         </tr>
       </tbody>
     </table>
-  </div>
+  </div> 
 
   <div class="dd-column-grid">
     <table class="dd-table-program">
