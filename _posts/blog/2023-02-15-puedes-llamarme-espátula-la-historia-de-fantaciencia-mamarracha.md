@@ -43,6 +43,6 @@ Incluye un posfacio con dos artículos sobre el género de la Fantaciencia: El i
 
 #### A﻿UTORA
 
-**Celia Corral-Vázquez (Aracena, 1991)** es doctora en Biología celula y escritora de fantasía, terror, ciencia ficción y humor. Ha estudiado en el Ateneu Barcelonés y es ganadora del V Premio Ripley de novela.  Ha publicado «Hacia el resquicio» con editorial Cerbero y diversos relatos en antologías como «Barcelona Steampunk 1880-1910» (Apache Libros) y «Visiones 2020» (Pórtico–AEFCFT). Ha sido guionista de videojuegos y ha colaborado en las revistas «Droids & Druids» y «Tártarus». Su gran anhelo es ser una pirata steampunk, pero aún no ha encontrado el sombrero perfecto. @CeliaCorrV @celiacorralvazquez
+**Celia Corral-Vázquez (Aracena, 1991)** es doctora en Biología celula y escritora de fantasía, terror, ciencia ficción y humor. Ha estudiado en el Ateneu Barcelonés y es ganadora del V Premio Ripley de novela.  Ha publicado «Hacia el resquicio» con editorial Cerbero y diversos relatos en antologías como «Barcelona Steampunk 1880-1910» (Apache Libros) y «Visiones 2020» (Pórtico–AEFCFT). Ha sido guionista de videojuegos y ha colaborado en las revistas «Droids & Druids», «Tártarus» y, recientemente, la revista americana «Clarkesworld». Su gran anhelo es ser una pirata steampunk, pero aún no ha encontrado el sombrero perfecto. @CeliaCorrV @celiacorralvazquez
 
 ![](/public/images/celiatiny.png)
