@@ -2,7 +2,7 @@
 layout: blog
 title: "Puedes llamarme Espátula: la historia de fantaciencia mamarracha "
 date: 2023-02-15T08:24:31.290Z
-description: "\\ DROIDS & DRUIDS PRESENTA : PUEDES LLAMARME ESPÁTULA. L﻿a novela
+description: "DROIDS & DRUIDS PRESENTA : PUEDES LLAMARME ESPÁTULA. L﻿a novela
   ganadora de nuestra convocatoria I Premio Droide, una historia de fantaciencia
   divertida y tierna que estábamos deseando compartir con vosotres 😃"
 category: blog
