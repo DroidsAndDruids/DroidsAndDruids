@@ -12,7 +12,7 @@ DROIDS & DRUIDS PRESENTA 
 
 ### PUEDES LLAMARME ESPÁTULA
 
-L﻿a novela ganadora de nuestra convocatoria I Premio Droide, una historia de fantaciencia divertida y tierna que estábamos deseando compartir con vosotres 😃
+L﻿a novela ganadora de nuestra convocatoria I Premio Droide, una historia de fantaciencia divertida y tierna que estábamos deseando compartir con vosotres 😃 [¡Ya a la venta!](https://droidsanddruids.sumupstore.com/productos)
 
 **¿Qué dicen de ella?**
 
@@ -37,13 +37,9 @@ Eme trabaja en una empresa que lleva a cabo con éxito centenares de teleinterca
 
 Tiene pinta de que va a ser un día muy largo.
 
-
-
 #### POSFACIO
 
 Incluye un posfacio con dos artículos sobre el género de la Fantaciencia: El intercambio de mentes: un percal de ciencia y de ficción (por la misma autora) y Agapornis Marwin la bruja de ayer y de mañana por Aitor Aráez Perez.
-
-
 
 #### A﻿UTORA
 
