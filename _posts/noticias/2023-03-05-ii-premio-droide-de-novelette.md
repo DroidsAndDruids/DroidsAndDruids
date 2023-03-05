@@ -20,10 +20,10 @@ Si tenéis dudas, podéis escribir a [droidsanddruids@gmail.com](mailto:droidsan
 9. 1. **Manuscrito** con el título de la obra y sin nombre de autor. (Ejemplo: si tu obra se llama Las flores, el documento se llamaría LASFLORES_MANUS - no incluyas tu nombre de autor aquí). *Si el título es muy largo puedes acortar en el nombre del documento: Si se llama Las flores que cayeron en otoño, sigue estando bien que le llames LASFLORES_MANUS.
    2. **PLICA**: documento que dentro contenga los datos personales del autore: Nombre, fecha de nacimiento, teléfono y email que sí usa regularmente para contactarle. Nómbralo con el título de la obra + plica. (Ejemplo: si tu obra se llama Las flores, el documento se llamaría LASFLORES_PLICA).
 
-**\*IMPORTANTE:** deberás una cuenta de email que no sea reconocible y no lleve tu nombre, porque Google Drive incluirá por defecto el nombre de la cuenta en el archivo que adjuntes. (Ejemplo: si tu cuenta es [mariagarcia@gmail.com](mailto:mariagarcia@gmail.com) el documento se llamará LASFLORES_MANUS - Maria García. Para evitar eso, usa una cuenta con pseudónimo para rellenar el formulario, como por ejemplo [orlandobloom@gmail.com](mailto:orlandobloom@gmail.com) o [lechecongalletas@gmail.com](mailto:lechecongalletas@gmail.com)) 
+**\*IMPORTANTE:** deberás usar una cuenta de email que no sea reconocible y no lleve tu nombre, porque Google Drive incluirá por defecto el nombre de la cuenta en el archivo que adjuntes. (Ejemplo: si tu cuenta es [mariagarcia@gmail.com](mailto:mariagarcia@gmail.com) el documento se llamará LASFLORES_MANUS - Maria García. Para evitar eso, usa una cuenta con pseudónimo para rellenar el formulario, como por ejemplo [orlandobloom@gmail.com](mailto:orlandobloom@gmail.com) o [lechecongalletas@gmail.com](mailto:lechecongalletas@gmail.com)) 
 
 9. El **JURADO** está compuesto por el mismo jurado de la revista Droids & Druids, además de los ganadores de la convocatoria anterior. 
-10. El **FALLO** del jurado será anunciado en septiembre/octubre de 2023, según cantidad de obras presentadas.
+10. El **FALLO** del jurado será anunciado en otoño de de 2023, según cantidad de obras presentadas.
 11. La **entrega de premios** se hará en la gala de premios del Festival Terramur de febrero de 2023 (fecha estimada siempre bajo según disponibilidad para hacer el evento).
 12. El **PREMIO** consiste en:
 13. 1. Trofeo de cristal grabado.
@@ -31,8 +31,6 @@ Si tenéis dudas, podéis escribir a [droidsanddruids@gmail.com](mailto:droidsan
 14. Alguna de las obras finalistas también podría recibir una propuesta de publicación.
 15. La participación en el certamen implica conocimiento y aceptación de todas las bases. El incumplimiento de las mismas puede suponer descalificación de la obra.
 16. Los datos personales de las plicas no se usarán para nada excepto ponerse en contacto con las obras finalistas y ganadoras en relación a sus obras.
-
-
 
 **\*¿Cómo es publicar una novelette con Droids & Druids?**
 
