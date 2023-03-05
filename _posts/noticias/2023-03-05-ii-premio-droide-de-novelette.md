@@ -24,7 +24,7 @@ Si tenéis dudas, podéis escribir a [droidsanddruids@gmail.com](mailto:droidsan
 
 9. El **JURADO** está compuesto por el mismo jurado de la revista Droids & Druids, además de los ganadores de la convocatoria anterior. 
 10. El **FALLO** del jurado será anunciado en otoño de de 2023, según cantidad de obras presentadas.
-11. La **entrega de premios** se hará en la gala de premios del Festival Terramur de febrero de 2023 (fecha estimada siempre bajo según disponibilidad para hacer el evento).
+11. La **entrega de premios** se hará en la gala de premios del Festival Terramur de febrero de 2024 (fecha estimada siempre bajo según disponibilidad para hacer el evento).
 12. El **PREMIO** consiste en:
 13. 1. Trofeo de cristal grabado.
     2. Publicación en formato físico y digital con la asociación Droids & Druids, como parte de una colección de novelettes de fantaciencia, en un plazo no superior a un año desde el fallo del certamen (detalles más abajo*), con un **anticipo** de 50 euros, estipulado en el contrato editorial.
