@@ -6,7 +6,7 @@ description: ¡Vuelven los premios de la revista Droids & Druids! Queremos
   reconocer a nuestros autores y que podáis elegir vuestros favoritos.
 category: noticias
 ---
-Para reconocer el talento de nuestros autores, vuelven los Premios Droide y Druida, convocados por primera vez el año 2022. Podéi﻿s leer **MÁS INFO en las FAQs** de abajo [😊](https://emojipedia.org/es/cara-feliz-con-ojos-sonrientes/), ver los [ganadores del año pasado](https://droidsanddruids.com/noticias/2022/01/03/premios-droids-druids.html), e incluso ver la [gala 2022 en YouTube](https://www.youtube.com/watch?v=1XFcfxzIAS4). 
+Para reconocer el talento de nuestros autores, vuelven los Premios Droide y Druida, convocados por primera vez el año 2022. Podéi﻿s leer **MÁS INFO en las FAQs** de abajo [😊](https://emojipedia.org/es/cara-feliz-con-ojos-sonrientes/), ver los [ganadores del año pasado](https://droidsanddruids.com/noticias/2022/01/03/premios-droids-druids.html), e incluso ver la [gala 2022 en YouTube](https://www.youtube.com/watch?v=1XFcfxzIAS4).  
 
 ![foto de los trofeos](/public/images/tiny-small.png)
 
@@ -31,8 +31,6 @@ Para reconocer el talento de nuestros autores, vuelven los Premios Droide y Drui
 ·[🤖](https://emojipedia.org/robot/) Premio Droide Convocatoria propia de Novelette: Celia Corral Vázquez por Puedes llamarme Espátula.
 
 · [🤖](https://emojipedia.org/robot/)Finalista Premio Droide Convocatoria propia de Novelette: Alejandro Rodruíguez Shonen por La Obsoletadora.
-
-
 
 **C﻿ambios de 2023:**
 
