@@ -9,8 +9,6 @@ category: noticias
 ---
 [➡](https://emojidictionary.emojifoundation.com/right_arrow)**[Lee aquí el informe de la edición 2023](https://drive.google.com/drive/u/0/folders/1INWNLjsFxMgPMc6hqC6ZGizlLZ-g3Njg)**
 
-
-
 ¡Ya llega la primera edición del Terramur! El festival de ciencia ficción, fantasía y terror que organizamos en la ciudad de Murcia. 
 
 ¿Quieres saber todo lo que estamos preparando?Aquí tienes más info 👇
@@ -55,9 +53,7 @@ Ya te puedes inscribir en los talleres y actividades. ¡Tenemos talleres de escr
 
 ### GALA DE PREMIOS DROIDE Y DRUIDE
 
-Este año la gala será presencial, a última hora del sábado. ¿Aún no has votado tus favoritos? 
-
-[Descubre todo sobre estos premios aquí ](https://droidsanddruids.com/noticias/2023/01/05/llegan-los-premios-droide-y-druida-2023.html)[](https://droidsanddruids.com/noticias/2023/01/05/llegan-los-premios-droide-y-druida-2023.html)
+[Descubre todo sobre estos premios  aquí ](https://droidsanddruids.com/noticias/2023/01/05/llegan-los-premios-droide-y-druida-2023.html)**y todos los ganadores** [🏆](https://emojipedia.org/trophy/)[](https://droidsanddruids.com/noticias/2023/01/05/llegan-los-premios-droide-y-druida-2023.html)
 
 ### VOLUNTARIOS
 
