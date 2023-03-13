@@ -7,7 +7,7 @@ description: Llega la primera edición del Festival Terramur, el festival de
   Druids
 category: noticias
 ---
-[➡](https://emojidictionary.emojifoundation.com/right_arrow)**[Lee aquí el informe de la edición 2023](https://drive.google.com/file/d/1mNd2i7ePCkaA26ST1tNBns4oZWnboBLs/view?usp=sharing)**
+[➡](https://emojidictionary.emojifoundation.com/right_arrow)**[Lee aquí el informe de la edición 2023](https://drive.google.com/file/d/18IEZAwTlnobLgbzq3r9yzzA5sMm70rih/view?usp=sharing)**
 
 ¡Ya llega la primera edición del Terramur! El festival de ciencia ficción, fantasía y terror que organizamos en la ciudad de Murcia. 
 
