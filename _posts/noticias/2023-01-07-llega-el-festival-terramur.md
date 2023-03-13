@@ -1,12 +1,15 @@
 ---
 layout: page
-title: ¡Llega el FESTIVAL TERRAMUR!
+title: FESTIVAL TERRAMUR 2023
 date: 2023-01-07T14:44:49.120Z
 description: Llega la primera edición del Festival Terramur, el festival de
   literatura de fantasía y ciencia ficción en Murcia organizado por Droids &
   Druids
 category: noticias
 ---
+[➡](https://emojidictionary.emojifoundation.com/right_arrow)**[Lee aquí el informe de la edición 2023](https://drive.google.com/drive/u/0/folders/1INWNLjsFxMgPMc6hqC6ZGizlLZ-g3Njg)**
+
+
 
 ¡Ya llega la primera edición del Terramur! El festival de ciencia ficción, fantasía y terror que organizamos en la ciudad de Murcia. 
 
@@ -21,7 +24,7 @@ category: noticias
 Información:
 
 * [Pabellón 5. Antiguo Cuartel de Artillería, C. Madre Elisea Oliver Molina, s/n, 30002 Murcia](https://goo.gl/maps/3MQXetbuVa7noLQR9)
-* [http://www.centroparraga.es](http://www.centroparraga.es)
+* <http://www.centroparraga.es>
 
 Actividades:
 
@@ -39,7 +42,6 @@ Actividades:
 
 * **SÁBADO 18** 23pm - Fiesta de disfraces
 * **DOMINGO 19**: 11am-14pm: Mañaneo de podcasts en directo
-
 
 ### PROGRAMA
 
