@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¡Llegan los Premios Droide y Druida 2023!
+title: "Actualizado: ¡Premios Droide y Druida 2023!"
 date: 2023-01-05T18:09:48.315Z
 description: ¡Vuelven los premios de la revista Droids & Druids! Queremos
   reconocer a nuestros autores y que podáis elegir vuestros favoritos.
@@ -9,6 +9,32 @@ category: noticias
 Para reconocer el talento de nuestros autores, vuelven los Premios Droide y Druida, convocados por primera vez el año 2022. Podéi﻿s leer **MÁS INFO en las FAQs** de abajo [😊](https://emojipedia.org/es/cara-feliz-con-ojos-sonrientes/), ver los [ganadores del año pasado](https://droidsanddruids.com/noticias/2022/01/03/premios-droids-druids.html), e incluso ver la [gala 2022 en YouTube](https://www.youtube.com/watch?v=1XFcfxzIAS4). 
 
 ![foto de los trofeos](/public/images/tiny-small.png)
+
+**🏅G﻿ANADORES 2023🏅**
+
+· 🧙‍♀️​ Premio Druida Novela: Eva Amuedo por El dárico gris (Obscura Editorial).
+
+· 🧙‍♀️​ Premio Druida Novelette: María del Carmen Copete por Miasis (Ediciones El transbordador).
+
+· [🤖](https://emojipedia.org/robot/)Premio Droide Novelette: Cristina B Morales por Sed (Ediciones Hela).
+
+· [🤖](https://emojipedia.org/robot/)Premio Droide Novela: Rosa Gil,
+
+· 🧙‍♀️​ Premio Druida de Relato: Jesús Durán y Libertad García-Villada por La prueba de los dos dados
+
+· [🤖](https://emojipedia.org/robot/)Premio Droide de Relato: Angel Belmonte por Hijos Jilgueros.
+
+· 🧙‍♀️​ Premio Druida de Poesía: Arien Vega por El vuelo de la hojalata.
+
+· [🤖](https://emojipedia.org/robot/)Premio Droide de Poesía: Irene B Trenas por Antojo.
+
+·[🤖](https://emojipedia.org/robot/) Premio Droide Convocatoria propia de Novelette: Celia Corral Vázquez por Puedes llamarme Espátula.
+
+· [🤖](https://emojipedia.org/robot/)Finalista Premio Droide Convocatoria propia de Novelette: Alejandro Rodruíguez Shonen por La Obsoletadora.
+
+
+
+**C﻿ambios de 2023:**
 
 Este año, se mantienen las categorías relato y poesía de obras de la revista con el procedimiento estándar. Y además, hacemos **una serie de cambios** importantes:
 
