@@ -23,7 +23,7 @@ Recepción abierta para el **número VIII: MAR** abierta hasta el 30 de junio de
 
    **Atención:** NO queremos apología del racismo, machismo u otra discriminación ni de la crueldad animal. No hay unas reglas exactas sobre qué se admite o no, debéis guiaros por el sentido común. Si falta al respeto a algún colectivo, probablemente no nos guste.
 
-   **\* Importante:** No publicamos relatos o poemas con nombres comprometidos por derechos de autor. Es decir, no vale que aparezca un torneo de Quidditch o un Pikachu, llámalo de otra forma :)
+   **\* Importante:** NO ACEPTAMOS TEXTOS HECHOS CON IA. Tampoco publicamos relatos o poemas con nombres comprometidos por derechos de autor. Es decir, no vale que aparezca un torneo de Quidditch o un Pikachu, llámalo de otra forma :)
 6. ***TAMBIÉN BUSCAMOS ARTÍCULOS Y RESEÑAS:*** Artículos sobre cualquier peli, serie, libro que trate los temas arriba descritos. ¡También reseñas sobre libros que traten esos temas! ¿Te ha gustado mucho el último libro que has leído? ¡Coméntalo en la revista. **¡Envíanos tus propuestas de reseñas y artículos al mail y te podremos asesorar antes de escribirlo!**
 7. ***FORMATO:*** Se admiten **relatos, poemas, viñetas,** **artículos y reseñas** de ciencia ficción y género fantástico (incluye terror fantástico), en castellano de hasta **3000 palabras**, en formato **Word** en **Times New Roman 12**. En el documento no debe incluirse nombre o datos personales. Solamente el título y la obra.
 8. ***ENVÍO:*** Deben enviarse rellenando este [FORMULARIO](https://forms.gle/Vm15Msqgf3Z8aY1fA) hasta hasta el 30 de junio de 2023 (incluido)
