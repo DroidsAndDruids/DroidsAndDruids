@@ -11,6 +11,12 @@ Número 7 – Marzo 2023 de la revista DROIDS & DRUIDS: Revista de ciencia ficci
 
 Este número gira en torno al tema de las Comunicaciones.
 
+
+
+Este número está disponible en [Lektu](https://lektu.com/l/droidsdruids/droids-druids-7-comunicaciones-marzo-2023/21294), y al igual que los números anteriores, puedes descargarlo gratis mediante pago social.
+
+
+
 CONTENIDO
 
 EQUIPO 6
