@@ -5,8 +5,6 @@ date: 2023-05-28T10:06:25.255Z
 description: Recepción abierta para el número VIII sobre el Mar hasta el 30 de junio de 2023
 category: blog
 ---
-
-
 Recepción abierta para el **número VIII: MAR** abierta hasta el 30 de junio de 2023
 
 ## ¡Convocatoria abierta para la Revista Droids&Druids!
@@ -21,7 +19,7 @@ Recepción abierta para el **número VIII: MAR** abierta hasta el 30 de junio de
 2. Los trabajos para la revista no han de ser inéditos pero **no deben tener comprometidos sus derechos con terceros.** Las responsabilidades por el incumplimiento recaen únicamente sobre el autor.
 3. Al enviar el relato o artículo, **el autor está autorizando su publicación en nuestra revista, lo que incluye la difusión gratuita a través de la descarga desde la plataforma Lektu,** así como autorización a la mención con fines de difusión.
 4. El autor mantiene todos sus derechos sobre el texto. Además, **Droids & Druids no requiere exclusividad**, por lo que el autor puede publicar posteriormente el texto en otras revistas si así lo desea, siempre y cuando no suponga la modificación de los números de Droids & Druids ya publicados. Puede ser un relato publicado.
-5. ***TEMA* para esta VIII convocatoria es EL MAR.** En este número queremos ver viajes por mar y río, aventuras bajo el agua, seres marinos, piratas, travesías y también cualquier historia ambientada en remotos lugares costeros. Que le vamos a hacer si nacimos en el Mediterráneo**comunicaciones indirectas o a distancia** entre los personajes: queremos que se envien cartas, que usen telefonos, radio, chats, que se comuniquen de un planeta a otro... En resumen, obras en las que tengan que **utilizar un medio para comunicarse** y que no sea una conversacion directa. No os olvidéis que *debe seguir siendo **fantasía o ciencia ficción\*\****:\*\* un relato sobre una chica que veranea en la playa y se enamora de la vecina no vale, a no ser que la vecina sea una sirena o venga de Marte. 
+5. ***TEMA* para esta VIII convocatoria es EL MAR.** En este número queremos ver viajes por mar y río, aventuras bajo el agua, seres marinos, piratas, travesías y también cualquier historia ambientada en remotos lugares costeros. Que le vamos a hacer si nacimos en el Mediterráneo. No os olvidéis que *debe seguir siendo **fantasía o ciencia ficción\*\****:\*\* un relato sobre una chica que veranea en la playa y se enamora de la vecina no vale, a no ser que la vecina sea una sirena o venga de Marte. 
 
    ![un droide a la izquierda enviando un mensaje por carta, radio, telefono, ordenador hasta el destinatario druida a la derecha](/public/images/screen-shot-2022-10-03-at-12.49.40-pm.png)
 
