@@ -30,7 +30,7 @@ Recepción abierta para el **número VIII: MAR** abierta hasta el 30 de junio de
 
 6. ***TAMBIÉN BUSCAMOS ARTÍCULOS Y RESEÑAS:*** Artículos sobre cualquier peli, serie, libro que trate los temas arriba descritos. ¡También reseñas sobre libros que traten esos temas! ¿Te ha gustado mucho el último libro que has leído? ¡Coméntalo en la revista. **¡Envíanos tus propuestas de reseñas y artículos al mail y te podremos asesorar antes de escribirlo!**
 7. ***FORMATO:*** Se admiten **relatos, poemas, viñetas,** **artículos y reseñas** de ciencia ficción y género fantástico (incluye terror fantástico), en castellano de hasta **3000 palabras**, en formato **Word** en **Times New Roman 12**. En el documento no debe incluirse nombre o datos personales. Solamente el título y la obra.
-8. ***ENVÍO:*** Deben enviarse rellenando este [FORMULARIO](https://forms.gle/XTYqTBhMuzwx62W26) hasta hasta el 30 de junio de 2023 (incluido)
+8. ***ENVÍO:*** Deben enviarse rellenando este [FORMULARIO](https://forms.gle/Vm15Msqgf3Z8aY1fA) hasta hasta el 30 de junio de 2023 (incluido)
 9. ***FECHAS:*** Los seleccionados se conocerán en verano (según cantidad de obras). Cualquier retraso o alteración del calendario será notificada en @droidsanddruids. Este número se publicará en septiembre/octubre 2023.
 10. ***SELECCIÓN*:** Los participantes seleccionados verán **publicados sus trabajos en el siguiente número de la revista, en** septiembre/octubre**,** y  se elegirá un ganador del número, **cuyo relato será radioficcionado en el podcast Droids & Druids.** Además, los relatos y poemas seleccionados también serán **candidatos en los *Premios Droids & Druids*** del año siguiente.
 
