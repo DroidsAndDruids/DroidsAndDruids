@@ -42,11 +42,13 @@ Al final, se aprende con el ejemplo. Por ello, Droids & Druids publica su Antolo
 
 ![Foto de nuestra antologia de Fantaciencia](/public/images/smalllow.png "Puedes conseguirla en nuestra tienda.")
 
+[Puedes conseguirla en nuestra tienda.](https://droidsanddruids.sumupstore.com/productos)
+
+
+
 Y es que ahí está el verdadero punto de **la fantaciencia, el espacio en el que confluyen los dos géneros**. La Teoría Literaria nos permite definir el modelo de mundo de la obra, pero este no establece por completo el género ―aunque ayude una barbaridad, claro―. El género viene dado por la trama, la acción narrativa, los personajes y sus relaciones y, también, el modelo de mundo en el cual se construye.
 
 Así que si quieres escribir fantaciencia, pero tienes un miedo terrible a no hallar el punto exacto de este género híbrido, tan solo **enumera todos los elementos fantásticos de tu obra**: por un lado, aquellos que son verosímiles y quizá pudieran ser posibles, quién sabe si en un futuro o en un pasado paralelo; y, por otro lado, aquellos que son inverosímiles y responden a una verdadera fantasía sin cabida en nuestro mundo. Pésalos, equilíbralos, obsérvalos. Si tanto unos como otros son necesarios para tu historia, si su ausencia cambiaría por completo todo lo narrado e hiciera tambalear todo lo construido, entonces **enhorabuena, porque has encontrado el puente que une a los androides con los druidas.**
-
-
 
 Tienes otros ejemplos en nuestra colección de novelettes de Fantaciencia:
 
