@@ -42,7 +42,7 @@ Al final, se aprende con el ejemplo. Por ello, Droids & Druids publica su Antolo
 
 
 
-![Foto de nuestra antologia de Fantaciencia](/public/images/low-res.jpg "Puedes conseguirla en nuestra tienda.")
+![Foto de nuestra antologia de Fantaciencia](/public/images/smalllow.png "Puedes conseguirla en nuestra tienda.")
 
 
 
