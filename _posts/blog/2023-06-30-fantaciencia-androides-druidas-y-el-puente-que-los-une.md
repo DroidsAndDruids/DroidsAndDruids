@@ -8,7 +8,7 @@ date: 2023-06-30T10:28:45.777Z
 description: El artículo definitivo que necesitabas sobre Fantaciencia
 category: blog
 ---
-De acuerdo, estás pensando en escribir **fantaciencia**: un género híbrido potencialmente problemático en cuanto a su definición. Y si ya es difícil definirlo, más difícil es escribirlo, ¿verdad? Ahí vienen las dudas, los ¿y si es solo fantasía o ciencia ficción? Si añado tecnología a mi mundo mágico, ¿es ya fantaciencia? ¿Y un guiño a la magia en mi planeta lejano? ¿Lo estoy haciendo bien? ¿Dónde establezco el límite? Comencemos, entonces, a definir el género.
+De acuerdo, estás pensando en escribir **fantaciencia**: un género híbrido potencialmente problemático en cuanto a su definición. Y si ya es difícil definirlo, más difícil es escribirlo, ¿verdad? Ahí vienen las dudas, los ¿y si es solo fantasía o ciencia ficción? Si añado tecnología a mi mundo mágico, ¿es ya fantaciencia? ¿Y un guiño a la magia en mi planeta lejano? ¿Lo estoy haciendo bien? ¿Dónde establezco el límite? Comencemos, entonces, a definir el género. 
 
 La Fantaciencia se define como un género a medio camino entre la fantasía épica y la ciencia ficción. No obstante, este tipo de definiciones tiene el problema de ser terriblemente ambiguas. ¿Cómo definimos el medio camino? **¿Cuántos ordenadores tiene que manejar un orco para pasar de fantasía a fantaciencia?** Y si maneja demasiados, ¿nos pasamos de rosca y nos convertimos en ciencia ficción? ¿Dónde está el límite exacto?
 
@@ -40,11 +40,7 @@ No obstante, aparece el género de la **fantaciencia: el medio camino entre la f
 
 Al final, se aprende con el ejemplo. Por ello, Droids & Druids publica su Antología de Fantaciencia, una antología de relatos de este género donde abundan los ejemplos: sirenas y otras criaturas mitológicas mecánicas, temor a la ciencia y confianza en la magia o brujas en el espacio.
 
-
-
 ![Foto de nuestra antologia de Fantaciencia](/public/images/smalllow.png "Puedes conseguirla en nuestra tienda.")
-
-
 
 Y es que ahí está el verdadero punto de **la fantaciencia, el espacio en el que confluyen los dos géneros**. La Teoría Literaria nos permite definir el modelo de mundo de la obra, pero este no establece por completo el género ―aunque ayude una barbaridad, claro―. El género viene dado por la trama, la acción narrativa, los personajes y sus relaciones y, también, el modelo de mundo en el cual se construye.
 
