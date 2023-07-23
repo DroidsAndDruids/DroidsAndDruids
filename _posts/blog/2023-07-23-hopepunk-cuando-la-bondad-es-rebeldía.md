@@ -88,7 +88,11 @@ En la película recientemente premiada** *Everything Everywhere All at Once*** l
 
 Evelyn, entonces, sigue su consejo, y lucha esta vez no lastimando a quienes la rodean, sino brindándoles felicidad. **El nihilismo se combate con empatía y esperanza**, y hace falta mucho valor para decidir seguir adelante en lugar de resignarse y, sencillamente, desaparecer en el abismo.
 
-Especialmente interesante este momento, cuando Evelyn abraza la bondad de su marido, que hasta ese momento ha considerado estupidez y debilidad, **y leemos la palabra 'PUNK' en su chaqueta**. Si esto no es *hopepunk*, que me entierren aquí mismo.
+![](/public/images/captura-de-pantalla-2023-07-23-a-las-19.01.00-copia.png)
+
+
+
+> Especialmente interesante este momento, cuando Evelyn abraza la bondad de su marido, que hasta ese momento ha considerado estupidez y debilidad, **y leemos la palabra 'PUNK' en su chaqueta**. Si esto no es *hopepunk*, que me entierren aquí mismo.
 
 ¡Si hasta tenemos *hopepunk* en obras como ***One Piece***! ¿O acaso Luffy no es un ejemplo de bondad, y alegría en el mundo pirata, hostil por definición? Por supuesto, no quisiera hacer *spoilers* ―«a buenas horas, has hecho *spoilers* de varias obras ya»―, pero todes les que sigan la saga comprenderán por qué Luffy, protagonista indiscutible, es símbolo de libertad, alegría, risa, esperanza y optimismo. Y no hablo simplemente de sus formas o su personalidad, sino que es algo esencial en la trama y tiene una potente razón de ser.
 
@@ -101,8 +105,6 @@ Diréis, quienes hayáis visto la serie, que no acaba del todo bien. Al menos, n
 > En realidad, no hay final. En los libros de *hopepunk* el fin es solo la conclusión de una etapa, pero tienen que seguir luchando, si no ellos, los siguientes rebeldes. Porque esta fantasía optimista es continua rebelión ante la resignación, porque acepta que el mundo va a seguir teniendo sus hostilidades, pero a pesar de ello hay que seguir luchando para hacer de él un lugar mucho más amable.
 
 Katniss Everdeen no es un ejemplo de pureza y de abnegación, y su obra no termina tampoco con una revolución justa. Tampoco Fleabag. Pero las dos son *hopepunk*. Eleanor Shellstrop, protagonista de la serie ***The Good Place***, tampoco es perfecta, ¡literalmente la serie juega con su moralidad imperfecta, caótica y su comportamiento en absoluto humanitario! Pero la serie, poco a poco, avanza gracias a ella, a Chidi Anagonye, a Tahani Al-Jamil, a Jason Mendoza e incluso a Michael intentando ser mejores personas, intentando cambiar un sistema injusto y cruel, con esperanza, fe en que las cosas pueden ser mejores y una auténtica bondad ―no innata, sino trabajada―. Esto es verdadero *hopepunk*.
-
-
 
 #### Entonces, ¿es un género o no?
 
