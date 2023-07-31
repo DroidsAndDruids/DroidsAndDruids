@@ -35,7 +35,7 @@ La antología se venderá en la web de Droids & Druids, y en algunas librerías 
 
 En el caso de no aceptar las condiciones del contrato propuestas por la editorial, le autore seleccionade estará en su derecho de no firmar y rechazar así la publicación de su relato en la antología.
 
-3. TEMA Y GÉNERO:
+3. #### TEMA Y GÉNERO:
 
 La temática de los relatos o poemas es libre. El género de la antología debe ser ciencia ficción o fantasía. El subgénero debe ser el HOPEPUNK.
 
@@ -53,22 +53,23 @@ También, os dejamos una pequeña lista de obras que nos parecen completamente H
 * El largo viaje a un pequeño planeta iracundo (libro Insólita Editorial, 2018) de Becky Chambers.
 * Todos los pájaros del cielo (libro de Insólita Editorial, 2018) de Charlie Jane Anders.
 * Utopía no es una isla (ensayo de Layla Martínez sobre la necesidad de pensar mundos mejores).
-*
 
-4. ORIGINALES:
+
+
+4. #### ORIGINALES:
 
 * Los trabajos en esta ocasión han de ser inéditos y no deben tener comprometidos sus derechos con terceros. Las responsabilidades por el incumplimiento recaen únicamente sobre el autor.
 * RELATOS: Se admiten relatos de entre  1000 y 5000 palabras.
 * POEMAS: Se admiten poemas sin mínimo de extensión y con un máximo de cinco páginas.
 * FORMATO: Muchos nos preguntáis el tipo y tamaño de letra o interlineado. No nos importa. Aunque recomendamos que tenga una apariencia profesional (con rayas de diálogo adecuadas, por ejemplo) pues esto suele afectar a la percepción del jurado.
 
-5. ENVÍO y PLICA:
+5. #### ENVÍO y PLICA:
 
 Deberá utilizarse ÚNICAMENTE el formulario destinado para esta convocatoria (esto es para garantizar la anonimidad). 
 
 FORMULARIO
 
-Formulario: <https://forms.gle/5gg12uH1ZGEMww3x7> 
+ <https://forms.gle/5gg12uH1ZGEMww3x7> 
 
 En el formulario veréis que debéis adjuntar DOS DOCUMENTOS en formato WORD (la obra y la plica). El formulario está diseñado para que cada documento se envíe a una carpeta distinta de Drive. El jurado solamente tendrá acceso a la carpeta de relatos o viñetas durante la convocatoria y selección.
 
@@ -96,17 +97,17 @@ El documento de la plica debe incluir en su interior:
 
 A este documento se le llamará: “título_PLICA”. Por ejemplo, si mi obra se llama “La luna”, el documento se llamará: La_luna_PLICA.docx
 
-\*IMPORTANTE\*. Se debe utilizar una cuenta de correo electrónico que no os identifique, porque la cuenta queda grabada en el drive. No lo envíes con tu correo principal mari[aramirez@gmail](mailto:aramirez@gmail.com), sino con un correo anónimo tipo galletasyrelatos@gmail…
+**\*IMPORTANTE\*. Se debe utilizar una cuenta de correo electrónico que no os identifique**, porque la cuenta queda grabada en el drive. No lo envíes con tu correo principal mari[aramirez@gmail](mailto:aramirez@gmail.com), sino con un correo anónimo tipo galletasyrelatos@gmail…
 
 Así, cuando abramos el relato La luna, enviado por galletasyrelatos, no sabremos quién es :) 
 
-\*\*Pregunta común: ¿puedo utilizar un correo anónimo que ya he utilizado en otras convocatorias? La respuesta es sí. No nos vamos a acordar ni guardamos una lista de las cuentas de galletas. 
+**\*\*Pregunta común: ¿puedo utilizar un correo anónimo que ya he utilizado en otras convocatorias?** La respuesta es sí. No nos vamos a acordar ni guardamos una lista de las cuentas de galletas. 
 
-6. JURADO:
+6. #### JURADO:
 
 El jurado está compuesto por el equipo de la revista Droids & Druids, que no conocerá la identidad de los autores durante el proceso (gracias al formulario y el sistema de plica). 
 
-7. CALENDARIO:
+7. #### CALENDARIO:
 
 El plazo para enviar originales es desde el 1 de agosto al 24 de Septiembre 2023.
 
