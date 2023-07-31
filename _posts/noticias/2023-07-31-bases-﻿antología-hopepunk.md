@@ -2,26 +2,14 @@
 layout: page
 title: Bases  ﻿ANTOLOGÍA HOPEPUNK
 date: 2023-07-31T09:31:35.430Z
-description: hasta el 24 de septiembre 23
+description: hasta el 24 de septiembre 2023
 category: noticias
 ---
-
-
-PUBLICADA POR DROIDS & DRUIDS 
-
-
-
-escribir historias hopepunk es ya muy hopepunk. En el mundo violento en el que vivimos, donde se valora la sangre, la destrucción, y se alaban los personajes cínicos y crueles, donde toda la corriente cultural nos insta a dejarnos llevar hacia la tristeza y el nihilimo, TRATAR de traer esperanza, tratar de pensar que un futuro mejor es posible es muy hopepunk. Y para que haya un futuro mejor, primero hay que pensarlo, y escribirlo ❤️
-
-
+**Escribir historias hopepunk es ya muy hopepunk**. En el mundo violento en el que vivimos, donde se valora la sangre, la destrucción, y se alaban los personajes cínicos y crueles, donde toda la corriente cultural nos insta a dejarnos llevar hacia la tristeza y el nihilimo, TRATAR de traer esperanza, tratar de pensar que un futuro mejor es posible es muy hopepunk. Y para que haya un futuro mejor, primero hay que pensarlo, y escribirlo ❤️
 
 P﻿or ello, convocamos la Antología Hopepunk de Droids & Druids
 
-
-
 Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](mailto:droidsanddruids@gmail.com)
-
-
 
 ⚠️hasta el 24 de septiembre 2023⚠️
 
@@ -46,8 +34,6 @@ Droids & Druids se hará cargo de la revisión ortotipográfica de los textos, m
 La antología se venderá en la web de Droids & Druids, y en algunas librerías amigas que están en Barcelona y Murcia, así como en posibles eventos de literatura. Pero es importante destacar que Droids & Druids es una pequeña asociación cultural, no una gran editorial, por lo que NO tenemos distribuidora. Esto quiere decir que no podemos acceder a venta en grandes superficies.
 
 En el caso de no aceptar las condiciones del contrato propuestas por la editorial, le autore seleccionade estará en su derecho de no firmar y rechazar así la publicación de su relato en la antología.
-
-
 
 3. TEMA Y GÉNERO:
 
