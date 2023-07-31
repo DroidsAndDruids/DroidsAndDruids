@@ -51,6 +51,7 @@ También, os dejamos una **pequeña lista de obras** que nos parecen completamen
 * Parcs & Recreation (serie)
 * El largo viaje a un pequeño planeta iracundo (libro Insólita Editorial, 2018) de Becky Chambers.
 * Todos los pájaros del cielo (libro de Insólita Editorial, 2018) de Charlie Jane Anders.
+* Utopía no es una isla (ensayo de Layla Martínez sobre la necesidad de pensar mundos mejores).
 
 4. ##### ORIGINALES:
 
