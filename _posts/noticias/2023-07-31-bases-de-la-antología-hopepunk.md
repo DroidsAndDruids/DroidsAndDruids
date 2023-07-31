@@ -41,8 +41,8 @@ La temática de los relatos o poemas es libre. **El género de la antología deb
 
 **Os recomendamos documentaros antes de comenzar** a escribir ya que es un subgénero literario bastante reciente, novedoso y aún poco asentado. Para ello, os dejamos estos recursos a vuestro alcance, donde podéis descubrir la visión que tenemos como jurado de esta corriente literaria:
 
-* **\[ARTÍCULO: Hopepunk: cuando la bondad es rebeldía (por Aitor Aráez) ](<* <https://droidsanddruids.com/blog/2023/07/23/hopepunk-cuando-la-bondad-es-rebeld%C3%ADa.html>>)**[](https://droidsanddruids.com/blog/2023/07/23/hopepunk-cuando-la-bondad-es-rebeld%C3%ADa.html)
-* **\[MESA REDONDA en nuestro canal de YouTube](<* <https://www.youtube.com/watch?v=A0eZ0xVLi8I&t=2s>>) en el que Inés Galiano y Aitor Aráez hablan de todas las cuestiones y dudas del género con Laura S. Maquilón**
+* **[ARTÍCULO](https://droidsanddruids.com/blog/2023/07/23/hopepunk-cuando-la-bondad-es-rebeld%C3%ADa.html): Hopepunk: cuando la bondad es rebeldía (por Aitor Aráez)** [](https://droidsanddruids.com/blog/2023/07/23/hopepunk-cuando-la-bondad-es-rebeld%C3%ADa.html)
+* **[MESA REDONDA](https://www.youtube.com/watch?v=A0eZ0xVLi8I&t=2s) en nuestro canal de YouTube en el que Inés Galiano y Aitor Aráez hablan de todas las cuestiones y dudas del género con Laura S. Maquilón**
 
 También, os dejamos una **pequeña lista de obras** que nos parecen completamente Hopepunk que trataremos de ir ampliando (aunque no todas sean de género fantástico):
 
