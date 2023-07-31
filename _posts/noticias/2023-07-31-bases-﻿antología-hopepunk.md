@@ -5,21 +5,21 @@ date: 2023-07-31T09:31:35.430Z
 description: hasta el 24 de septiembre 2023
 category: noticias
 ---
-**Escribir historias hopepunk es ya muy hopepunk**. En el mundo violento en el que vivimos, donde se valora la sangre, la destrucción, y se alaban los personajes cínicos y crueles, donde toda la corriente cultural nos insta a dejarnos llevar hacia la tristeza y el nihilimo, TRATAR de traer esperanza, tratar de pensar que un futuro mejor es posible es muy hopepunk. Y para que haya un futuro mejor, primero hay que pensarlo, y escribirlo ❤️
+**Escribir historias hopepunk es ya muy hopepunk**. En el mundo violento en el que vivimos, donde se valora la sangre, la destrucción, y se alaban los personajes cínicos y crueles, donde toda la corriente cultural nos insta a dejarnos llevar hacia la tristeza y el nihilimo, TRATAR de **traer esperanza, tratar de pensar que un futuro mejor es posible es muy hopepunk. Y para que haya un futuro mejor, primero hay que pensarlo, y escribirlo ❤️**
 
 P﻿or ello, convocamos la Antología Hopepunk de Droids & Druids
 
 Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](mailto:droidsanddruids@gmail.com)
 
-⚠️hasta el 24 de septiembre 2023⚠️
+**⚠️hasta el 24 de septiembre 2023⚠️**
 
 ## BASES:
 
-1. PARTICIPANTES: 
+1. #### PARTICIPANTES: 
 
 Podrán presentarse a la convocatoria autores mayores de edad, de cualquier nacionalidad, residentes en España (Si estás fuera de España temporalmente o tu caso es especial, escríbenos para salir de dudas).
 
-2. SELECCIÓN Y PUBLICACIÓN EN ANTOLOGÍA: 
+2. #### SELECCIÓN Y PUBLICACIÓN EN ANTOLOGÍA: 
 
 Se seleccionarán alrededor de 10 relatos y 3 poemas. También habrá 2 relatos invitados.
 
