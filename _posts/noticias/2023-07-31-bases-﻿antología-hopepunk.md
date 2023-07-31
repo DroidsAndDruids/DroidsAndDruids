@@ -15,11 +15,11 @@ Podéis trasladarnos cualquier duda a nuestro email [droidsanddruids@gmail.com](
 
 ## BASES:
 
-1. #### PARTICIPANTES: 
+#### PARTICIPANTES: 
 
 Podrán presentarse a la convocatoria autores mayores de edad, de cualquier nacionalidad, residentes en España (Si estás fuera de España temporalmente o tu caso es especial, escríbenos para salir de dudas).
 
-2. #### SELECCIÓN Y PUBLICACIÓN EN ANTOLOGÍA: 
+#### SELECCIÓN Y PUBLICACIÓN EN ANTOLOGÍA: 
 
 Se seleccionarán alrededor de 10 relatos y 3 poemas. También habrá 2 relatos invitados.
 
@@ -35,7 +35,7 @@ La antología se venderá en la web de Droids & Druids, y en algunas librerías 
 
 En el caso de no aceptar las condiciones del contrato propuestas por la editorial, le autore seleccionade estará en su derecho de no firmar y rechazar así la publicación de su relato en la antología.
 
-3. #### TEMA Y GÉNERO:
+#### TEMA Y GÉNERO:
 
 La temática de los relatos o poemas es libre. El género de la antología debe ser ciencia ficción o fantasía. El subgénero debe ser el HOPEPUNK.
 
@@ -54,16 +54,14 @@ También, os dejamos una pequeña lista de obras que nos parecen completamente H
 * Todos los pájaros del cielo (libro de Insólita Editorial, 2018) de Charlie Jane Anders.
 * Utopía no es una isla (ensayo de Layla Martínez sobre la necesidad de pensar mundos mejores).
 
-
-
-4. #### ORIGINALES:
+#### ORIGINALES:
 
 * Los trabajos en esta ocasión han de ser inéditos y no deben tener comprometidos sus derechos con terceros. Las responsabilidades por el incumplimiento recaen únicamente sobre el autor.
 * RELATOS: Se admiten relatos de entre  1000 y 5000 palabras.
 * POEMAS: Se admiten poemas sin mínimo de extensión y con un máximo de cinco páginas.
 * FORMATO: Muchos nos preguntáis el tipo y tamaño de letra o interlineado. No nos importa. Aunque recomendamos que tenga una apariencia profesional (con rayas de diálogo adecuadas, por ejemplo) pues esto suele afectar a la percepción del jurado.
 
-5. #### ENVÍO y PLICA:
+#### ENVÍO y PLICA:
 
 Deberá utilizarse ÚNICAMENTE el formulario destinado para esta convocatoria (esto es para garantizar la anonimidad). 
 
@@ -103,11 +101,11 @@ Así, cuando abramos el relato La luna, enviado por galletasyrelatos, no sabremo
 
 **\*\*Pregunta común: ¿puedo utilizar un correo anónimo que ya he utilizado en otras convocatorias?** La respuesta es sí. No nos vamos a acordar ni guardamos una lista de las cuentas de galletas. 
 
-6. #### JURADO:
+#### JURADO:
 
 El jurado está compuesto por el equipo de la revista Droids & Druids, que no conocerá la identidad de los autores durante el proceso (gracias al formulario y el sistema de plica). 
 
-7. #### CALENDARIO:
+#### CALENDARIO:
 
 El plazo para enviar originales es desde el 1 de agosto al 24 de Septiembre 2023.
 
