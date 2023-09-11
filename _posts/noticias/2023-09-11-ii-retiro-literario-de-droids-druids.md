@@ -36,7 +36,7 @@ El precio será de 85 euros que incluirá:
 * *los participantes han de ser mayores de edad.*
 * *no se pueden inscribir acompañantes* que no vengan a participar porque contamos con muy poquitas plazas.
 
-##### INSCRIPCIÓN (Hasta el 17 Septiembre)
+##### INSCRIPCIÓN (Hasta el 17 Septiembre) - [F﻿ORMULARIO](https://forms.gle/HAHYb7EWhYdRpaoq7)
 
 La inscripción al retiro se abrirá mediante formulario hasta el día 17 de Septiembre (incluido). Tendrán preferencia las personas que acudieron a la primera edición o que dieron talleres en el Terramur y les autores de la revista Droids & Druids, y después, se adjudicarán las plazas por orden de inscripción. 
 
@@ -44,7 +44,7 @@ En la inscripción se podrá indicar con qué otra persona se quiere compartir l
 
 En el caso de que las inscripciones superen las plazas se abrirá lista de espera (y según el interés, trataremos de ampliar algunas plazas). 
 
-[F﻿ORMULARIO](https://forms.gle/HAHYb7EWhYdRpaoq7)
+
 
 ##### RESERVA (10 euros - hasta el 24 de septiembre)
 
