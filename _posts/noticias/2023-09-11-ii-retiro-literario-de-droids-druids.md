@@ -5,7 +5,7 @@ date: 2023-09-11T15:23:10.475Z
 description: ¡Volvemos a nuestro retiro literario!
 category: noticias
 ---
-# EL RETIRO LITERARIO 
+# II RETIRO LITERARIO 
 
 # de Droids & Druids
 
