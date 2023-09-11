@@ -20,8 +20,6 @@ Durante este fin de semana,  nos dedicaremos a la escritura y la literatura con
 * Recitales en la playa
 * Juegos de creatividad
 
-
-
 La gestión del retiro se hará mediante nuestra Asociación Droids & Druids. Para garantizar que sigue siendo un retiro pequeño y tranquilo contaremos con **solamente 20 personas: 16 plazas para asistentes (y 4 para la organización)**. 
 
 El precio será de 85 euros que incluirá:
@@ -45,6 +43,8 @@ La inscripción al retiro se abrirá mediante formulario hasta el día 17 de Sep
 En la inscripción se podrá indicar con qué otra persona se quiere compartir la habitación y trataremos de no separar grupos al adjudicar plazas, pero os rogamos que hagáis la reserva al mismo tiempo para evitar caos.
 
 En el caso de que las inscripciones superen las plazas se abrirá lista de espera (y según el interés, trataremos de ampliar algunas plazas). 
+
+[F﻿ORMULARIO](https://forms.gle/HAHYb7EWhYdRpaoq7)
 
 ##### RESERVA (10 euros - hasta el 24 de septiembre)
 
