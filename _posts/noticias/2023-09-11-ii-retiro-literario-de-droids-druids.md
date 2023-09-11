@@ -7,8 +7,6 @@ category: noticias
 ---
 # II RETIRO LITERARIO 
 
-# de Droids & Druids
-
 ¡Volvemos a nuestro retiro literario! Después del éxito de la primera edición en 2022, estábamos deseando repetirlo.
 
 Esta segunda edición tendrá lugar en el mismo lugar del **viernes 20 al domingo 22 de octubre** en el mismo albergue de la primera edición: en primera línea de playa, **el Albergue Juvenil Argentina situado en Benicassim**.
@@ -43,8 +41,6 @@ La inscripción al retiro se abrirá mediante formulario hasta el día 17 de Sep
 En la inscripción se podrá indicar con qué otra persona se quiere compartir la habitación y trataremos de no separar grupos al adjudicar plazas, pero os rogamos que hagáis la reserva al mismo tiempo para evitar caos.
 
 En el caso de que las inscripciones superen las plazas se abrirá lista de espera (y según el interés, trataremos de ampliar algunas plazas). 
-
-
 
 ##### RESERVA (10 euros - hasta el 24 de septiembre)
 
