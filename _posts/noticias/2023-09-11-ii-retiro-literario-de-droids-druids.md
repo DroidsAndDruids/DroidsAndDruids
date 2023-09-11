@@ -20,9 +20,7 @@ Durante este fin de semana,  nos dedicaremos a la escritura y la literatura con
 * Recitales en la playa
 * Juegos de creatividad
 
-  ![](/public/images/captura-de-pantalla-2023-09-11-a-las-17.32.03.png)
 
-  ![](/public/images/captura-de-pantalla-2023-09-11-a-las-17.31.46.png)
 
 La gestión del retiro se hará mediante nuestra Asociación Droids & Druids. Para garantizar que sigue siendo un retiro pequeño y tranquilo contaremos con **solamente 20 personas: 16 plazas para asistentes (y 4 para la organización)**. 
 
