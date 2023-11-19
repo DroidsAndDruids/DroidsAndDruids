@@ -28,7 +28,7 @@ En 2020 ganó el I Certamen Malas Artes con *Sin horizonte,* una novela de fan
 
 Autora murciana de relatos cortos publicados en Lektu. También ha publicado **El ilustrador paciente** (Valhalla Ediciones, 2022) y forma parte del equipo de Dentro del monolito.
 
-## [G﻿aliano, Ins](http://inesgaliano.com/)
+## [G﻿aliano, Ines](http://inesgaliano.com/)
 
 *Parte del equipo de Droids & Druids.* Ha publicado la novela de fantasía ***La luna de Gathelic*** (Ed. Malas Artes, 2021), **Vallparadis** (relato autopublicado), la novelette de cifi ***Susanna Blue*** (Ed. Pluma y Píxel, 2022) y **Proyecto Ketchup**, (Obscura editorial, 2022) una novela de terror có(s)mico que ha ganado el Premio Ignotus 2023 de novela y ha estado nominada al premio Kelvin del Festival Celsius 2023.
 
@@ -65,13 +65,9 @@ Nacida y criada en Murcia, Judit Da Silva es autora de las novelas románticas *
 
 *Parte del equipo de Droids & Druids.* Ha publicado varios relatos en su web *[Escrito por](https://escritopor.elenatorro.com/),* como **Headlink** o **la Daga de Dagrun**. También tiene la antología de relatos [Señoras galácticas buscan bestias cósmicas](https://lektu.com/l/elena-torro/senoras-galacticas-buscan-bestias-cosmicas/20461).
 
-
-
 #### **Y por supuesto, podéis también leer alguna cosilla nuestra, que también somos murcianas :)**
 
 * #### **[Elena Torró](https://escritopor.elenatorro.com/):**
-
-
 * #### **[Inés Galiano](http://inesgaliano.com/):**
 
   Ha publicado la novela de fantasía ***La luna de Gathelic*** (Ed. Malas Artes, 2021), Vallparadis (relato autopublicado) y pronto saldrá la novelette de cifi ***Susanna Blue*** (Ed. Pluma y Píxel, 2022).
