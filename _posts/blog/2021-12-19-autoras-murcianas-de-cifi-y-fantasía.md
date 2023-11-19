@@ -2,16 +2,17 @@
 layout: blog
 title: Autoras murcianas de ciencia ficción y fantasía
 author:
-  - id: ines-galiano
-    name: Inés Galiano
-    link: ""
+  - id: equipo
+    name: Equipo Droids & Druids
 tags:
   - tag: autoras
 date: 2021-12-20T06:40:40.938Z
 description: Investigamos y elaboramos una lista de autoras murcianas de cifi y fantasía
 category: blog
 ---
-Organizando nuestro primer evento en vivo de droides y druidas, comencé a investigar autoras murcianas de fantasía y ciencia ficción para entrevistarlas en directo en la cafetería Ítaca. Con esta búsqueda descubrí bastante más autoras de las que conocíamos y pensé que era una buena idea recopilarlas, para que más personas puedan descubrirlas :)
+Organizando nuestro primer evento en vivo de droides y druidas, comenzamos a investigar autoras murcianas de fantasía y ciencia ficción para entrevistarlas en directo. Con esta búsqueda descubrimos bastante más autoras de las que conocíamos y pensamos que era una buena idea recopilarlas, para que más personas puedan descubrirlas :)
+
+¡L﻿a vamos actualizando poco a poco! 
 
 ## **Autoras murcianas de ciencia ficción y fantasía.**
 
@@ -25,7 +26,11 @@ En 2020 ganó el I Certamen Malas Artes con *Sin horizonte,* una novela de fan
 
 ## [Escobar, Lorena](https://lektu.com/e/lorena-escobar/2672?af=leo)
 
-Autora murciana de relatos cortos publicados en Lektu.
+Autora murciana de relatos cortos publicados en Lektu. También ha publicado **El ilustrador paciente** (Valhalla Ediciones, 2022) y forma parte del equipo de Dentro del monolito.
+
+## [G﻿aliano, Ins](http://inesgaliano.com/)
+
+*Parte del equipo de Droids & Druids.* Ha publicado la novela de fantasía ***La luna de Gathelic*** (Ed. Malas Artes, 2021), **Vallparadis** (relato autopublicado), la novelette de cifi ***Susanna Blue*** (Ed. Pluma y Píxel, 2022) y **Proyecto Ketchup**, (Obscura editorial, 2022) una novela de terror có(s)mico que ha ganado el Premio Ignotus 2023 de novela y ha estado nominada al premio Kelvin del Festival Celsius 2023.
 
 ## [Galvañ, Ana ](https://anagalvan.com/)
 
@@ -56,11 +61,17 @@ Autora de Cartagena nacida en 1878. Escribió ***Zezé,*** la primera novela en 
 
 Nacida y criada en Murcia, Judit Da Silva es autora de las novelas románticas ***Volver a Encontrarnos***, el primer libro de la saga Bishopstoke, bajo la editorial Romantic, y ***Fuego***, el segundo libro de la saga. También ha publicado la bilogía ***[El ocaso del mundo](https://www.edicionesfreya.com/product-tag/judit-da-silva/)*** con Ed. Freya.
 
+## [Torr, Elena](https://elenatorro.com/)
+
+*Parte del equipo de Droids & Druids.* Ha publicado varios relatos en su web *[Escrito por](https://escritopor.elenatorro.com/),* como **Headlink** o **la Daga de Dagrun**. También tiene la antología de relatos [Señoras galácticas buscan bestias cósmicas](https://lektu.com/l/elena-torro/senoras-galacticas-buscan-bestias-cosmicas/20461).
+
+
+
 #### **Y por supuesto, podéis también leer alguna cosilla nuestra, que también somos murcianas :)**
 
 * #### **[Elena Torró](https://escritopor.elenatorro.com/):**
 
-  Ha publicado varios relatos en su web *[Escrito por](https://escritopor.elenatorro.com/),* como **Headlink** o **la Daga de Dagrun**. 
+
 * #### **[Inés Galiano](http://inesgaliano.com/):**
 
   Ha publicado la novela de fantasía ***La luna de Gathelic*** (Ed. Malas Artes, 2021), Vallparadis (relato autopublicado) y pronto saldrá la novelette de cifi ***Susanna Blue*** (Ed. Pluma y Píxel, 2022).
