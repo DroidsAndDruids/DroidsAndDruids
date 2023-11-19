@@ -26,7 +26,7 @@ En 2020 ganó el I Certamen Malas Artes con *Sin horizonte,* una novela de fan
 
 ## [Escobar, Lorena](https://lektu.com/e/lorena-escobar/2672?af=leo)
 
-Autora murciana de relatos cortos publicados en Lektu. También ha publicado **El ilustrador paciente** (Valhalla Ediciones, 2022) y forma parte del equipo de Dentro del monolito.
+Autora murciana de relatos cortos publicados en Lektu. También ha publicado **El ilustrador paciente** (Valhalla Ediciones, 2022) y forma parte del equipo de Dentro del monolito. 
 
 ## [G﻿aliano, Ines](http://inesgaliano.com/)
 
