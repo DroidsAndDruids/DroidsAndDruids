@@ -61,13 +61,6 @@ Autora de Cartagena nacida en 1878. Escribió ***Zezé,*** la primera novela en 
 
 Nacida y criada en Murcia, Judit Da Silva es autora de las novelas románticas ***Volver a Encontrarnos***, el primer libro de la saga Bishopstoke, bajo la editorial Romantic, y ***Fuego***, el segundo libro de la saga. También ha publicado la bilogía ***[El ocaso del mundo](https://www.edicionesfreya.com/product-tag/judit-da-silva/)*** con Ed. Freya.
 
-## [Torr, Elena](https://elenatorro.com/)
+## [Torro, Elena](https://elenatorro.com/)
 
 *Parte del equipo de Droids & Druids.* Ha publicado varios relatos en su web *[Escrito por](https://escritopor.elenatorro.com/),* como **Headlink** o **la Daga de Dagrun**. También tiene la antología de relatos [Señoras galácticas buscan bestias cósmicas](https://lektu.com/l/elena-torro/senoras-galacticas-buscan-bestias-cosmicas/20461).
-
-#### **Y por supuesto, podéis también leer alguna cosilla nuestra, que también somos murcianas :)**
-
-* #### **[Elena Torró](https://escritopor.elenatorro.com/):**
-* #### **[Inés Galiano](http://inesgaliano.com/):**
-
-  Ha publicado la novela de fantasía ***La luna de Gathelic*** (Ed. Malas Artes, 2021), Vallparadis (relato autopublicado) y pronto saldrá la novelette de cifi ***Susanna Blue*** (Ed. Pluma y Píxel, 2022).
