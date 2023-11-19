@@ -30,7 +30,7 @@ Autora murciana de relatos cortos publicados en Lektu. También ha publicado **E
 
 ## [G﻿aliano, Ines](http://inesgaliano.com/)
 
-*Parte del equipo de Droids & Druids.* Ha publicado la novela de fantasía ***La luna de Gathelic*** (Ed. Malas Artes, 2021), **Vallparadis** (relato autopublicado), la novelette de cifi ***Susanna Blue*** (Ed. Pluma y Píxel, 2022) y **Proyecto Ketchup**, (Obscura editorial, 2022) una novela de terror có(s)mico que ha ganado el Premio Ignotus 2023 de novela y ha estado nominada al premio Kelvin del Festival Celsius 2023.
+*Parte del equipo de Droids & Druids.* Estudió Traducción y Comunicación Audiovisual.Ha publicado la novela de fantasía ***La luna de Gathelic*** (Ed. Malas Artes, 2021), **Vallparadis** (relato autopublicado), la novelette de cifi ***Susanna Blue*** (Ed. Pluma y Píxel, 2022) y **Proyecto Ketchup**, (Obscura editorial, 2022) una novela de terror có(s)mico que ha ganado el Premio Ignotus 2023 de novela y ha estado nominada al premio Kelvin del Festival Celsius 2023.
 
 ## [Galvañ, Ana ](https://anagalvan.com/)
 
@@ -38,6 +38,10 @@ Autora de cómics e ilustradora murciana. Tras su paso por la Facultad de Bellas
 
 * GALVAÑ es el apellido auténtico con "eñe", no una licencia artística.
 * ##### La hemos entrevistado en nuestro **club de lectura, en el [EPISODIO 1x10](https://deploy-preview-78--droidsanddruids.netlify.app/podcast/2021/04/11/d-d-1x10-cl-pulse-enter-para-continuar.html), sobre el cómic *Pulse enter para continuar***
+
+## [P﻿ascual del Riquelme, Consuelo](https://www.todostuslibros.com/autor/pascual-del-riquelme-consuelo)
+
+A﻿utora murciana graduada en Historia del arte y profesora. En 2011, recibió el primer premio del Concurso Literario de Relato Histórico, que organizó la Real Academia de Alfonso X el Sabio. En 2019, publica Crónicas de la Señora de Lunamore (Editorial Munyx), una saga de fantasa.
 
 ## [Martínez Barquero, Isabel](https://elcobijodeunadesalmada.blogspot.com/)
 
