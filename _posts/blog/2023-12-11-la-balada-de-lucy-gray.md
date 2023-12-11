@@ -27,7 +27,7 @@ al atardecer me aventuraba,  
 
 en busca de la niña solitaria. 
 
-
+ ﻿
 
 Ni amigos ni colegas Lucy tuvo, 
 
@@ -37,7 +37,7 @@ la cosa más dulce que creció 
 
 junto a un hogar humano. 
 
-
+ ﻿
 
 Aún los Cervatillos jugando,
 
@@ -47,7 +47,7 @@ pero la dulce cara de Lucy Gray contemplar,  
 
 nunca más podrás.
 
-
+ ﻿
 
 “Esta noche habrá tormenta, 
 
@@ -57,7 +57,7 @@ toma una linterna, Niña, para iluminar 
 
 a tu Madre por la nieve”. 
 
-
+ ﻿
 
 “¡Eso, Padre, con gusto haré!
 
@@ -67,7 +67,7 @@ que ya está aquí la luna 
 
 y el reloj de la catedral da las dos”
 
-
+ ﻿
 
 Con esto el Padre levantó su gancho, 
 
@@ -77,7 +77,7 @@ hizo un atillo y Lucy tomó 
 
 en sus manos la linterna.
 
-
+ ﻿
 
 Con descuido el corzo de la montaña,
 
@@ -87,7 +87,7 @@ en la espesa nieve con los pies tropezó, 
 
 que se elevaba como el humo.
 
-
+ ﻿
 
 La tormenta llegó antes de tiempo,
 
@@ -97,7 +97,7 @@ y muchas colinas Lucy subió,
 
 pero nunca alcanzó el Pueblo.
 
-
+ ﻿
 
 Desdichados los padres toda la noche,
 
@@ -107,7 +107,7 @@ pero nunca hubo vista o sonido  
 
 que una pista les diera.
 
-
+ ﻿
 
 El amanecer los encontró en una colina,
 
@@ -117,7 +117,7 @@ desde allí el puente de madera observaron 
 
 a pocos metros del hogar. 
 
-
+ ﻿
 
 “¡En el cielo nos encontraremos!”
 
@@ -127,7 +127,7 @@ Cuando la madre en la nieve observó
 
 La huella de los pies de Lucy.
 
-
+ ﻿
 
 Descendieron por la empinada colina, 
 
@@ -137,7 +137,7 @@ por los caminos de setos se dirigieron, 
 
 y a través de los muros de piedra.
 
-
+ ﻿
 
 Cruzaron una explanada, 
 
@@ -147,7 +147,7 @@ los padres no se perdieron 
 
 hasta que llegaron al puente. 
 
-
+ ﻿
 
 Por la nieve las pisadas,
 
@@ -157,7 +157,7 @@ hasta que desaparecieron, 
 
 en la mitad de una tabla.
 
-
+ ﻿
 
 Todavía dicen algunos,
 
@@ -167,7 +167,7 @@ tal vez a la dulce Lucy verá,
 
 en la solitaria naturaleza.   
 
-
+ ﻿
 
 Por obstáculos y caminos
 
@@ -177,7 +177,7 @@ una solitaria melodía tararea, 
 
 que silba al viento.
 
-
+ ﻿
 
 El poema se basa en un hecho real, pero Wordsworth cambió el relato para que en su poema el cuerpo nunca fuera encontrado. El poeta escribió:
 
