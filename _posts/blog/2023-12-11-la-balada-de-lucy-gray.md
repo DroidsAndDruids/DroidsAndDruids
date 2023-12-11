@@ -1,6 +1,9 @@
 ---
 layout: blog
 title: La balada de Lucy Gray
+author:
+  - id: equipo
+    name: equipo
 date: 2023-12-11T12:21:01.015Z
 description: Suzanne Collins se sirvió de un poema de 1799 llamado Lucy Gray
   como inspiración para escribir esta precuela de Los juegos del hambre.
