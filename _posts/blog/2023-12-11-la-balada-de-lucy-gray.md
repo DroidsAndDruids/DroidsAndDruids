@@ -11,13 +11,11 @@ category: blog
 ---
 Como comentamos en el Episodio especial sobre Los juegos del hambre: Balada de pájaros cantores y serpientes que podéis escuchar en ***[Ivoox](https://go.ivoox.com/rf/120841277)***, Suzanne Collins se sirvió de un poema llamado Lucy Gray como inspiración para escribir esta precuela de la trilogía.
 
-Este poema fue escrito por William Wordswroth en 1799 y publicado en Lyrical Ballads. Describe la desaparición de una niña llamada Lucy Gray, que se perdió en una tormenta de nieve y no se la volvió a ver. El poema original puede encontrarse en ***[Wikipedia](<https://en.wikipedia.org/wiki/Lucy_Gray>)*** 
+Este poema fue escrito por William Wordswroth en 1799 y publicado en Lyrical Ballads. Describe la desaparición de una niña llamada Lucy Gray, que se perdió en una tormenta de nieve y no se la volvió a ver. El poema original puede encontrarse en ***[Wikipedia](https://en.wikipedia.org/wiki/Lucy_Gray)*** 
 
 Os dejamos más abajo la traducción de Inés Galiano del poema.
 
 Nota de la traductora: Con la intención de trasladar el tono poético del romanticismo, he tratado de mantener la rima, cambiando algunos versos de orden para adaptarlo al castellano. El original mantiene estrofas con rima ABAB, mientras que en esta traducción he seguido una estructura ABBC. 
-
-
 
 ### Lucy Gray (O la soledad)
 
@@ -133,8 +131,6 @@ hasta que desaparecieron, 
 
 en la mitad de una tabla.
 
- 
-
 Todavía dicen algunos,
 
 que la niña aún vivirá,
@@ -150,8 +146,6 @@ sin mirar atrás, ella pasea, 
 una solitaria melodía tararea, 
 
 que silba al viento.
-
-
 
 El poema se basa en un hecho real, pero Wordsworth cambió el relato para que en su poema el cuerpo nunca fuera encontrado. El poeta escribió:
 
