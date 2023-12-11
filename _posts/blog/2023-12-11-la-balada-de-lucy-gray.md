@@ -27,8 +27,6 @@ al atardecer me aventuraba,  
 
 en busca de la niña solitaria. 
 
- ﻿
-
 Ni amigos ni colegas Lucy tuvo, 
 
 en el páramo salvaje vivió, 
@@ -36,8 +34,6 @@ en el páramo salvaje vivió, 
 la cosa más dulce que creció 
 
 junto a un hogar humano. 
-
- ﻿
 
 Aún los Cervatillos jugando,
 
@@ -47,8 +43,6 @@ pero la dulce cara de Lucy Gray contemplar,  
 
 nunca más podrás.
 
- ﻿
-
 “Esta noche habrá tormenta, 
 
 en el Pueblo te debes presentar,  
@@ -56,8 +50,6 @@ en el Pueblo te debes presentar,  
 toma una linterna, Niña, para iluminar 
 
 a tu Madre por la nieve”. 
-
- ﻿
 
 “¡Eso, Padre, con gusto haré!
 
@@ -67,8 +59,6 @@ que ya está aquí la luna 
 
 y el reloj de la catedral da las dos”
 
- ﻿
-
 Con esto el Padre levantó su gancho, 
 
 y una correa soltó, 
@@ -76,8 +66,6 @@ y una correa soltó, 
 hizo un atillo y Lucy tomó 
 
 en sus manos la linterna.
-
- ﻿
 
 Con descuido el corzo de la montaña,
 
@@ -87,8 +75,6 @@ en la espesa nieve con los pies tropezó, 
 
 que se elevaba como el humo.
 
- ﻿
-
 La tormenta llegó antes de tiempo,
 
 arriba y abajo vueltas ella dio,
@@ -96,8 +82,6 @@ arriba y abajo vueltas ella dio,
 y muchas colinas Lucy subió,
 
 pero nunca alcanzó el Pueblo.
-
- ﻿
 
 Desdichados los padres toda la noche,
 
@@ -107,8 +91,6 @@ pero nunca hubo vista o sonido  
 
 que una pista les diera.
 
- ﻿
-
 El amanecer los encontró en una colina,
 
 el páramo contemplaron, 
@@ -116,8 +98,6 @@ el páramo contemplaron, 
 desde allí el puente de madera observaron 
 
 a pocos metros del hogar. 
-
- ﻿
 
 “¡En el cielo nos encontraremos!”
 
@@ -127,8 +107,6 @@ Cuando la madre en la nieve observó
 
 La huella de los pies de Lucy.
 
- ﻿
-
 Descendieron por la empinada colina, 
 
 las pequeñas pisadas siguieron, 
@@ -136,8 +114,6 @@ las pequeñas pisadas siguieron, 
 por los caminos de setos se dirigieron, 
 
 y a través de los muros de piedra.
-
- ﻿
 
 Cruzaron una explanada, 
 
@@ -147,8 +123,6 @@ los padres no se perdieron 
 
 hasta que llegaron al puente. 
 
- ﻿
-
 Por la nieve las pisadas,
 
 una a una siguieron, 
@@ -156,8 +130,6 @@ una a una siguieron, 
 hasta que desaparecieron, 
 
 en la mitad de una tabla.
-
- ﻿
 
 Todavía dicen algunos,
 
@@ -167,8 +139,6 @@ tal vez a la dulce Lucy verá,
 
 en la solitaria naturaleza.   
 
- ﻿
-
 Por obstáculos y caminos
 
 sin mirar atrás, ella pasea, 
@@ -177,8 +147,6 @@ una solitaria melodía tararea, 
 
 que silba al viento.
 
- ﻿
-
 El poema se basa en un hecho real, pero Wordsworth cambió el relato para que en su poema el cuerpo nunca fuera encontrado. El poeta escribió:
 
-“Escrito en Goslar, Alemania. Inspirado tras los eventos relatados por mi hermana sobre una niña que, cerca de Halifax, Yorkshire, se perdió en una tormenta de nieve. Sus pisadas fueron rastreadas por sus padres hasta el centro hasta la esclusa de un canal, y no se encontraron más pistas hacia delante o hacia atrás. El cuerpo fue encontrado en el canal”.
+“Escrito en Goslar, Alemania. Inspirado tras los eventos relatados por mi hermana sobre una niña que, cerca de Halifax, Yorkshire, se perdió en una tormenta de nieve. Sus pisadas fueron rastreadas por sus padres hasta el centro de la esclusa de un canal, y no se encontraron más pistas hacia delante o hacia atrás. El cuerpo fue encontrado en el canal”.
