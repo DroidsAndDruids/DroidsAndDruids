@@ -27,6 +27,8 @@ al atardecer me aventuraba,  
 
 en busca de la niña solitaria. 
 
+
+
 Ni amigos ni colegas Lucy tuvo, 
 
 en el páramo salvaje vivió, 
