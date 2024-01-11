@@ -112,9 +112,9 @@ collections:
         fields:
           - {label: Title, name: title, widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Programa"
-        name: "programa-terramur-2023"
-        file: "programa-terramur-2023.md"
+      - label: "Terramur"
+        name: "programa-terramur-2024"
+        file: "programa-terramur-2024.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}

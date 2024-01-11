@@ -13,3 +13,8 @@ social:
   twitter:        https://twitter.com/DroidsAndDruids
   instagram:      https://www.instagram.com/droidsanddruids/
   github:         https://github.com/DroidsAndDruids
+
+
+exclude:
+  - .vscode/
+  - .github/
