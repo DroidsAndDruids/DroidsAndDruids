@@ -37,9 +37,7 @@ Dentro de poco publicaremos el programa definitivo. Contaremos, al igual que el 
 
 ¿Quieres ser voluntarie?
 
-E﻿scribe a droidsanddruids@gmail.com
-
-[﻿](https://forms.gle/b5kX2Mbojyiu5y8o8)[](https://forms.gle/b5kX2Mbojyiu5y8o8)
+E﻿scribe a droidsanddruids@gmail.com[﻿](https://forms.gle/b5kX2Mbojyiu5y8o8)[](https://forms.gle/b5kX2Mbojyiu5y8o8)
 
 ### PACKS MECENAS
 
