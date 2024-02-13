@@ -7,7 +7,7 @@ category: blog
 ---
 ¿Quieres aprender algo nuevo o jugar a un emocionante juego? ¡Apúntate a los talleres del Terramur!
 
-Estos talleres son **GRATUITOS** pero tienen un aforo reducido. P﻿ara inscribirte, [USA ESTE FORMULARIO](https://forms.gle/KUcH27bjuk5KNFuQ6)
+Estos talleres son **GRATUITOS** pero tienen un aforo reducido. P﻿ara inscribirte [USA ESTE FORMULARIO](https://forms.gle/KUcH27bjuk5KNFuQ6)
 
 Selecciona los talleres a los que quieres asistir en tu orden de preferencia. Se asignarán las plazas por orden de llegada. 
 
