@@ -7,7 +7,6 @@ description: Llega la segunda edición del Festival Terramur, el festival de
   Druids
 category: noticias
 ---
-
 El año pasado organizamos el primer festival Terramur, nuestro primer evento presencial. ¡Y este año repetimos!
 
 [Más información del Terramur 2023](/noticias/2023/01/07/llega-el-festival-terramur.html)
@@ -20,16 +19,16 @@ Dentro de poco publicaremos el programa definitivo. Contaremos, al igual que el 
 
 ### GALA DE PREMIOS DROIDE Y DRUIDA
 
-Muy pronto daremos más información sobre los premios de este año.
+[V﻿ota y descubre los finalistas.](https://droidsanddruids.com/blog/2024/02/07/premios-terramur-2023-los-premios-droide-y-druida)
 
 ### VOLUNTARIOS
 
 ¿Quieres ser voluntarie?
 
-Apreciaremos mucho la ayuda. Abrimos bloques de 2,5h para ayudar (en los puestos de bienvenida, repartir programas e indicar direcciones, avisar a los ponentes del tiempo que queda, colocar sillas y carteles,  repartir el agua a los ponentes, etc.)
+E﻿scribe a droidsanddruids@gmail.com
 
-[Apúntate aquí ](https://forms.gle/b5kX2Mbojyiu5y8o8)[](https://forms.gle/b5kX2Mbojyiu5y8o8)
+[﻿](https://forms.gle/b5kX2Mbojyiu5y8o8)[](https://forms.gle/b5kX2Mbojyiu5y8o8)
 
 ### PACKS MECENAS
 
-Pronto anunciaremos los packs mecenas
+E﻿l Festival Terramur es un evento completamente autofinanciado por la entidad sin animo de lucro Droids & Druids. Agradecemos tu apoyo con [los Packs de Mecenas](https://droidsanddruids.sumupstore.com/producto/pack-mecenas-terramur). ¡Y consigue regalos exclusivos!
