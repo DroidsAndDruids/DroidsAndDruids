@@ -7,7 +7,7 @@ category: blog
 ---
 ¿Quieres aprender algo nuevo o jugar a un emocionante juego? ¡Apúntate a los talleres del Terramur!
 
-Estos talleres son **GRATUITOS** pero tienen un aforo reducido. P﻿ara inscribirte, [USA ESTE FORMULARIO](https://forms.gle/KUcH27bjuk5KNFuQ6)
+Estos talleres son **GRATUITOS** pero tienen un aforo reducido. P﻿ara inscribirte [USA ESTE FORMULARIO](https://forms.gle/KUcH27bjuk5KNFuQ6)
 
 Selecciona los talleres a los que quieres asistir en tu orden de preferencia. Se asignarán las plazas por orden de llegada. 
 
@@ -50,7 +50,7 @@ con Ana M Navarro, profesora de Traducción de la Universidad de Murcia
 
 ##### Taller “Enriquece tus historias con el tarot”
 
-con Alicia Pérez Gil, profesora de La Escribeteca
+con Alicia Pérez Gil, profesora de [La Escribeteca](https://www.laescribeteca.com/)
 
 **SÁBADO 23 de Marzo de 10:00 a 10:45 (45 min)**
 
@@ -62,7 +62,7 @@ con Inés Alcolea
 
 ##### Taller “Escritura Creativa” 
 
-con Julia de la Fuente, profesora en la Academia Literatura Juvenil para Escritores
+con Julia de la Fuente, profesora en la [Academia Literatura Juvenil para Escritores](https://www.literaturajuvenilparaescritores.com/academia-para-escritores/)
 
 **SÁBADO 23 de Marzo de 12:45 a 13:30 (45 min)**
 
@@ -82,4 +82,4 @@ Rol en vivo ambientado en la Leyenda de los Cinco Anillos y el famoso juego de m
 
 \*﻿
 
-Estos talleres son **GRATUITOS** pero tienen un aforo reducido. P﻿ara inscribirte, [USA ESTE FORMULARIO](https://forms.gle/KUcH27bjuk5KNFuQ6)
+Estos talleres son **GRATUITOS** pero tienen un aforo reducido. P﻿ara inscribirte [USA ESTE FORMULARIO](https://forms.gle/KUcH27bjuk5KNFuQ6)
