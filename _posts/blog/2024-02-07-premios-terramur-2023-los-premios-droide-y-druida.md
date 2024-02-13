@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Premios Terramur 2023: los premios Droide y Druida "
+title: "Premios Terramur 2024: los premios Droide y Druida "
 date: 2024-02-07T18:52:07.399Z
 description: ¡Vuelven los premios de la revista Droids & Druids! Abrimos
   votaciones de público y jurado.
