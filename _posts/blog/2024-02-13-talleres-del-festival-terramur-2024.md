@@ -82,4 +82,4 @@ Rol en vivo ambientado en la Leyenda de los Cinco Anillos y el famoso juego de m
 
 \*﻿
 
-Estos talleres son **GRATUITOS** pero tienen un aforo reducido. P﻿ara inscribirte, [USA ESTE FORMULARIO](https://forms.gle/KUcH27bjuk5KNFuQ6)
+Estos talleres son **GRATUITOS** pero tienen un aforo reducido. P﻿ara inscribirte [USA ESTE FORMULARIO](https://forms.gle/KUcH27bjuk5KNFuQ6)
