@@ -11,7 +11,9 @@ Estos talleres son **GRATUITOS** pero tienen un aforo reducido. P﻿ara inscrib
 
 Selecciona los talleres a los que quieres asistir en tu orden de preferencia. Se asignarán las plazas por orden de llegada. 
 
-### JUEVES
+### JUEVES 
+
+📍En Librería 7 Héroes
 
 ##### MINI RETIRO DE ESCRITURA DE DROIDS & DRUIDS
 
@@ -28,6 +30,8 @@ con Mireia Pérez
 **JUEVES 21 de Marzo en la Librería 7 Héroes de 18:30 a 20:00 (1,5h-2h).**
 
 ### VIERNES
+
+📍En Centro Puertas de Castilla
 
 ##### TALLER “Worldbuilding en minúsculas” 
 
@@ -47,6 +51,8 @@ con Ana M Navarro, profesora de Traducción de la Universidad de Murcia
 **VIERNES 22 de Marzo de 19:15 a 20:00 (45 min)**
 
 ### SÁBADO
+
+📍En Centro Puertas de Castilla
 
 ##### Taller “Enriquece tus historias con el tarot”
 
