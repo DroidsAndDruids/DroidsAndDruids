@@ -68,7 +68,7 @@ con Inés Alcolea
 
 * ##### Taller “Escritura Creativa” 
 
-con Julia de la Fuente, profesora en la [Academia Literatura Juvenil para Escritores](https://www.literaturajuvenilparaescritores.com/academia-para-escritores/)
+con [Julia de la Fuente](https://juliadelafuente.es/), autora yprofesora en la [Academia Literatura Juvenil para Escritores](https://www.literaturajuvenilparaescritores.com/academia-para-escritores/)
 
 **SÁBADO 23 de Marzo de 12:45 a 13:30 (45 min)**
 
