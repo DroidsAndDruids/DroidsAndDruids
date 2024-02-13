@@ -19,7 +19,7 @@ Dentro de poco publicaremos el programa definitivo. Contaremos, al igual que el 
 
 ### TALLERES
 
-[Y﻿a puedes inscribirte a los talleres de escritura del festival.](https://forms.gle/iHtdbeiAAs87oXYX9)
+[Y﻿a puedes inscribirte a los talleres de escritura del festival.](https://droidsanddruids.com/blog/2024/02/13/talleres-del-festival-terramur-2024)
 
 ### GALA DE PREMIOS DROIDE Y DRUIDA
 
