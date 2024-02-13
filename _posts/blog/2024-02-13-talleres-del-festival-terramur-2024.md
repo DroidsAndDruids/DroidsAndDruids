@@ -42,7 +42,7 @@ con Raúl Alcantarilla\
 
 con Rafa Díaz 
 
- **VIERNES 22 de Marzo de 19 a 21:30 (45 min)**
+ **VIERNES 22 de Marzo de 18:20 a 19:05 (45 min)**
 
 * ##### Taller “Traducción terminología fantástica” 
 
