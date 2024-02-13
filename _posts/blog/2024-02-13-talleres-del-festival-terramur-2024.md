@@ -11,12 +11,9 @@ Estos talleres son **GRATUITOS** pero tienen un aforo reducido. P﻿ara inscrib
 
 Selecciona los talleres a los que quieres asistir en tu orden de preferencia. Se asignarán las plazas por orden de llegada. 
 
-
-
 ### JUEVES
 
-##### \
-MINI RETIRO DE ESCRITURA DE DROIDS & DRUIDS
+##### MINI RETIRO DE ESCRITURA DE DROIDS & DRUIDS
 
 ¡Ven a escribir un relato con droides y druidas! Saldrás con una pieza escrita para enviar a revistas literarias. Incluye 2 actividades que se complementan:
 
@@ -34,8 +31,6 @@ con Mireia Pérez
 
 ### VIERNES
 
-
-
 ##### TALLER “Worldbuilding en minúsculas” 
 
 con Raúl Alcantarilla\
@@ -47,19 +42,13 @@ con Rafa Díaz 
 
  **VIERNES 22 de Marzo de 19 a 21:30 (45 min)**
 
-
-
 ##### Taller “Traducción terminología fantástica” 
 
 con Ana M Navarro, profesora de Traducción de la Universidad de Murcia
 
 **VIERNES 22 de Marzo de 19:15 a 20:00 (45 min)**
 
-
-
 ### SÁBADO
-
-
 
 ##### Taller “Enriquece tus historias con el tarot”
 
@@ -67,15 +56,11 @@ con Alicia Pérez Gil, profesora de La Escribeteca
 
 **SÁBADO 23 de Marzo de 10:00 a 10:45 (45 min)**
 
-
-
 ##### **Taller “Introducción al relato breve”** 
 
 con Inés Alcolea
 
 **SÁBADO 23 de Marzo de 10:55 a 11:40 (45 min)**
-
-
 
 ##### Taller “Escritura Creativa” 
 
@@ -83,15 +68,11 @@ con Julia de la Fuente, profesora en la Academia Literatura Juvenil para Escrito
 
 **SÁBADO 23 de Marzo de 12:45 a 13:30 (45 min)**
 
-
-
 ##### Taller “Elige tu Propia Aventura (ETPA) - Teatro Edition” 
 
 con Pablo Medina y Rocío Brea
 
 **SÁBADO 23 de Marzo de 13:40 a 14:25 (45 min)**
-
-
 
 ##### ACTIVIDAD ROL EN VIVO/CLUEDO 
 
