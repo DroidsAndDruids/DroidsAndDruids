@@ -17,7 +17,7 @@ Tras la gran aceptación que tuvo el evento, este año 2024 repetimos, y en esta
 
 📍OFF TERRAMUR JUEVES 21: [Librería 7 Héroes](https://maps.app.goo.gl/pjuZxAbHfiuqZxf49)
 
-📍FESTIVAL TERRAMUR VIERNES Y SÁBADO: [Centro Puertas de Castilla](https://maps.app.goo.gl/LoHPepPNAYMauJYy6)
+📍FESTIVAL TERRAMUR VIERNES 22 Y SÁBADO 23: [Centro Puertas de Castilla](https://maps.app.goo.gl/LoHPepPNAYMauJYy6)
 
 📍OFF TERRAMUR DOMINGO 24: Sala de conferencias [Hotel Legazpi](https://maps.app.goo.gl/CpQ42w35MsLS9UBV6)
 
