@@ -25,9 +25,7 @@ con Jennifer Fuentes 
 
 con Mireia Pérez
 
-**JUEVES 21 de Marzo en la Librería 7 Héroes de 18:30 a 20:00 (1,5h).**
-
-
+**JUEVES 21 de Marzo en la Librería 7 Héroes de 18:30 a 20:00 (1,5h-2h).**
 
 ### VIERNES
 
