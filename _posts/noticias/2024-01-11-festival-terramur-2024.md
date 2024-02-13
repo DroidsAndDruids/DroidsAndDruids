@@ -11,7 +11,15 @@ El año pasado organizamos el primer festival Terramur, nuestro primer evento pr
 
 [Más información del Terramur 2023](/noticias/2023/01/07/llega-el-festival-terramur.html)
 
-Tras la gran aceptación que tuvo el evento, este año 2024 repetimos, y en esta ocasión lo haremos en el Centro Cultural Puertas de Castilla.
+Tras la gran aceptación que tuvo el evento, este año 2024 repetimos, y en esta ocasión lo haremos en el Centro Cultural Puertas de Castilla y otras dos sedes Off Terramur.
+
+### S﻿EDES
+
+📍OFF TERRAMUR JUEVES 21: [Librería 7 Héroes](https://maps.app.goo.gl/pjuZxAbHfiuqZxf49)
+
+📍FESTIVAL TERRAMUR VIERNES Y SÁBADO: [Centro Puertas de Castilla](https://maps.app.goo.gl/LoHPepPNAYMauJYy6)
+
+📍OFF TERRAMUR DOMINGO 24: Sala de conferencias [Hotel Legazpi](https://maps.app.goo.gl/CpQ42w35MsLS9UBV6)
 
 ### PROGRAMA
 
