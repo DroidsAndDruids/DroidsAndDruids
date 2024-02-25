@@ -33,6 +33,16 @@ Dentro de poco publicaremos el programa definitivo. Contaremos, al igual que el 
 
 [V﻿ota y descubre los finalistas.](https://droidsanddruids.com/blog/2024/02/07/premios-terramur-2023-los-premios-droide-y-druida)
 
+¡﻿Ya tenemos sede para la Gala! 
+
+Es [necesario inscribirse previamente en este FORMULARIO](https://forms.gle/87fqCfNJWFEDjr6C9) y, posteriormente, **comprar la entrada** en el puesto de Droids & Druids del festival. Tiene un coste de 7 euros e incluye la consumición en el local (una copa o dos cervezas/refrescos). 
+
+No se podrá vender la entrada a quién no esté inscrito previamente (por aforo y porque el Room Club nos la tiene que hacer previamente).
+
+Te esperamos el viernes 22 a las 21:30. 
+
+📍 Room Club Murcia: C. Madre Esperanza, 3, 30005 Murcia
+
 ### VOLUNTARIOS
 
 ¿Quieres ser voluntarie?
