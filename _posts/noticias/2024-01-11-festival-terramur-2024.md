@@ -41,7 +41,7 @@ No se podrá vender la entrada a quién no esté inscrito previamente (por aforo
 
 Te esperamos el viernes 22 a las 21:30. 
 
-📍 Room Club Murcia: C. Madre Esperanza, 3, 30005 Murcia
+📍 Room Club Murcia: C. Madre Esperanza, 3, 30005 Murcia 
 
 ### VOLUNTARIOS
 
