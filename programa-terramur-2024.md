@@ -456,7 +456,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>11:30 - 12:25</td>
-          <td class="dd-table-talk"><strong>Podcast en directo: Travesura Realizada</strong><em>, con las furiosas Carla Plumed y Inés Galiano</em></td>
+          <td class="dd-table-talk"><strong>Podcast en directo: Travesura Realizada</strong></td>
         </tr>
         <tr height="150">
           <td>12:30 - 13:10</td>
