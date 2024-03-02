@@ -268,6 +268,12 @@ img.dd-logo {
   grid-template-columns: 50% 50%;
 }
 
+.dd-table-grid-3 {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: 35% 32% 32%;
+}
+
 .dd-table-grid-full {
   display: grid;
   grid-gap: 0;
@@ -298,9 +304,14 @@ tbody tr:nth-child(even) td.dd-table-event {
   background-color: #b0fbea;
 }
 
+tbody tr:nth-child(odd) td.dd-table-talk-2,
+tbody tr:nth-child(even) td.dd-table-talk-2 {
+  background-color: #fffaa9;
+}
+
 tbody tr:nth-child(odd) td.dd-table-extra,
 tbody tr:nth-child(even) td.dd-table-extra {
-  background-color: #f9f4ac;
+  background-color: #a9aeff;
 }
 
 
