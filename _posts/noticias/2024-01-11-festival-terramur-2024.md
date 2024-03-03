@@ -23,11 +23,11 @@ Tras la gran aceptación que tuvo el evento, este año 2024 repetimos, y en esta
 
 ### PROGRAMA
 
-Dentro de poco publicaremos el programa definitivo. Contaremos, al igual que el año pasado, con ponencias, mesas redondas y talleres.
+[Aquí puedes ver el programa completo](/programa-terramur-2024)
 
 ### TALLERES
 
-[Y﻿a puedes inscribirte a los talleres de escritura del festival.](https://droidsanddruids.com/blog/2024/02/13/talleres-del-festival-terramur-2024)
+[Ya puedes inscribirte a los talleres de escritura del festival](https://droidsanddruids.com/blog/2024/02/13/talleres-del-festival-terramur-2024)
 
 ### GALA DE PREMIOS DROIDE Y DRUIDA
 

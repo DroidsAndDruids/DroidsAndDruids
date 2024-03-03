@@ -8,7 +8,44 @@ order: 6
 ---
 {% tabs logterr %}
 
-{% tab logterr Viernes 21 %}
+{% tab logterr Jueves 21 %}
+
+### Tarde
+
+📍 Librería 7 Héroes (Calle de, C. Don Alfonso Palazón Clemares, 4)
+
+<div class="dd-table-grid dd-table-grid-full">
+  <div class="dd-column-grid">
+    <table class="dd-table-program">
+      <thead>
+        <tr height="150">
+          <th></th>
+          <th>Librería 7 Héroes
+          <p>
+            <a href="https://forms.gle/KUcH27bjuk5KNFuQ6">Inscripción obligatoria, ¡apúntate aquí!</a>
+          </p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr height="250">
+          <td>18:30 - 20:00</td>
+          <td class="dd-table-event">
+          <p>
+          <strong>Mini retiro de escritura:</strong> ¡Ven a escribir tu propio microrrelato con Droids&Druids! Contamos con dos talleres participativos:
+          </p>
+          <p><strong>Creación de personajes</strong>, con Jenni Fuentes.</p>
+          <p><strong>Creación de un microrrelato</strong>, con Mireia Pérez.</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+{% endtab %}
+
+{% tab logterr Viernes 22 %}
 
 ### Tarde
 
@@ -96,7 +133,11 @@ order: 6
     <thead>
     <tr height="150">
         <th></th>
-        <th>Isla de Roke - Sala Medusa (Planta 4)</th>
+        <th>Isla de Roke - Sala Medusa (Planta 4)
+          <p>
+            <a href="https://forms.gle/KUcH27bjuk5KNFuQ6">Inscripción a los talleres obligatoria, ¡apúntate aquí!</a>
+          </p>
+        </th>
     </tr>
     </thead>
     <tbody>
@@ -172,7 +213,7 @@ order: 6
 
 {% endtab %}
 
-{% tab logterr Sábado 22 %}
+{% tab logterr Sábado 23 %}
 
 ### Mañana
 
@@ -261,7 +302,11 @@ order: 6
     <thead>
     <tr height="150">
         <th></th>
-        <th>Isla de Roke - Sala Medusa (Planta 4)</th>
+        <th>Isla de Roke - Sala Medusa (Planta 4)
+          <p>
+            <a href="https://forms.gle/KUcH27bjuk5KNFuQ6">Inscripción a los talleres obligatoria, ¡apúntate aquí!</a>
+          </p>
+        </th>
     </tr>
     </thead>
     <tbody>
