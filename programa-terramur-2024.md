@@ -369,7 +369,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>18:30 - 20:00</td>
-          <td class="dd-table-talk-2">-</td>
+          <td class="dd-table-pause">-</td>
         </tr>
         <tr height="150">
           <td>20:30</td>
