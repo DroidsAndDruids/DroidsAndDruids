@@ -96,7 +96,7 @@ order: 6
     <thead>
     <tr height="150">
         <th></th>
-        <th>Isla de Roke - Sala Medusa (Planta 4)  - Con inscripción</th>
+        <th>Isla de Roke - Sala Medusa (Planta 4)</th>
     </tr>
     </thead>
     <tbody>
