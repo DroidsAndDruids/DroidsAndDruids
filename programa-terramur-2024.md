@@ -149,7 +149,7 @@ order: 6
 
 ### Noche
 
-📍 Sala The Room Club (9 pisos)
+📍 Sala The Room Club (Edificio 9 pisos, C. Madre Esperanza 3)
 
 <div class="dd-table-grid dd-table-grid-full">
   <div class="dd-column-grid">
@@ -437,7 +437,7 @@ order: 6
 
 ### Mañana
 
-📍 Hotel Legazpi
+📍 Sala de conferencias Hotel Legazpi (Av. Miguel de Cervantes, 6)
 
 <div class="dd-table-grid dd-table-grid-full">
   <div class="dd-column-grid">
