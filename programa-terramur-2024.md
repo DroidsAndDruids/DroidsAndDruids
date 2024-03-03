@@ -96,7 +96,7 @@ order: 6
     <thead>
     <tr height="150">
         <th></th>
-        <th>Isla de Roke - Sala Medusa (Planta 4)  - [Con inscripción](https://droidsanddruids.com/blog/2024/02/13/talleres-del-festival-terramur-2024)</th>
+        <th>Isla de Roke - Sala Medusa (Planta 4)  - Con inscripción</th>
     </tr>
     </thead>
     <tbody>
