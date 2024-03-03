@@ -74,7 +74,7 @@ order: 6
         <td class="dd-table-talk-2"><strong>Cómo se crea un cómic</strong><em> Ángel Abellán, Miguel Herráiz.</em> Modera: Fátima Ródenas</td>
     </tr>
     <tr height="150">
-        <td>18:20 - 19:06</td>
+        <td>18:20 - 19:05</td>
         <td class="dd-table-talk-2"><strong>Relatos & Poemas</strong><em> Talita Isla, Laura Coratge, Amnesia Lofish, Esther González.</em> Modera: Ana Saiz</td>
     </tr>
     <tr height="150">
@@ -111,7 +111,7 @@ order: 6
         <td class="dd-table-workshop"><strong>Worldbuilding en minúsculas</strong><em>, con Raúl Alcantarilla</em></td>
     </tr>
     <tr height="150">
-        <td>18:20 - 19:06</td>
+        <td>18:20 - 19:05</td>
         <td class="dd-table-workshop"><strong>Taller de creación de mapas</strong><em>, con Rafa Díaz</em></td>
     </tr>
     <tr height="150">
