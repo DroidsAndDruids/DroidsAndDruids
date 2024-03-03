@@ -249,7 +249,11 @@ order: 6
           <td>13:40 - 14:25</td>
           <td class="dd-table-talk"><strong>Historia & Fantasía</strong><em>, con Ana Tapia, Susana Vallejo, Alba Quintas, Julia de la Fuente.</em> Modera: Talita Isla.</td>
         </tr>
-        <tr height="150">
+        <tr height="20">
+          <td>14:25 - 14:40</td>
+          <td class="dd-table-talk-2">👀<strong>Sorteo</strong>👀</td>
+        </tr>
+        <tr height="80">
           <td>14:30 - 16:30</td>
           <td class="dd-table-pause"><strong>Pausa Comida</strong></td>
         </tr>

@@ -13,7 +13,7 @@ El año pasado organizamos el primer festival Terramur, nuestro primer evento pr
 
 Tras la gran aceptación que tuvo el evento, este año 2024 repetimos, y en esta ocasión lo haremos en el Centro Cultural Puertas de Castilla y otras dos sedes Off Terramur.
 
-### S﻿EDES
+### SEDES
 
 📍OFF TERRAMUR JUEVES 21: [Librería 7 Héroes](https://maps.app.goo.gl/pjuZxAbHfiuqZxf49)
 
