@@ -205,7 +205,7 @@ order: 6
           <td class="dd-table-talk"><strong>Terror & Oscuridad</strong> <em>Lola Llatas, May López, Aitor Aráez, Eva G Guerrero, Paula Peralta.</em> Modera: Celia Corral.</td>
         </tr>
         <tr height="150">
-          <td>13:30 - 14:25</td>
+          <td>13:40 - 14:25</td>
           <td class="dd-table-talk"><strong>Historia & Fantasía</strong><em>, con Ana Tapia, Susana Vallejo, Alba Quintas, Julia de la Fuente.</em> Modera: Talita Isla.</td>
         </tr>
         <tr height="150">
@@ -243,7 +243,7 @@ order: 6
           <td class="dd-table-talk-2"><strong>Humor & Monstruos</strong><em>, con Cris Mestre, Borja Alonso, Mariló Sanchís</em> Modera: Rosa Gil.</td>
         </tr>
         <tr height="150">
-          <td>13:30 - 14:25</td>
+          <td>13:40 - 14:25</td>
           <td class="dd-table-talk-2"><strong>Distopías & Utopías</strong><em>, con Ana B Nieto, Eva Cid, Elena Garvis, Lluvia Beltrán.</em> Modera: Aitor Aráez.</td>
         </tr>
         <tr height="150">
@@ -282,7 +282,7 @@ order: 6
           <td class="dd-table-workshop"><strong>Taller de Escritura Creativa</strong><em>, con Julia de la Fuente</em></td>
         </tr>
         <tr height="150">
-          <td>13:30 - 14:25</td>
+          <td>13:40 - 14:25</td>
           <td class="dd-table-workshop"><strong>Teatro Interactivo: mecánica de juego en directo</strong><em>, con Pablo Medina y Rocío Brea.</em></td>
         </tr>
         <tr height="150">
