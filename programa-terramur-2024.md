@@ -12,7 +12,7 @@ order: 6
 
 ### Tarde
 
-📍 Centro Puertas de Castilla 
+📍 Centro Cultural Puertas de Castilla (Av. Miguel de Cervantes, 1)
 
 <div class="dd-table-grid dd-table-grid-3">
   <div class="dd-column-grid">
@@ -176,7 +176,7 @@ order: 6
 
 ### Mañana
 
-📍 Centro Puertas de Castilla 
+📍Centro Cultural Puertas de Castilla (Av. Miguel de Cervantes, 1) 
 
 <div class="dd-table-grid dd-table-grid-3">
   <div class="dd-column-grid">
@@ -316,7 +316,7 @@ order: 6
 
 ### Tarde
 
-📍 Centro Puertas de Castilla 
+📍 Centro Cultural Puertas de Castilla (Av. Miguel de Cervantes, 1)
 
 <div class="dd-table-grid dd-table-grid-3">
   <div class="dd-column-grid">
