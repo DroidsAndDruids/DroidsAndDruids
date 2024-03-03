@@ -82,7 +82,7 @@ order: 6
         <td class="dd-table-talk-2"><strong>Muerte & Tecnología</strong><em> Ana Saiz, Jesús Relinque, Alba Quintas, Ana B Nieto.</em> Modera: Raúl Alcantarilla.</td>
     </tr>
     <tr height="50">
-        <td>20:00</td>
+        <td>20:30</td>
         <td class="dd-table-pause"><strong>CIERRE</strong></td>
     </tr>
     </tbody>
