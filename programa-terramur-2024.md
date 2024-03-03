@@ -20,7 +20,7 @@ order: 6
       <thead>
         <tr height="150">
           <th></th>
-          <th>Isla de Havnor - Auditorio</th>
+          <th>Isla de Havnor - Auditorio (Planta 2)</th>
         </tr>
       </thead>
       <tbody>
@@ -74,7 +74,7 @@ order: 6
         <td class="dd-table-talk-2"><strong>Cómo se crea un cómic</strong><em> Ángel Abellán, Miguel Herráiz.</em> Modera: Fátima Ródenas</td>
     </tr>
     <tr height="150">
-        <td>18:20 - 19:06</td>
+        <td>18:20 - 19:05</td>
         <td class="dd-table-talk-2"><strong>Relatos & Poemas</strong><em> Talita Isla, Laura Coratge, Amnesia Lofish, Esther González.</em> Modera: Ana Saiz</td>
     </tr>
     <tr height="150">
@@ -82,7 +82,7 @@ order: 6
         <td class="dd-table-talk-2"><strong>Muerte & Tecnología</strong><em> Ana Saiz, Jesús Relinque, Alba Quintas, Ana B Nieto.</em> Modera: Raúl Alcantarilla.</td>
     </tr>
     <tr height="50">
-        <td>20:00</td>
+        <td>20:30</td>
         <td class="dd-table-pause"><strong>CIERRE</strong></td>
     </tr>
     </tbody>
@@ -111,7 +111,7 @@ order: 6
         <td class="dd-table-workshop"><strong>Worldbuilding en minúsculas</strong><em>, con Raúl Alcantarilla</em></td>
     </tr>
     <tr height="150">
-        <td>18:20 - 19:06</td>
+        <td>18:20 - 19:05</td>
         <td class="dd-table-workshop"><strong>Taller de creación de mapas</strong><em>, con Rafa Díaz</em></td>
     </tr>
     <tr height="150">
@@ -184,7 +184,7 @@ order: 6
       <thead>
         <tr height="150">
           <th></th>
-          <th>Isla de Havnor - Auditorio</th>
+          <th>Isla de Havnor - Auditorio (Planta 2)</th>
         </tr>
       </thead>
       <tbody>
@@ -324,17 +324,17 @@ order: 6
       <thead>
         <tr height="150">
           <th></th>
-          <th>Isla de Havnor - Auditorio</th>
+          <th>Isla de Havnor - Auditorio (Planta 2)</th>
         </tr>
       </thead>
       <tbody>
         <tr height="150">
           <td>16:30 - 17:15</td>
-          <td class="dd-table-talk">-</td>
+          <td class="dd-table-talk">Ensayo</td>
         </tr>
         <tr height="150">
           <td>17:25 - 18:10</td>
-          <td class="dd-table-talk">-</td>
+          <td class="dd-table-talk">Ensayo</td>
         </tr>
         <tr height="150">
           <td>18:30 - 20:00</td>
