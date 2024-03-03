@@ -437,7 +437,7 @@ order: 6
 
 ### Mañana
 
-📍 Hotel Legazpi
+📍 Sala de conferencias Hotel Legazpi (Av. Miguel de Cervantes, 6)
 
 <div class="dd-table-grid dd-table-grid-full">
   <div class="dd-column-grid">
