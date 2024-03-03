@@ -271,7 +271,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>10:55 - 11:40</td>
-          <td class="dd-table-workshop"><strong>Taller: Enriqueze tus historias con el tarot</strong><em>, con Alicia Pérez Gil.</em></td>
+          <td class="dd-table-workshop"><strong>Taller: Enriquece tus historias con el tarot</strong><em>, con Alicia Pérez Gil.</em></td>
         </tr>
         <tr height="150">
           <td>11:50 - 12:35</td>
