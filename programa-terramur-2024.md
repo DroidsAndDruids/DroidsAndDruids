@@ -6,7 +6,6 @@ header: true
 categories: personal
 order: 6
 ---
-
 {% tabs logterr %}
 
 {% tab logterr Viernes 21 %}
@@ -31,11 +30,11 @@ order: 6
         </tr>
         <tr height="150">
           <td>16:30 - 17:15</td>
-          <td class="dd-table-talk"><strong>Home & Punk:</strong> <em>Mireia Pérez, Berta Bas, Talita Isla, Andrea Valeiras, Marilo Sanchis, Iván Cano.</em> Modera: Aitor Aráez.</td>
+          <td class="dd-table-talk"><strong>Hope & Punk:</strong> <em>Mireia Pérez, Berta Bas, Talita Isla, Andrea Valeiras, Marilo Sanchis, Iván Cano.</em> Modera: Aitor Aráez.</td>
         </tr>
         <tr height="150">
           <td>17:25 - 18:10</td>
-          <td class="dd-table-talk"><strong>Cábala y Alquimia:</strong> <em>Maeva Nieto, Alejandro Rodríguez Tárraga, Eva Amuedo, Ana Roux.</em> Modera: Tatiana Herrero.</td>
+          <td class="dd-table-talk"><strong>Cábala & Alquimia:</strong> <em>Maeva Nieto, Alejandro Rodríguez Tárraga, Eva Amuedo, Ana Roux.</em> Modera: Tatiana Herrero.</td>
         </tr>
         <tr height="150">
           <td>18:20 - 19:05</td>
@@ -46,7 +45,7 @@ order: 6
           <td class="dd-table-talk"><strong>Cuentos & Retellings</strong> <em>Julia de la Fuente, Alicia Pérez Gil, Penélope Fernández, Amnesia Lofish.</em> Modera: Inés Galiano.</td>
         </tr>
         <tr height="50">
-          <td>20:00</td>
+          <td>20:30</td>
           <td class="dd-table-pause"><strong>CIERRE</strong></td>
         </tr>
       </tbody>
@@ -120,7 +119,7 @@ order: 6
         <td class="dd-table-workshop"><strong>Taller de traducción de terminología fantástica</strong><em>, con Ana M Navarro</em></td>
     </tr>
     <tr height="50">
-        <td>20:00</td>
+        <td>20:30</td>
         <td class="dd-table-pause"><strong>CIERRE</strong></td>
     </tr>
     </tbody>
@@ -203,7 +202,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>12:45 - 13:30</td>
-          <td class="dd-table-talk"><strong>Terror & Oscuridad</strong> <em>Lola Llatas, May Lóez, Aitor Aráez, Eva G Guerrero, Paula Peralta.</em> Modera: Celia Corral.</td>
+          <td class="dd-table-talk"><strong>Terror & Oscuridad</strong> <em>Lola Llatas, May López, Aitor Aráez, Eva G Guerrero, Paula Peralta.</em> Modera: Celia Corral.</td>
         </tr>
         <tr height="150">
           <td>13:30 - 14:25</td>
