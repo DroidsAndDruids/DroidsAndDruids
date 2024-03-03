@@ -20,7 +20,7 @@ order: 6
       <thead>
         <tr height="150">
           <th></th>
-          <th>Isla de Havnor - Auditorio</th>
+          <th>Isla de Havnor - Auditorio (Planta 2)</th>
         </tr>
       </thead>
       <tbody>
@@ -184,7 +184,7 @@ order: 6
       <thead>
         <tr height="150">
           <th></th>
-          <th>Isla de Havnor - Auditorio</th>
+          <th>Isla de Havnor - Auditorio (Planta 2)</th>
         </tr>
       </thead>
       <tbody>
@@ -324,17 +324,17 @@ order: 6
       <thead>
         <tr height="150">
           <th></th>
-          <th>Isla de Havnor - Auditorio</th>
+          <th>Isla de Havnor - Auditorio (Planta 2)</th>
         </tr>
       </thead>
       <tbody>
         <tr height="150">
           <td>16:30 - 17:15</td>
-          <td class="dd-table-talk">-</td>
+          <td class="dd-table-talk">Ensayo</td>
         </tr>
         <tr height="150">
           <td>17:25 - 18:10</td>
-          <td class="dd-table-talk">-</td>
+          <td class="dd-table-talk">Ensayo</td>
         </tr>
         <tr height="150">
           <td>18:30 - 20:00</td>
