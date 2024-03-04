@@ -57,7 +57,7 @@ order: 6
       <thead>
         <tr height="150">
           <th></th>
-          <th>Isla de Havnor - Auditorio (Planta 2)</th>
+          <th>Isla de Havnor - Auditorio (Planta 2) </th>
         </tr>
       </thead>
       <tbody>
