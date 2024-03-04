@@ -414,7 +414,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>17:25 - 18:10</td>
-          <td class="dd-table-talk-2"><strong>Naves & Barcos</strong> <em>, con Penélope Fernández, Isa J González, Ana Roux, Laura S. Maquilón </em> Modera: Celia Corral.</td>
+          <td class="dd-table-talk-2"><strong>Naves & Barcos</strong> <em>, con Penélope Fernández, Isa J González, Ana Roux, Laura S. Maquilón. </em> Modera: Celia Corral.</td>
         </tr>
         <tr height="150">
           <td>18:30 - 20:00</td>
