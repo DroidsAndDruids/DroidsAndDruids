@@ -410,7 +410,7 @@ order: 6
     <tbody>
         <tr height="150">
           <td>16:30 - 17:15</td>
-          <td class="dd-table-talk-2"><strong>Libros & Divulgación</strong><em>, con Tatiana Herrero, Susana Vallejo, Yaiza Jara, Laura Morán Iglesias.</em> Modera: Eva Amuedo</td>
+          <td class="dd-table-talk-2"><strong>Libros & Divulgación</strong><em>, con Tatiana Herrero, Susana Vallejo, Yaiza Jara, Laura Morán Iglesias, Emma Books.</em> Modera: Eva Amuedo</td>
         </tr>
         <tr height="150">
           <td>17:25 - 18:10</td>
