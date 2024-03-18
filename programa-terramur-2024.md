@@ -67,7 +67,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>16:30 - 17:15</td>
-          <td class="dd-table-talk"><strong>Hope & Punk:</strong> <em>Mireia Pérez, Berta Bas, Talita Isla, Andrea Valeiras, Marilo Sanchis, Iván Cano.</em> Modera: Aitor Aráez.</td>
+          <td class="dd-table-talk"><strong>Hope & Punk:</strong> <em>Mireia Pérez, Berta Bas, Talita Isla, Andrea Valeiras, Celia Corral-Vázquez, Iván Cano.</em> Modera: Aitor Aráez.</td>
         </tr>
         <tr height="150">
           <td>17:25 - 18:10</td>
