@@ -15,9 +15,13 @@ El premio del jurado. Vota el equipo de la revista. Categorías: Relato, Poesía
 
 El premio del público. ¡Votais vosotros! Categorías: Relato, Poesía, Novelette, Novela
 
-![](/public/images/captura-de-pantalla-2024-03-30-a-las-11.09.58.png)
+
 
 **[🎖️](https://emojiterra.com/awards-medals/)La entrega de premios se celebró el 23 de Marzo de 2024 en el II Festival Terramur. Estos fueron los resultados[🎖️](https://emojiterra.com/awards-medals/)**[👇](https://emojipedia.org/backhand-index-pointing-down)[👇](https://emojipedia.org/backhand-index-pointing-down)
+
+![](/public/images/captura-de-pantalla-2024-03-30-a-las-11.09.58.png)
+
+![](/public/images/captura-de-pantalla-2024-03-30-a-las-11.13.28-min.png)
 
 ### PREMIOS DRUIDA (VOTO DEL PÚBLICO)
 
