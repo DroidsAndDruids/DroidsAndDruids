@@ -16,17 +16,131 @@ El premio del jurado. Vota el equipo de la revista. Categorías: Relato, Poesía
 
 El premio del público. ¡Votais vosotros! Categorías: Relato, Poesía, Novelette, Novela
 
+**[🎖️](https://emojiterra.com/awards-medals/)La entrega de premios se celebró el 23 de Marzo de 2024 en el II Festival Terramur. Estos fueron los resultados[🎖️](https://emojiterra.com/awards-medals/)**[👇](https://emojipedia.org/backhand-index-pointing-down)[👇](https://emojipedia.org/backhand-index-pointing-down)
+
+### PREMIOS DRUIDA (VOTO DEL PÚBLICO)
+
+#### Poesía
+
+Los finalistas del Premio Druida de Poesía 
+
+* “No dejamos el mar” de Esther González
+* “Naufragio” de Laura Coratge
+* “Carta a la última tortuga” de Luis Gallardo Gil 
+
+La obra ganadora es: **“Naufragio” de Laura Coratge**
+
+#### Relato
+
+Los finalistas del Premio Druida de Relato son:
+
+* “Mi primera Ouija ™” de Ana Saiz 
+* “Pues no lo vimos venir” de Rafael Díaz
+
+La obra ganadora es: **“Mi primera Ouija ™” de Ana Saiz** 
+
+#### Novelette
+
+Los finalistas del Premio Druida Novelette son: 
+
+* “Manos de bruja” de Sheila Navalón
+* “Con Tirsos y a lo loco”  de Cris Mestre
+
+Se ha destacado de la obra ganadora:
+
+La prosa, muy elegante y cuidada, la relación de las protagonistas y la ambientación tan conseguida. Realmente teníamos la sensación de estar paseando por los rincones más sombríos de Edimburgo al lado de Adamina.
+
+La obra ganadora es: **“Manos de bruja” de Sheila Navalon**
+
+#### Novela
+
+· Los finalistas del Premio Druida Novela son: 
+
+* “El lugar invisible” de Lola Llatas
+* “Cuatrodedos” de Borja Alonso
+* “El sol allá arriba” de Clara Cortés
+
+El jurado ha destacado de la obra ganadora:
+
+La chorrofantasía épicodelirante, la divertida trama de enredo, y las recetas deliciosas que abre el apetito.
+
+La obra ganadora es: **“Cuatrodedos” de Borja Alonso**
 
 
-**ABIERTAS las votaciones de público y jurado.** 
 
-La Gala de entrega de premios será presencial dentro del marco del Festival Terramur.
+### PREMIOS DROIDE (VOTO DEL JURADO)
 
-[VOTA HASTA EL 15 FEBRERO](https://forms.gle/o3naRC6yMn3hMy6s9) (incluido)
+#### Poesía
 
-Solo se puede votar una vez en una única ronda. Las obras con más puntos acumulados serán finalistas, y se anunciarán a finales de febrero. La obra que más puntos totales obtenga será la ganadora del premio del público y se conocerá durante la Gala de entrega de premios presencial dentro del marco del Festival Terramur. 
+Los finalistas del Premio Droide de Poesía
+
+* “No dejamos el mar” de Esther González
+* “Naufragio” de Laura Coratge
+* “Carta a la última tortuga” de Luis Gallardo Gil 
+
+La obra ganadora es: **“No dejamos el mar” de Esther González**
+
+#### Relato
+
+Los finalistas del Premio Droide de Relato - 
+
+* “El regalo” de Jesús Durán y Libertad García-Villada
+* “María en la luna -2780”  de Barbara Oliver
+
+La obra ganadora es: **“María en la luna -2780”  de Barbara Oliver**
+
+#### Novelette
+
+Los finalistas del Premio Droide Novelette son:
+
+* “Manos de bruja” de Sheila Navalón
+* “Con Tirsos y a lo loco”  de Cris Mestre
+
+El jurado ha destacado de la obra ganadora:
+
+Lo descacharrante, que combina el ritmo frenético del slapstick y un conocimiento profundo de la mitología clásica. Una delicia tan erudita como mamarracha, con un fondo de bondad esencial que te reconcilia con el mundo.
+
+ La obra ganadora es: **“Con Tirsos y a lo loco”  de Cris Mestre**
 
 
+
+#### Novelette Interna - Convocatoria propia de Novelette Droids & Druids
+
+El premio Premio Droide Convocatoria propia de Novelette  es un premio especial - es una convocatoria propia que hacemos en la revista Droids & Druids para publicar una novelette que encaje con el ritmo, tono de nuestra colección de Fantaciencia.
+
+Este año, tuvimos una alta participación y muchas obras estupendas. Tantas que por primera vez nos quedamos con dos finalistas que también serán publicadas: “Arena” de Isabel Pedrero, y “Es Teresa o el tiempo” de Talita Isla.
+
+Pero de todas ellas, hubo una que encarnaba perfectamente el espíritu de Droids & Druids, y esa era: **“Amanecer en Benidormiens” de Ana Saiz**
+
+
+
+#### Novela
+
+·  Los finalistas del Premio Droide Novela: 
+
+* “El lugar invisible” de Lola Llatas
+* “Las tres despedidas de George Khan” de Bruno Puelles
+* “El sol allá arriba” de Clara Cortés
+
+El jurado ha destacado de la obra ganadora:
+
+La representación de la España profunda en la que todos nos podemos reconocer, las tramas paralelas de la niña y la adulta, los rincones oscuros para afrontar el duelo, y el patrocinio de pesadillas de lectores.
+
+La obra ganadora es: **“El lugar invisible” de Lola Llatas**
+
+
+
+#### Premio a la divulgación de géneros fantásticos
+
+Por primera vez hemos querido homenajear a aquellas personas que trabajan para impulsar el género fantástico. Porque para que haya lectores, hace falta que haya eventos, actividades, ferias, clubs de lectura, y asociaciones. Porque para que la literatura fantástica salga de los márgenes hace falta mucho trabajo.
+
+Esta noche queremos homenajear una persona que lleva trabajando por la literatura fantástica desde 1986. Antes de que la Asociación Pórtico se llamase Pórtico, antes de que fuera la Asociación Española de Ciencia Ficción y Terror, antes de todo eso, nuestra homenajeada creó la precursora Asociación Antares. Desde entonces, ha estado involucrada en miles de proyectos, eurocones, festivales, podcasts, clubs de lectura y hasta tiene su propia escuela de escritura de género fantástico llamada Phantastica con PH.  
+
+Además de ser ella misma una gran escritora, esta autora lleva más de 35 años trabajando por y para la literatura fantástica. **El premio honorífico a la divulgación fantástica del Festival Terramur 2024**  es para **Susana Vallejo.**
+
+
+
+**\-﻿-------**
 
 ## Obras candidatas para los Premios 2024 [🤖](https://emojipedia.org/robot/)🧙‍♀️
 
@@ -45,8 +159,6 @@ La selección y el resultado de las votaciones es inapelable.
 
 A continuación os dejamos las obras candidatas de este año:
 
-
-
 **Categoría Poesía 🪶**
 
 ·   Ojalá las estrellas guíen mis versos hacia ti - Luis Gallardo Gil / Pluma de Ícaro (Revista número 7)
@@ -60,8 +172,6 @@ A continuación os dejamos las obras candidatas de este año:
 ·   Carta a la última tortuga - Luis Gallardo Gil / Pluma de Ícaro (Revista número 8)
 
 ·   Naufragio – Laura Coratge (Revista número 8)
-
- 
 
 **Categoría Relato [📇](https://emojipedia.org/card-index/)**
 
@@ -103,8 +213,6 @@ A continuación os dejamos las obras candidatas de este año:
 
 ·   El último farero - Pruden Rodríguez (Revista 8)
 
- 
-
 **Categoría Novelette**
 
 ·   Con tirsos y a lo loco - Cris Mestre (Literup)
@@ -114,8 +222,6 @@ A continuación os dejamos las obras candidatas de este año:
 ·   Con la boquita partía - Irene B Trenas (Cerbero)
 
 ·   Madre - Isabel del Río (Transbordador)
-
- 
 
 **Categoría Novela**
 
