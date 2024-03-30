@@ -16,6 +16,8 @@ El premio del jurado. Vota el equipo de la revista. Categorías: Relato, Poesía
 
 El premio del público. ¡Votais vosotros! Categorías: Relato, Poesía, Novelette, Novela
 
+![](/public/images/captura-de-pantalla-2024-03-30-a-las-11.09.58.png)
+
 **[🎖️](https://emojiterra.com/awards-medals/)La entrega de premios se celebró el 23 de Marzo de 2024 en el II Festival Terramur. Estos fueron los resultados[🎖️](https://emojiterra.com/awards-medals/)**[👇](https://emojipedia.org/backhand-index-pointing-down)[👇](https://emojipedia.org/backhand-index-pointing-down)
 
 ### PREMIOS DRUIDA (VOTO DEL PÚBLICO)
@@ -66,8 +68,6 @@ La chorrofantasía épicodelirante, la divertida trama de enredo, y las recetas 
 
 La obra ganadora es: **“Cuatrodedos” de Borja Alonso**
 
-
-
 ### PREMIOS DROIDE (VOTO DEL JURADO)
 
 #### Poesía
@@ -102,8 +102,6 @@ Lo descacharrante, que combina el ritmo frenético del slapstick y un conocimien
 
  La obra ganadora es: **“Con Tirsos y a lo loco”  de Cris Mestre**
 
-
-
 #### Novelette Interna - Convocatoria propia de Novelette Droids & Druids
 
 El premio Premio Droide Convocatoria propia de Novelette  es un premio especial - es una convocatoria propia que hacemos en la revista Droids & Druids para publicar una novelette que encaje con el ritmo, tono de nuestra colección de Fantaciencia.
@@ -111,8 +109,6 @@ El premio Premio Droide Convocatoria propia de Novelette  es un premio especial
 Este año, tuvimos una alta participación y muchas obras estupendas. Tantas que por primera vez nos quedamos con dos finalistas que también serán publicadas: “Arena” de Isabel Pedrero, y “Es Teresa o el tiempo” de Talita Isla.
 
 Pero de todas ellas, hubo una que encarnaba perfectamente el espíritu de Droids & Druids, y esa era: **“Amanecer en Benidormiens” de Ana Saiz**
-
-
 
 #### Novela
 
@@ -128,8 +124,6 @@ La representación de la España profunda en la que todos nos podemos reconocer,
 
 La obra ganadora es: **“El lugar invisible” de Lola Llatas**
 
-
-
 #### Premio a la divulgación de géneros fantásticos
 
 Por primera vez hemos querido homenajear a aquellas personas que trabajan para impulsar el género fantástico. Porque para que haya lectores, hace falta que haya eventos, actividades, ferias, clubs de lectura, y asociaciones. Porque para que la literatura fantástica salga de los márgenes hace falta mucho trabajo.
@@ -137,8 +131,6 @@ Por primera vez hemos querido homenajear a aquellas personas que trabajan para i
 Esta noche queremos homenajear una persona que lleva trabajando por la literatura fantástica desde 1986. Antes de que la Asociación Pórtico se llamase Pórtico, antes de que fuera la Asociación Española de Ciencia Ficción y Terror, antes de todo eso, nuestra homenajeada creó la precursora Asociación Antares. Desde entonces, ha estado involucrada en miles de proyectos, eurocones, festivales, podcasts, clubs de lectura y hasta tiene su propia escuela de escritura de género fantástico llamada Phantastica con PH.  
 
 Además de ser ella misma una gran escritora, esta autora lleva más de 35 años trabajando por y para la literatura fantástica. **El premio honorífico a la divulgación fantástica del Festival Terramur 2024**  es para **Susana Vallejo.**
-
-
 
 **\-﻿-------**
 
