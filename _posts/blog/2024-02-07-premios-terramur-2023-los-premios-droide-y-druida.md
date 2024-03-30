@@ -21,8 +21,6 @@ El premio del público. ¡Votais vosotros! Categorías: Relato, Poesía, Novelet
 
 ![](/public/images/captura-de-pantalla-2024-03-30-a-las-11.13.28-min.png)
 
-![](/public/images/img_9230-1-min.png)
-
 ### PREMIOS DRUIDA (VOTO DEL PÚBLICO)
 
 #### Poesía
@@ -134,6 +132,10 @@ Por primera vez hemos querido homenajear a aquellas personas que trabajan para i
 Esta noche queremos homenajear una persona que lleva trabajando por la literatura fantástica desde 1986. Antes de que la Asociación Pórtico se llamase Pórtico, antes de que fuera la Asociación Española de Ciencia Ficción y Terror, antes de todo eso, nuestra homenajeada creó la precursora Asociación Antares. Desde entonces, ha estado involucrada en miles de proyectos, eurocones, festivales, podcasts, clubs de lectura y hasta tiene su propia escuela de escritura de género fantástico llamada Phantastica con PH.  
 
 Además de ser ella misma una gran escritora, esta autora lleva más de 35 años trabajando por y para la literatura fantástica. **El premio honorífico a la divulgación fantástica del Festival Terramur 2024**  es para **Susana Vallejo.**
+
+![](/public/images/img_9230-1-min.png)
+
+
 
 **\-﻿-------**
 
