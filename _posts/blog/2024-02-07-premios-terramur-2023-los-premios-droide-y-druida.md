@@ -2,8 +2,7 @@
 layout: blog
 title: "Premios Terramur 2024: los premios Droide y Druida "
 date: 2024-02-07T18:52:07.399Z
-description: ¡Vuelven los premios de la revista Droids & Druids! Abrimos
-  votaciones de público y jurado.
+description: "Actualizado: ¡Aquí están los ganadores de este año!"
 category: blog
 ---
  Para reconocer el talento de nuestros autores, vuelven los Premios Droide y Druida, convocados por primera vez el año 2022. Podéi﻿s leer MÁS INFO abajo [😊](https://emojipedia.org/es/cara-feliz-con-ojos-sonrientes/), [ver los ganadores del año pasado](https://droidsanddruids.com/noticias/2023/01/05/llegan-los-premios-droide-y-druida-2023), e incluso ver la [gala 2023 en el I Festival Terramur](https://youtu.be/zQA7s9lnwek?si=6mxoAJ8mvqDE39YN). 
