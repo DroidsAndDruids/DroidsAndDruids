@@ -7,7 +7,7 @@ category: noticias
 ---
 **BASES III PREMIO DROIDE DE NOVELETTE** 
 
-Si tenéis dudas, podéis escribir a droidsanddruids@gmail.com. (SOLO DUDAS, el envío debe hacerse a través del formulario).
+Si tenéis dudas, podéis escribir a droidsanddruids@gmail.com. (*SOLO DUDAS*, el envío debe hacerse a través del **formulario**).
 
 1. Podrán participar personas mayores de edad residentes en España.
 2. Cada participante solo puede participar con una obra.
