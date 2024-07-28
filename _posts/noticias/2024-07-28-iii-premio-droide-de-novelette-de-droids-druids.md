@@ -5,7 +5,7 @@ date: 2024-07-28T12:08:00.244Z
 description: Bases III premio de Novelette de Droids & Druids
 category: noticias
 ---
-**BASES III PREMIO DROIDE DE NOVELETTE**
+**BASES III PREMIO DROIDE DE NOVELETTE** 
 
 Si tenéis dudas, podéis escribir a droidsanddruids@gmail.com. (SOLO DUDAS, el envío debe hacerse a través del formulario).
 
