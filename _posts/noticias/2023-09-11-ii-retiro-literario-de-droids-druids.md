@@ -22,7 +22,7 @@ Durante este fin de semana,  nos dedicaremos a la escritura y la literatura con
 
 La gestión del retiro se hará mediante nuestra Asociación Droids & Druids. Para garantizar que sigue siendo un retiro pequeño y tranquilo contaremos con **solamente 20 personas: 16 plazas para asistentes (y 4 para la organización)**. 
 
-El precio será de 95 euros que incluirá:
+El precio será de **95** euros que incluirá:
 
 * Alojamiento 2 noches en habitación doble o triple con baño propio
 * Pensión completa en el comedor (desayunos, comidas y cenas)
@@ -53,7 +53,7 @@ Una vez superado este plazo, se sacarán de la lista a las personas que no hayan
 
 La reserva no se devolverá en caso de cancelación porque será destinada a pagar la penalización del albergue.
 
-##### PAGO FINAL (95 euros - hasta el 18 octubre)
+##### PAGO FINAL (85 euros - hasta el 18 octubre)
 
 El pago total del retiro se hará antes del 18 de octubre. En caso de que no se efectúe el pago se cancelará su asistencia y se tratará de llenar el hueco con la lista de espera.
 
