@@ -28,7 +28,8 @@ El precio será de 95 euros que incluirá:
 * Pensión completa en el comedor (desayunos, comidas y cenas)
 * Alquiler de sábanas y toallas
 * Alquiler de salas de escritura 24 horas para talleres y maratón de escritura
-* Actividades y mini pack Droids & Druids
+* Actividades y talleres
+* Pack Droids & Druids (con un libro de nuestro catálogo)
 * Se utilizará el carnet de alberguista grupal de la Asociación
 
 **Importante:** 
