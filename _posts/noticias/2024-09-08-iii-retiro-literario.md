@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "# III RETIRO LITERARIO"
+title: III RETIRO LITERARIO
 date: 2024-09-08T12:34:50.159Z
 description: ¡Vuelve el retiro literario!
 category: noticias
