@@ -2,7 +2,7 @@
 layout: page
 title: TERRAMUR 2024
 title_page: programa-terramur-2024
-header: true
+header: false
 categories: personal
 order: 6
 ---
