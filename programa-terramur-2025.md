@@ -73,7 +73,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>17:30 - 18:20</td>
-          <td class="dd-table-talk"><strong>Comic & Novela gráfica:</strong> <em>Ángel Abellán, Chema Lajarín.</em> Modera: Alejandro Rodríguez.</td>
+          <td class="dd-table-talk"><strong>Cómic & Novela gráfica:</strong> <em>Ángel Abellán, Chema Lajarín y Lara Carryon.</em> Modera: Alejandro Rodríguez.</td>
         </tr>
         <tr height="150">
           <td>18:30 - 19:20</td>
@@ -221,7 +221,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>13:00 - 13:50</td>
-          <td class="dd-table-talk"><strong>Fantasía rural:</strong> <em>Pablo Loperena, Ana B Nieto, JM Sala, Clara Dies.</em> Modera: Ana Saiz.</td>
+          <td class="dd-table-talk"><strong>Fantástico & Rural:</strong> <em>Pablo Loperena, Ana B Nieto, JM Sala, Clara Dies.</em> Modera: Ana Saiz.</td>
         </tr>
         <tr height="150">
           <td>14:00 - 14:20</td>
@@ -383,7 +383,7 @@ order: 6
     <tbody>
         <tr height="150">
           <td>16:00 - 17:20</td>
-          <td class="dd-table-talk-2"><strong>Música en los 80s</strong><em>, con David Fernández.</em></td>
+          <td class="dd-table-talk-2"><strong>Fantasía & Música en los 80s: <em>No es serio este cementerio 🎵</em></strong><em>, con David Fernández.</em></td>
         </tr>
         <tr height="150">
           <td>17:30 - 18:20</td>
