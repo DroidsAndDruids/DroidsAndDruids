@@ -77,7 +77,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>18:30 - 19:20</td>
-          <td class="dd-table-talk"><strong>Futurismo & Tecnología:</strong> <em>Rafa Díaz, Alfredo Álamo, Talita Isla, Encarna Vázquez</em> Modera: David Fernández.</td>
+          <td class="dd-table-talk"><strong>Futurismo & Tecnología:</strong> <em>Rafa Díaz, Alfredo Álamo, Talita Isla, Encarna Vázquez.</em> Modera: David Fernández.</td>
         </tr>
         <tr height="150">
           <td>19:30 - 20:20</td>
@@ -85,7 +85,7 @@ order: 6
         </tr>
         <tr height="50">
           <td>20:30</td>
-          <td class="dd-table-pause"><strong>CIERRE</strong></td>
+          <td class="dd-table-pause"><strong>CIERRE 👋</strong></td>
         </tr>
       </tbody>
     </table>
@@ -120,7 +120,7 @@ order: 6
     </tr>
     <tr height="50">
         <td>20:30</td>
-        <td class="dd-table-pause"><strong>CIERRE</strong></td>
+        <td class="dd-table-pause"><strong>CIERRE 👋</strong></td>
     </tr>
     </tbody>
 </table>
@@ -161,7 +161,7 @@ order: 6
     </tr>
     <tr height="50">
         <td>20:30</td>
-        <td class="dd-table-pause"><strong>CIERRE</strong></td>
+        <td class="dd-table-pause"><strong>CIERRE 👋</strong></td>
     </tr>
     </tbody>
 </table>
@@ -228,7 +228,7 @@ order: 6
         </tr>
         <tr height="80">
           <td>14:30 - 16:00</td>
-          <td class="dd-table-pause"><strong>Pausa Comida</strong></td>
+          <td class="dd-table-pause"><strong>Pausa Comida🥘</strong></td>
         </tr>
       </tbody>
     </table>
@@ -266,7 +266,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>14:30 - 16:00</td>
-          <td class="dd-table-pause"><strong>Pausa Comida</strong></td>
+          <td class="dd-table-pause"><strong>Pausa Comida🥗</strong></td>
         </tr>
       </tbody>
     </table>
@@ -289,7 +289,7 @@ order: 6
     <tbody>
         <tr height="150">
           <td>10:00 - 10:50</td>
-          <td class="dd-table-workshop"><strong>Taller "Robots!"</strong> <em>, con Rafa Díaz.</em></td>
+          <td class="dd-table-workshop"><strong>Taller "Robots!"</strong><em>, con Rafa Díaz.</em></td>
         </tr>
         <tr height="150">
           <td>11:00 - 11:50</td>
@@ -309,7 +309,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>14:30 - 16:00</td>
-          <td class="dd-table-pause"><strong>Pausa Comida</strong></td>
+          <td class="dd-table-pause"><strong>Pausa Comida🍕</strong></td>
         </tr>
       </tbody>
 </table>
@@ -394,7 +394,6 @@ order: 6
         </tr>
         <tr height="150">
           <td>20:00 - 20:45</td>
-          <td class="dd-table-pause"><strong></strong></td>
         </tr>
       </tbody>
     </table>
@@ -413,7 +412,7 @@ order: 6
     <tbody>
         <tr height="150">
           <td>16:00 - 17:20</td>
-          <td class="dd-table-talk"><strong>Autopublicación</strong><em>, con Michel Gallego y Maido Rodénas.</em>.</td>
+          <td class="dd-table-talk"><strong>Autopublicación</strong><em>, con Michel Gallego y Maido Rodénas.</em></td>
         </tr>
         <tr height="150">
           <td>17:30 - 18:20</td>
@@ -421,11 +420,9 @@ order: 6
         </tr>
         <tr height="150">
           <td>18:30 - 19:20</td>
-          <td class="dd-table-talk-2"></td>
         </tr>
         <tr height="150">
           <td>20:00 - 20:45</td>
-          <td class="dd-table-pause"></td>
         </tr>
       </tbody>
 </table>
