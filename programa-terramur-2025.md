@@ -73,7 +73,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>17:30 - 18:20</td>
-          <td class="dd-table-talk"><strong>Cómic & Novela gráfica</strong><em>, con Ángel Abellán, Chema Lajarín y Lara Carryon.</em> Modera: Alejandro Rodríguez.</td>
+          <td class="dd-table-talk"><strong>Cómic & Novela gráfica</strong><em>, con Ángel Abellán, Chema Lajarín y Lara Carrión (Melancómica).</em> Modera: Alejandro Rodríguez.</td>
         </tr>
         <tr height="150">
           <td>18:30 - 19:20</td>
