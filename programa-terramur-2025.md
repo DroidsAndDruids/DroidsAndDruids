@@ -109,10 +109,11 @@ order: 6
     </tr>
     <tr height="150">
         <td>17:30 - 18:20</td>
+        <td class="dd-table-talk-2"><strong>Presentación de "Los Huesos", de Celia Corral-Váquez. Una historia por entregas.</strong> Presenta: Elena Torró</td>
     </tr>
     <tr height="150">
         <td>18:30 - 19:20</td>
-        <td class="dd-table-talk-2"><strong>Poesía de ciencia ficción:</strong><em> Ana Tapia y Lola Robles.</em></td>
+        <td class="dd-table-talk-2"><strong>Poesía de Ciencia Ficción:</strong><em> Ana Tapia y Lola Robles.</em></td>
     </tr>
     <tr height="150">
         <td>19:30 - 20:20</td>
