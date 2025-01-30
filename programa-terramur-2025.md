@@ -357,7 +357,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>17:30 - 18:20</td>
-          <td class="dd-table-talk"><strong>Guion & Cine:</strong> <em>Iván Ledesma y Pablo Medina.</em> Modera: Gemma Solsona.</td>
+          <td class="dd-table-talk"><strong>Guion & Cine:</strong> <em>Iván Ledesma, Pablo Medina y Silvia Conesa.</em> Modera: Gemma Solsona.</td>
         </tr>
         <tr height="150">
           <td>18:30 - 19:20</td>
