@@ -158,7 +158,7 @@ order: 6
     </tr>
     <tr height="150">
         <td>19:30 - 20:20</td>
-        <td class="dd-table-workshop"><strong>Taller de radioficción de andar por casa</strong><em>, con Elena Torró.</em></td>
+        <td class="dd-table-workshop"><strong>Taller de audiolibros desde casa</strong><em>, con Elena Torró.</em></td>
     </tr>
     <tr height="50">
         <td>20:30</td>
