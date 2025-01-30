@@ -24,7 +24,7 @@ order: 6
           <th></th>
           <th>Librería 7 Héroes
           <p>
-            ⚠️ Inscripción obligatoria, pronto abriremos el formulario. ⚠️
+            Aforo limitado por orden de llegada
           </p>
           </th>
         </tr>
@@ -135,7 +135,7 @@ order: 6
         <th></th>
         <th>Isla de Roke - Sala Medusa (Planta 4)
           <p>
-            ⚠️ Inscripción obligatoria, pronto abriremos el formulario. ⚠️
+            Aforo limitado por orden de llegada
           </p>
         </th>
     </tr>
@@ -281,7 +281,7 @@ order: 6
         <th></th>
         <th>Isla de Roke - Sala Medusa (Planta 4)
           <p>
-            ⚠️ Inscripción obligatoria, pronto abriremos el formulario. ⚠️
+            Aforo limitado por orden de llegada
           </p>
         </th>
     </tr>
