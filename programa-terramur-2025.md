@@ -475,15 +475,11 @@ order: 6
           <td class="dd-table-talk"><strong>Podcast en directo: <a target="_blank" href="https://www.ivoox.com/podcast-podcast-travesura-realizada_sq_f1329040_1.html">Travesura Realizada</a></strong></td>
         </tr>
         <tr height="150">
-          <td>11:30 - 12:25</td>
+          <td>12:00 - 12:45</td>
           <td class="dd-table-talk-2"><strong>Podcast en directo: <a target="_blank" href="https://www.ivoox.com/podcast-estanteria-safica_sq_f12279540_1.html">La Estantería Sáfica</a></strong></td>
         </tr>
         <tr height="150">
-          <td>12:30 - 13:10</td>
-          <td class="dd-table-event"><strong>Presentación de "Los Huesos", de Celia Corral-Vázquez</strong>, con Elena Torró.</td>
-        </tr>
-        <tr height="150">
-          <td>13:10 - 13:30</td>
+          <td>13:00 - 13:30</td>
           <td class="dd-table-workshop"><strong>Ceremonia de clausura</strong><em>, con Inés Galiano, Amanda Iniesta y Elena Torró.</em></td>
         </tr>
       </tbody>
