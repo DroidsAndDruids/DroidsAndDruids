@@ -34,7 +34,7 @@ order: 6
           <td>18:30 - 20:00</td>
           <td class="dd-table-event">
           <p>
-          <strong>Mini retiro de escritura:</strong> ¡Ven a escribir tu propio microrrelato con Droids&Druids! Contamos con dos talleres participativos:
+          <strong>Mini retiro de escritura</strong> ¡Ven a escribir tu propio microrrelato con Droids&Druids! Contamos con dos talleres participativos:
           </p>
           <p><strong>Rol para creación de mundos</strong>, con Javier Saborido.</p>
           <p><strong>Escribe un relato a través del Tarot</strong>, con Mireia Pérez.</p>
@@ -65,23 +65,23 @@ order: 6
       <tbody>
         <tr height="150">
           <td>16:00 - 16:25</td>
-          <td class="dd-table-event"><strong>Inauguración Festival:</strong> Homenaje a Octavia Butler con <em>Inés Galiano, Elena Torró y Amanda Iniesta</em></td>
+          <td class="dd-table-event"><strong>Inauguración Festival</strong> Homenaje a Octavia Butler con <em>Inés Galiano, Elena Torró y Amanda Iniesta</em></td>
         </tr>
         <tr height="150">
           <td>16:30 - 17:20</td>
-          <td class="dd-table-talk"><strong>Humor & Casas Encantadas:</strong> <em>Andrea Valeiras, Ana Saiz.</em> Modera: Aitor Aráez.</td>
+          <td class="dd-table-talk"><strong>Humor & Casas Encantadas</strong><em>, con Andrea Valeiras y Ana Saiz.</em> Modera: Aitor Aráez.</td>
         </tr>
         <tr height="150">
           <td>17:30 - 18:20</td>
-          <td class="dd-table-talk"><strong>Cómic & Novela gráfica:</strong> <em>Ángel Abellán, Chema Lajarín y Lara Carryon.</em> Modera: Alejandro Rodríguez.</td>
+          <td class="dd-table-talk"><strong>Cómic & Novela gráfica</strong><em>, con Ángel Abellán, Chema Lajarín y Lara Carryon.</em> Modera: Alejandro Rodríguez.</td>
         </tr>
         <tr height="150">
           <td>18:30 - 19:20</td>
-          <td class="dd-table-talk"><strong>Futurismo & Tecnología:</strong> <em>Rafa Díaz, Alfredo Álamo, Talita Isla, Encarna Vázquez.</em> Modera: David Fernández.</td>
+          <td class="dd-table-talk"><strong>Futurismo & Tecnología</strong><em>, con Rafa Díaz, Alfredo Álamo, Talita Isla y Encarna Vázquez.</em> Modera: David Fernández.</td>
         </tr>
         <tr height="150">
           <td>19:30 - 20:20</td>
-          <td class="dd-table-talk"><strong>Utopías & Distopías:</strong> <em>Lola Robles, Borja Alonso, Alejandro Marín, Alba Quintas.</em> Modera: Talita Isla.</td>
+          <td class="dd-table-talk"><strong>Utopías & Distopías</strong><em>, con Lola Robles, Borja Alonso, Alejandro Marín, Alba Quintas.</em> Modera: Talita Isla.</td>
         </tr>
         <tr height="50">
           <td>20:30</td>
@@ -113,11 +113,11 @@ order: 6
     </tr>
     <tr height="150">
         <td>18:30 - 19:20</td>
-        <td class="dd-table-talk-2"><strong>Poesía de Ciencia Ficción:</strong><em> Ana Tapia y Lola Robles.</em></td>
+        <td class="dd-table-talk-2"><strong>Poesía de Ciencia Ficción</strong><em>, con Ana Tapia y Lola Robles.</em></td>
     </tr>
     <tr height="150">
         <td>19:30 - 20:20</td>
-        <td class="dd-table-talk-2"><strong>Trilogías & Sagas:</strong><em> Max Ross, Julio San Román, Pablo Medina, Celia Corral.</em> Modera: Jenni Fuentes.</td>
+        <td class="dd-table-talk-2"><strong>Trilogías & Sagas</strong><em>, con Max Ross, Julio San Román, Pablo Medina, Celia Corral.</em> Modera: Jenni Fuentes.</td>
     </tr>
     <tr height="50">
         <td>20:30</td>
@@ -209,19 +209,19 @@ order: 6
       <tbody>
         <tr height="150">
           <td>10:00 - 10:50</td>
-          <td class="dd-table-talk"><strong>Relatos & Formato breve:</strong><em>, con Gemma Solsona, Rocío Stevenson, Ana Saiz y Héctor Vielva.</em> Modera: Celia Corral-Vázquez</td>
+          <td class="dd-table-talk"><strong>Relatos & Formato breve</strong><em>, con Gemma Solsona, Rocío Stevenson, Ana Saiz y Héctor Vielva.</em> Modera: Celia Corral-Vázquez</td>
         </tr>
         <tr height="150">
           <td>11:00 - 11:50</td>
-          <td class="dd-table-talk"><strong>Historia & Retrofuturismo:</strong> <em>, con Maeva Nieto, Talita Isla, Bea Alcaná.</em> Modera: Mireia Pérez.</td>
+          <td class="dd-table-talk"><strong>Historia & Retrofuturismo</strong><em>, con Maeva Nieto, Talita Isla, Beatriz Alcaná.</em> Modera: Mireia Pérez.</td>
         </tr>
         <tr height="150">
           <td>12:00 - 12:50</td>
-          <td class="dd-table-talk"><strong>Romantasy & Criaturas:</strong> <em>Virginia Orive, Judith romero, Alba Cayuela.</em> Modera: Laura Moreda Caballero.</td>
+          <td class="dd-table-talk"><strong>Romantasy & Criaturas</strong><em>, con Virginia Orive, Judith romero, Alba Cayuela.</em> Modera: Laura Moreda Caballero.</td>
         </tr>
         <tr height="150">
           <td>13:00 - 13:50</td>
-          <td class="dd-table-talk"><strong>Fantástico & Rural:</strong> <em>Pablo Loperena, Ana B Nieto, JM Sala, Clara Dies.</em> Modera: Ana Saiz.</td>
+          <td class="dd-table-talk"><strong>Fantástico & Rural</strong><em>, con Pablo Loperena, Ana B Nieto, JM Sala y Clara Dies.</em> Modera: Ana Saiz.</td>
         </tr>
         <tr height="150">
           <td>14:00 - 14:20</td>
@@ -247,23 +247,23 @@ order: 6
     <tbody>
         <tr height="150">
           <td>10:00 - 10:50</td>
-          <td class="dd-table-talk-2"><strong>Escritura a 4 manos:</strong><em>, con Borja Bilbao y  Alejandro Marín.</em></td>
+          <td class="dd-table-talk-2"><strong>Escritura a 4 manos</strong><em>, con Borja Bilbao y  Alejandro Marín.</em></td>
         </tr>
         <tr height="150">
           <td>11:00 - 11:50</td>
-          <td class="dd-table-talk-2"><strong>Literatura ergódica: qué es y dónde encontrarla</strong> <em>, con Daniel Pérez</em></td>
+          <td class="dd-table-talk-2"><strong>Literatura ergódica: qué es y dónde encontrarla</strong><em>, con Daniel Pérez</em></td>
         </tr>
         <tr height="150">
           <td>12:00 - 12:50</td>
-          <td class="dd-table-talk-2"><strong>Retellings & Hadas Queer:</strong><em>, con Clara Díes, Caryanna Reuven, Laura Morán, Andres Zelada, Isa J González.</em></td>
+          <td class="dd-table-talk-2"><strong>Retellings & Hadas Queer</strong><em>, con Clara Díes, Caryanna Reuven, Laura Morán, Andres Zelada, Isa J González.</em></td>
         </tr>
         <tr height="150">
           <td>13:00 - 13:50</td>
-          <td class="dd-table-talk-2"><strong>Artículos & divulgación literaria:</strong><em>, con Daniel Pérez, Yaiza Jara, Paz Pérez Terrón.</em> Modera: Aitor Aráez.</td>
+          <td class="dd-table-talk-2"><strong>Artículos & divulgación literaria</strong><em>, con Daniel Pérez, Yaiza Jara, Paz Pérez Terrón.</em> Modera: Aitor Aráez.</td>
         </tr>
         <tr height="150">
           <td>14:00 - 14:20</td>
-          <td class="dd-table-talk-2"><strong>Presentación III Premio Droide:</strong><em>, con Andrea Valeiras.</em> Modera: Aitor Aráez.</td>
+          <td class="dd-table-talk-2"><strong>Presentación III Premio Droide</strong><em>, con Andrea Valeiras.</em> Modera: Aitor Aráez.</td>
         </tr>
         <tr height="150">
           <td>14:30 - 16:00</td>
@@ -353,15 +353,15 @@ order: 6
       <tbody>
         <tr height="150">
           <td>16:00 - 17:20</td>
-          <td class="dd-table-talk"><strong>Microteatro & charla teatral:</strong> <em>Loredana Volpe, Fani Álvarez, Ana Tapia, Alba Quintas.</em> Modera: Inés Galiano.</td>
+          <td class="dd-table-talk"><strong>Microteatro & charla teatral</strong><em>, con Loredana Volpe, Fani Álvarez, Ana Tapia y Alba Quintas.</em> Modera: Inés Galiano.</td>
         </tr>
         <tr height="150">
           <td>17:30 - 18:20</td>
-          <td class="dd-table-talk"><strong>Guion & Cine:</strong> <em>Iván Ledesma, Pablo Medina y Silvia Conesa.</em> Modera: Gemma Solsona.</td>
+          <td class="dd-table-talk"><strong>Guion & Cine</strong><em>, con Iván Ledesma, Pablo Medina y Silvia Conesa.</em> Modera: Gemma Solsona.</td>
         </tr>
         <tr height="150">
           <td>18:30 - 19:20</td>
-          <td class="dd-table-talk"><strong>Terror & Oscuridad:</strong> <em>Aitziber Saldias, Celia Corral-Vázquez, Bea Alcaná, Iván Ledesma, JV Gachs.</em> Modera: Daniel Pérez.</td>
+          <td class="dd-table-talk"><strong>Terror & Oscuridad</strong><em>, con Aitziber Saldias, Celia Corral-Vázquez, Beatriz Alcaná, Iván Ledesma y JV Gachs.</em> Modera: Daniel Pérez.</td>
         </tr>
         <tr height="150">
           <td>20:00 - 20:45</td>
@@ -387,11 +387,11 @@ order: 6
         </tr>
         <tr height="150">
           <td>17:30 - 18:20</td>
-          <td class="dd-table-talk-2"><strong>Mapas & Worldbuilding:</strong> <em>, con Patry Soler, Ana Luján, Marta Luján, Teresa Plaza. </em> Modera: Talita Isla.</td>
+          <td class="dd-table-talk-2"><strong>Mapas & Worldbuilding</strong><em>, con Patry Soler, Ana Luján, Marta Luján, Teresa Plaza. </em> Modera: Talita Isla.</td>
         </tr>
         <tr height="150">
           <td>18:30 - 19:20</td>
-          <td class="dd-table-talk-2"><strong>Mitología & Leyendas:</strong> <em>, con Alejandro Rodríguez, Max Ross, Sheila Navalón, Celia Añó. </em> Modera: Mireia Pérez.</td>
+          <td class="dd-table-talk-2"><strong>Mitología & Leyendas</strong><em>, con Alejandro Rodríguez, Max Ross, Sheila Navalón, Celia Añó. </em> Modera: Mireia Pérez.</td>
         </tr>
         <tr height="150">
           <td>20:00 - 20:45</td>
@@ -417,7 +417,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>17:30 - 18:20</td>
-          <td class="dd-table-talk"><strong>Finalistas premios Droide & Druida:</strong> <em>, con  Rocío Stevenson, JV Gachs, May López.</em> Modera: Elena Torró.</td>
+          <td class="dd-table-talk"><strong>Finalistas premios Droide & Druida</strong><em>, con  Rocío Stevenson, JV Gachs, May López.</em> Modera: Elena Torró.</td>
         </tr>
         <tr height="150">
           <td>18:30 - 19:20</td>
