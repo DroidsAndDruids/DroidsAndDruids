@@ -302,7 +302,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>13:00 - 13:50</td>
-          <td class="dd-table-workshop"><strong>Taller de narrativa interactiva II</strong><em>, con Pablo Medina y Yabel Blázquez</em></td>
+          <td class="dd-table-workshop"><strong>Taller de narrativa interactiva II</strong><em>, con Pablo Medina, Rocío Brea y Yabel Blázquez</em></td>
         </tr>
         <tr height="150">
           <td>14:00 - 14:20</td>
