@@ -73,7 +73,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>17:30 - 18:20</td>
-          <td class="dd-table-talk"><strong>Cómic & Novela gráfica</strong><em>, con Ángel Abellán, Chema Lajarín y Lara Carrión (Melancómica).</em> Modera: Alejandro Rodríguez.</td>
+          <td class="dd-table-talk"><strong>Cómic & Novela gráfica</strong><em>, con Ángel Abellán y Lara Carrión (Melancómica).</em> Modera: Alejandro Rodríguez.</td>
         </tr>
         <tr height="150">
           <td>18:30 - 19:20</td>
@@ -209,7 +209,7 @@ order: 6
       <tbody>
         <tr height="150">
           <td>10:00 - 10:50</td>
-          <td class="dd-table-talk"><strong>Relatos & Formato breve</strong><em>, con Gemma Solsona, Rocío Stevenson, Ana Saiz y Héctor Vielva.</em> Modera: Celia Corral-Vázquez</td>
+          <td class="dd-table-talk"><strong>Relatos & Formato breve</strong><em>, con Gemma Solsona, Rocío Stevenson, Ana Saiz.</em> Modera: Celia Corral-Vázquez</td>
         </tr>
         <tr height="150">
           <td>11:00 - 11:50</td>
@@ -221,7 +221,7 @@ order: 6
         </tr>
         <tr height="150">
           <td>13:00 - 13:50</td>
-          <td class="dd-table-talk"><strong>Fantástico & Rural</strong><em>, con Pablo Loperena, Ana B Nieto, JM Sala y Clara Dies.</em> Modera: Ana Saiz.</td>
+          <td class="dd-table-talk"><strong>Fantástico & Rural</strong><em>, con Pablo Loperena, Ana B Nieto y Clara Dies.</em> Modera: Ana Saiz.</td>
         </tr>
         <tr height="150">
           <td>14:00 - 14:20</td>
@@ -382,12 +382,12 @@ order: 6
     </thead>
     <tbody>
         <tr height="150">
-          <td>16:00 - 17:20</td>
+          <td>16:30 - 17:20</td>
           <td class="dd-table-talk-2"><strong>Fantasía & Música en los 80s: <em>No es serio este cementerio 🎵</em></strong><em>, con David Fernández.</em></td>
         </tr>
         <tr height="150">
           <td>17:30 - 18:20</td>
-          <td class="dd-table-talk-2"><strong>Mapas & Worldbuilding</strong><em>, con Patry Soler, Ana Luján, Marta Luján, Teresa Plaza. </em> Modera: Talita Isla.</td>
+          <td class="dd-table-talk-2"><strong>Mapas & Worldbuilding</strong><em>, con Patry Soler, Ana Luján, Marta Luján. </em> Modera: Talita Isla.</td>
         </tr>
         <tr height="150">
           <td>18:30 - 19:20</td>
@@ -412,7 +412,7 @@ order: 6
     </thead>
     <tbody>
         <tr height="150">
-          <td>16:00 - 17:20</td>
+          <td>16:30 - 17:20</td>
           <td class="dd-table-talk"><strong>Autopublicación</strong><em>, con Michel Gallego y Maido Rodénas.</em></td>
         </tr>
         <tr height="150">
