@@ -10,6 +10,7 @@ url:              https://droidsanddruids.com
 baseurl:          /
 
 social:
+  bluesky:        https://droidsanddruids.bsky.social
   twitter:        https://twitter.com/DroidsAndDruids
   instagram:      https://www.instagram.com/droidsanddruids/
   github:         https://github.com/DroidsAndDruids
